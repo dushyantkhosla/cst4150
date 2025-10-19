@@ -2998,3 +2998,253 @@ nohup: jupyter: No such file or directory
 [W 2025-10-18 15:56:32.729 ServerApp] delete /Untitled.ipynb
 [I 2025-10-18 15:56:43.570 ServerApp] Shutting down on /api/shutdown request.
 [I 2025-10-18 15:56:43.571 ServerApp] Shutting down 4 extensions
+[I 2025-10-19 13:44:40.058 ServerApp] jupyter_lsp | extension was successfully linked.
+[I 2025-10-19 13:44:40.059 ServerApp] jupyter_server_terminals | extension was successfully linked.
+[I 2025-10-19 13:44:40.060 ServerApp] jupyterlab | extension was successfully linked.
+[I 2025-10-19 13:44:40.539 ServerApp] notebook_shim | extension was successfully linked.
+[W 2025-10-19 13:44:40.574 ServerApp] WARNING: The Jupyter server is listening on all IP addresses and not using encryption. This is not recommended.
+[I 2025-10-19 13:44:40.574 ServerApp] notebook_shim | extension was successfully loaded.
+[I 2025-10-19 13:44:40.575 ServerApp] jupyter_lsp | extension was successfully loaded.
+[I 2025-10-19 13:44:40.576 ServerApp] jupyter_server_terminals | extension was successfully loaded.
+[I 2025-10-19 13:44:40.577 LabApp] JupyterLab extension loaded from /Users/dush/Code/cst4150/.fintech/lib/python3.14/site-packages/jupyterlab
+[I 2025-10-19 13:44:40.577 LabApp] JupyterLab application directory is /Users/dush/Code/cst4150/.fintech/share/jupyter/lab
+[I 2025-10-19 13:44:40.577 LabApp] Extension Manager is 'pypi'.
+[I 2025-10-19 13:44:40.623 ServerApp] jupyterlab | extension was successfully loaded.
+[I 2025-10-19 13:44:40.623 ServerApp] Serving notebooks from local directory: /Users/dush/Code/cst4150
+[I 2025-10-19 13:44:40.623 ServerApp] Jupyter Server 2.17.0 is running at:
+[I 2025-10-19 13:44:40.623 ServerApp] http://localhost:8888/lab?token=714dff690a7be21c7fb4e2e034716b30d4dc23efa40e3b14
+[I 2025-10-19 13:44:40.623 ServerApp]     http://127.0.0.1:8888/lab?token=714dff690a7be21c7fb4e2e034716b30d4dc23efa40e3b14
+[I 2025-10-19 13:44:40.623 ServerApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 2025-10-19 13:44:40.624 ServerApp] 
+    
+    To access the server, open this file in a browser:
+        file:/Users/dush/Library/Jupyter/runtime/jpserver-12680-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8888/lab?token=714dff690a7be21c7fb4e2e034716b30d4dc23efa40e3b14
+        http://127.0.0.1:8888/lab?token=714dff690a7be21c7fb4e2e034716b30d4dc23efa40e3b14
+[I 2025-10-19 13:44:40.724 ServerApp] Skipped non-installed server(s): basedpyright, bash-language-server, dockerfile-language-server-nodejs, javascript-typescript-langserver, jedi-language-server, julia-language-server, pyrefly, pyright, python-language-server, python-lsp-server, r-languageserver, sql-language-server, texlab, typescript-language-server, unified-language-server, vscode-css-languageserver-bin, vscode-html-languageserver-bin, vscode-json-languageserver-bin, yaml-language-server
+[I 2025-10-19 13:44:49.096 ServerApp] 302 GET /?token=[secret] (@::1) 1.37ms
+[W 2025-10-19 13:44:49.871 ServerApp] 404 GET /api/contents/Untitled.ipynb?content=0&hash=0&1760874289869 (c0caa8c02f8e4cc0bc6cb4b348316188@::1) 0.49ms referer=http://localhost:8888/lab
+[W 2025-10-19 13:44:49.871 ServerApp] 404 GET /api/contents/Untitled.ipynb?content=0&hash=0&1760874289869 (::1): No such file or directory: Untitled.ipynb
+[I 2025-10-19 13:44:49.927 LabApp] Build is up to date
+[W 2025-10-19 13:45:00.798 ServerApp] Notebook 03 Data Visualization/2-ipywidgets.ipynb is not trusted
+[I 2025-10-19 13:45:01.189 ServerApp] Kernel started: 58e18666-0668-4061-81bc-6505c78648b6
+[I 2025-10-19 13:45:02.413 ServerApp] Connecting to kernel 58e18666-0668-4061-81bc-6505c78648b6.
+[I 2025-10-19 13:45:02.414 ServerApp] Connecting to kernel 58e18666-0668-4061-81bc-6505c78648b6.
+[W 2025-10-19 13:45:02.415 ServerApp] The websocket_ping_timeout (90000) cannot be longer than the websocket_ping_interval (30000).
+    Setting websocket_ping_timeout=30000
+[I 2025-10-19 13:45:02.425 ServerApp] Connecting to kernel 58e18666-0668-4061-81bc-6505c78648b6.
+[I 2025-10-19 13:47:00.716 ServerApp] Starting buffering for 58e18666-0668-4061-81bc-6505c78648b6:11029e62-3e2d-4e42-90d7-a86c2d2cf092
+[I 2025-10-19 13:47:00.718 ServerApp] Kernel shutdown: 58e18666-0668-4061-81bc-6505c78648b6
+[W 2025-10-19 13:47:25.998 ServerApp] Notebook 03 Data Visualization/2-ipywidgets.ipynb is not trusted
+[I 2025-10-19 13:47:26.122 ServerApp] Kernel started: 6699a5de-c427-49f1-8569-2f5295ec7e1d
+[I 2025-10-19 13:47:26.448 ServerApp] Connecting to kernel 6699a5de-c427-49f1-8569-2f5295ec7e1d.
+[I 2025-10-19 13:47:30.046 ServerApp] Starting buffering for 6699a5de-c427-49f1-8569-2f5295ec7e1d:d098c3d4-4151-480b-9d23-891da9203e92
+[I 2025-10-19 13:47:30.048 ServerApp] Kernel shutdown: 6699a5de-c427-49f1-8569-2f5295ec7e1d
+[W 2025-10-19 13:49:38.622 ServerApp] Notebook 03 Data Visualization/2-ipywidgets.ipynb is not trusted
+[I 2025-10-19 13:49:38.775 ServerApp] Kernel started: 2fb7ed25-0ffa-4176-a8b5-3b4b923bd0f7
+[I 2025-10-19 13:49:38.997 ServerApp] Connecting to kernel 2fb7ed25-0ffa-4176-a8b5-3b4b923bd0f7.
+[I 2025-10-19 13:51:38.686 ServerApp] Saving file at /03 Data Visualization/2-ipywidgets.ipynb
+[W 2025-10-19 13:51:38.687 ServerApp] Notebook 03 Data Visualization/2-ipywidgets.ipynb is not trusted
+[I 2025-10-19 13:53:01.465 ServerApp] Kernel restarted: 2fb7ed25-0ffa-4176-a8b5-3b4b923bd0f7
+[I 2025-10-19 13:53:01.468 ServerApp] Starting buffering for 2fb7ed25-0ffa-4176-a8b5-3b4b923bd0f7:665ee9c1-68ad-4a84-a213-9257c8b3b1a3
+[I 2025-10-19 13:53:01.471 ServerApp] Connecting to kernel 2fb7ed25-0ffa-4176-a8b5-3b4b923bd0f7.
+[I 2025-10-19 13:53:01.471 ServerApp] Restoring connection for 2fb7ed25-0ffa-4176-a8b5-3b4b923bd0f7:665ee9c1-68ad-4a84-a213-9257c8b3b1a3
+[I 2025-10-19 13:53:38.727 ServerApp] Saving file at /03 Data Visualization/2-ipywidgets.ipynb
+[W 2025-10-19 13:53:38.728 ServerApp] Notebook 03 Data Visualization/2-ipywidgets.ipynb is not trusted
+[I 2025-10-19 13:55:38.770 ServerApp] Saving file at /03 Data Visualization/2-ipywidgets.ipynb
+[W 2025-10-19 13:55:38.771 ServerApp] Notebook 03 Data Visualization/2-ipywidgets.ipynb is not trusted
+[W 2025-10-19 13:56:21.198 ServerApp] delete /02 Numpy & Pandas/data
+[W 2025-10-19 13:56:25.758 ServerApp] delete /02 Numpy & Pandas/titanic.csv
+[W 2025-10-19 13:56:29.622 ServerApp] Notebook 02 Numpy & Pandas/Untitled.ipynb is not trusted
+[I 2025-10-19 13:56:29.753 ServerApp] Kernel started: 49f007d9-17f3-4189-a130-19d7eb4efae4
+[I 2025-10-19 13:56:29.955 ServerApp] Connecting to kernel 49f007d9-17f3-4189-a130-19d7eb4efae4.
+[I 2025-10-19 13:56:41.694 ServerApp] Starting buffering for 49f007d9-17f3-4189-a130-19d7eb4efae4:add818a3-695d-4083-aaa5-6ad1cce01c45
+[I 2025-10-19 13:56:41.695 ServerApp] Kernel shutdown: 49f007d9-17f3-4189-a130-19d7eb4efae4
+[I 2025-10-19 13:58:07.769 ServerApp] Creating new directory in 
+[I 2025-10-19 13:59:38.813 ServerApp] Saving file at /03-Data-Viz/2-ipywidgets.ipynb
+[W 2025-10-19 13:59:38.813 ServerApp] Notebook 03-Data-Viz/2-ipywidgets.ipynb is not trusted
+[I 2025-10-19 14:01:38.852 ServerApp] Saving file at /03-Data-Viz/2-ipywidgets.ipynb
+[W 2025-10-19 14:01:38.852 ServerApp] Notebook 03-Data-Viz/2-ipywidgets.ipynb is not trusted
+[I 2025-10-19 14:03:38.884 ServerApp] Saving file at /03-Data-Viz/2-ipywidgets.ipynb
+[W 2025-10-19 14:03:38.885 ServerApp] Notebook 03-Data-Viz/2-ipywidgets.ipynb is not trusted
+[I 2025-10-19 14:05:38.922 ServerApp] Saving file at /03-Data-Viz/2-ipywidgets.ipynb
+[W 2025-10-19 14:05:38.922 ServerApp] Notebook 03-Data-Viz/2-ipywidgets.ipynb is not trusted
+[I 2025-10-19 14:07:38.965 ServerApp] Saving file at /03-Data-Viz/2-ipywidgets.ipynb
+[W 2025-10-19 14:07:38.966 ServerApp] Notebook 03-Data-Viz/2-ipywidgets.ipynb is not trusted
+[I 2025-10-19 14:09:39.000 ServerApp] Saving file at /03-Data-Viz/2-ipywidgets.ipynb
+[W 2025-10-19 14:09:39.001 ServerApp] Notebook 03-Data-Viz/2-ipywidgets.ipynb is not trusted
+[I 2025-10-19 14:11:39.039 ServerApp] Saving file at /03-Data-Viz/2-ipywidgets.ipynb
+[W 2025-10-19 14:11:39.039 ServerApp] Notebook 03-Data-Viz/2-ipywidgets.ipynb is not trusted
+[I 2025-10-19 14:13:39.073 ServerApp] Saving file at /03-Data-Viz/2-ipywidgets.ipynb
+[W 2025-10-19 14:13:39.074 ServerApp] Notebook 03-Data-Viz/2-ipywidgets.ipynb is not trusted
+[I 2025-10-19 14:15:33.063 ServerApp] Starting buffering for 2fb7ed25-0ffa-4176-a8b5-3b4b923bd0f7:665ee9c1-68ad-4a84-a213-9257c8b3b1a3
+[I 2025-10-19 14:15:33.065 ServerApp] Connecting to kernel 2fb7ed25-0ffa-4176-a8b5-3b4b923bd0f7.
+[I 2025-10-19 14:15:33.065 ServerApp] Restoring connection for 2fb7ed25-0ffa-4176-a8b5-3b4b923bd0f7:665ee9c1-68ad-4a84-a213-9257c8b3b1a3
+[I 2025-10-19 14:15:39.595 ServerApp] Saving file at /03-Data-Viz/2-ipywidgets.ipynb
+[W 2025-10-19 14:15:39.595 ServerApp] Notebook 03-Data-Viz/2-ipywidgets.ipynb is not trusted
+[I 2025-10-19 15:16:26.038 ServerApp] Saving file at /03-Data-Viz/2-ipywidgets.ipynb
+[W 2025-10-19 15:16:26.040 ServerApp] Notebook 03-Data-Viz/2-ipywidgets.ipynb is not trusted
+[I 2025-10-19 15:18:26.066 ServerApp] Saving file at /03-Data-Viz/2-ipywidgets.ipynb
+[W 2025-10-19 15:18:26.067 ServerApp] Notebook 03-Data-Viz/2-ipywidgets.ipynb is not trusted
+[I 2025-10-19 15:18:53.975 ServerApp] Creating new notebook in /03-Data-Viz
+[I 2025-10-19 15:18:56.347 ServerApp] Kernel started: c388eabe-16f0-457f-a900-4d20da4e514e
+[I 2025-10-19 15:18:56.542 ServerApp] Connecting to kernel c388eabe-16f0-457f-a900-4d20da4e514e.
+[I 2025-10-19 15:19:16.337 ServerApp] Saving file at /03-Data-Viz/1-styling.ipynb
+[I 2025-10-19 15:19:17.038 ServerApp] Starting buffering for c388eabe-16f0-457f-a900-4d20da4e514e:9048c001-f57a-4e05-b325-5a8a4e0afb90
+[I 2025-10-19 15:19:17.040 ServerApp] Kernel shutdown: c388eabe-16f0-457f-a900-4d20da4e514e
+[I 2025-10-19 15:19:31.487 ServerApp] Starting buffering for 2fb7ed25-0ffa-4176-a8b5-3b4b923bd0f7:665ee9c1-68ad-4a84-a213-9257c8b3b1a3
+[I 2025-10-19 15:19:31.489 ServerApp] Kernel shutdown: 2fb7ed25-0ffa-4176-a8b5-3b4b923bd0f7
+[W 2025-10-19 15:19:33.716 ServerApp] Notebook 03-Data-Viz/2-ipywidgets.ipynb is not trusted
+[I 2025-10-19 15:19:33.868 ServerApp] Kernel started: 56fae3fd-146a-4623-bdc6-c8d5f6fc4939
+[I 2025-10-19 15:19:34.086 ServerApp] Connecting to kernel 56fae3fd-146a-4623-bdc6-c8d5f6fc4939.
+[I 2025-10-19 15:19:36.170 ServerApp] Starting buffering for 56fae3fd-146a-4623-bdc6-c8d5f6fc4939:2db6add5-9c81-40f6-af17-ef3ee730004d
+[I 2025-10-19 15:19:36.173 ServerApp] Kernel shutdown: 56fae3fd-146a-4623-bdc6-c8d5f6fc4939
+[W 2025-10-19 15:19:38.249 ServerApp] Notebook 03-Data-Viz/2-ipywidgets.ipynb is not trusted
+[I 2025-10-19 15:19:38.398 ServerApp] Kernel started: 4af4a3d5-d47f-4e03-b894-a2ac51d5f821
+[I 2025-10-19 15:19:38.738 ServerApp] Connecting to kernel 4af4a3d5-d47f-4e03-b894-a2ac51d5f821.
+[I 2025-10-19 15:21:38.292 ServerApp] Saving file at /03-Data-Viz/2-ipywidgets.ipynb
+[W 2025-10-19 15:21:38.293 ServerApp] Notebook 03-Data-Viz/2-ipywidgets.ipynb is not trusted
+[I 2025-10-19 15:23:38.324 ServerApp] Saving file at /03-Data-Viz/2-ipywidgets.ipynb
+[W 2025-10-19 15:23:38.325 ServerApp] Notebook 03-Data-Viz/2-ipywidgets.ipynb is not trusted
+[I 2025-10-19 15:24:35.518 ServerApp] Kernel started: 40bb211b-394d-437d-8438-228d841c7028
+[I 2025-10-19 15:24:35.730 ServerApp] Connecting to kernel 40bb211b-394d-437d-8438-228d841c7028.
+[I 2025-10-19 15:24:46.228 ServerApp] Starting buffering for 40bb211b-394d-437d-8438-228d841c7028:a80c4136-0f39-48b3-a4a0-74f323a02dde
+[I 2025-10-19 15:24:46.230 ServerApp] Kernel shutdown: 40bb211b-394d-437d-8438-228d841c7028
+[I 2025-10-19 15:24:57.641 ServerApp] Creating new file in /03-Data-Viz
+[W 2025-10-19 15:25:03.386 ServerApp] delete /03-Data-Viz/untitled.txt
+[I 2025-10-19 15:25:09.110 ServerApp] Creating new file in /03-Data-Viz
+[I 2025-10-19 15:25:31.383 ServerApp] Saving file at /03-Data-Viz/dataviz.py
+[I 2025-10-19 15:25:38.359 ServerApp] Saving file at /03-Data-Viz/2-ipywidgets.ipynb
+[W 2025-10-19 15:25:38.360 ServerApp] Notebook 03-Data-Viz/2-ipywidgets.ipynb is not trusted
+[I 2025-10-19 15:27:04.652 ServerApp] Saving file at /03-Data-Viz/dataviz.py
+[I 2025-10-19 15:27:11.747 ServerApp] Kernel restarted: 4af4a3d5-d47f-4e03-b894-a2ac51d5f821
+[I 2025-10-19 15:27:11.749 ServerApp] Starting buffering for 4af4a3d5-d47f-4e03-b894-a2ac51d5f821:225bd83a-88c2-468c-9b50-4fdcde6a04a4
+[I 2025-10-19 15:27:11.751 ServerApp] Connecting to kernel 4af4a3d5-d47f-4e03-b894-a2ac51d5f821.
+[I 2025-10-19 15:27:11.751 ServerApp] Restoring connection for 4af4a3d5-d47f-4e03-b894-a2ac51d5f821:225bd83a-88c2-468c-9b50-4fdcde6a04a4
+[I 2025-10-19 15:27:21.205 ServerApp] Kernel restarted: 4af4a3d5-d47f-4e03-b894-a2ac51d5f821
+[I 2025-10-19 15:27:21.208 ServerApp] Starting buffering for 4af4a3d5-d47f-4e03-b894-a2ac51d5f821:225bd83a-88c2-468c-9b50-4fdcde6a04a4
+[I 2025-10-19 15:27:21.210 ServerApp] Connecting to kernel 4af4a3d5-d47f-4e03-b894-a2ac51d5f821.
+[I 2025-10-19 15:27:21.210 ServerApp] Restoring connection for 4af4a3d5-d47f-4e03-b894-a2ac51d5f821:225bd83a-88c2-468c-9b50-4fdcde6a04a4
+[I 2025-10-19 15:27:38.392 ServerApp] Saving file at /03-Data-Viz/2-ipywidgets.ipynb
+[W 2025-10-19 15:27:38.393 ServerApp] Notebook 03-Data-Viz/2-ipywidgets.ipynb is not trusted
+[I 2025-10-19 15:29:38.426 ServerApp] Saving file at /03-Data-Viz/2-ipywidgets.ipynb
+[W 2025-10-19 15:29:38.426 ServerApp] Notebook 03-Data-Viz/2-ipywidgets.ipynb is not trusted
+[I 2025-10-19 15:31:38.460 ServerApp] Saving file at /03-Data-Viz/2-ipywidgets.ipynb
+[W 2025-10-19 15:31:38.461 ServerApp] Notebook 03-Data-Viz/2-ipywidgets.ipynb is not trusted
+[I 2025-10-19 15:33:38.490 ServerApp] Saving file at /03-Data-Viz/2-ipywidgets.ipynb
+[W 2025-10-19 15:33:38.490 ServerApp] Notebook 03-Data-Viz/2-ipywidgets.ipynb is not trusted
+[I 2025-10-19 15:35:38.552 ServerApp] Saving file at /03-Data-Viz/2-ipywidgets.ipynb
+[W 2025-10-19 15:35:38.552 ServerApp] Notebook 03-Data-Viz/2-ipywidgets.ipynb is not trusted
+[I 2025-10-19 15:37:38.598 ServerApp] Saving file at /03-Data-Viz/2-ipywidgets.ipynb
+[W 2025-10-19 15:37:38.599 ServerApp] Notebook 03-Data-Viz/2-ipywidgets.ipynb is not trusted
+[I 2025-10-19 15:39:38.620 ServerApp] Saving file at /03-Data-Viz/2-ipywidgets.ipynb
+[W 2025-10-19 15:39:38.621 ServerApp] Notebook 03-Data-Viz/2-ipywidgets.ipynb is not trusted
+[I 2025-10-19 15:41:38.647 ServerApp] Saving file at /03-Data-Viz/2-ipywidgets.ipynb
+[W 2025-10-19 15:41:38.648 ServerApp] Notebook 03-Data-Viz/2-ipywidgets.ipynb is not trusted
+[I 2025-10-19 15:43:38.680 ServerApp] Saving file at /03-Data-Viz/2-ipywidgets.ipynb
+[W 2025-10-19 15:43:38.681 ServerApp] Notebook 03-Data-Viz/2-ipywidgets.ipynb is not trusted
+[I 2025-10-19 15:44:00.683 ServerApp] Kernel interrupted: 4af4a3d5-d47f-4e03-b894-a2ac51d5f821
+[I 2025-10-19 15:44:39.022 ServerApp] Kernel restarted: 4af4a3d5-d47f-4e03-b894-a2ac51d5f821
+[I 2025-10-19 15:44:39.025 ServerApp] Starting buffering for 4af4a3d5-d47f-4e03-b894-a2ac51d5f821:225bd83a-88c2-468c-9b50-4fdcde6a04a4
+[I 2025-10-19 15:44:39.028 ServerApp] Connecting to kernel 4af4a3d5-d47f-4e03-b894-a2ac51d5f821.
+[I 2025-10-19 15:44:39.028 ServerApp] Restoring connection for 4af4a3d5-d47f-4e03-b894-a2ac51d5f821:225bd83a-88c2-468c-9b50-4fdcde6a04a4
+[I 2025-10-19 15:45:38.710 ServerApp] Saving file at /03-Data-Viz/2-ipywidgets.ipynb
+[W 2025-10-19 15:45:38.711 ServerApp] Notebook 03-Data-Viz/2-ipywidgets.ipynb is not trusted
+[I 2025-10-19 15:47:38.748 ServerApp] Saving file at /03-Data-Viz/2-ipywidgets.ipynb
+[W 2025-10-19 15:47:38.749 ServerApp] Notebook 03-Data-Viz/2-ipywidgets.ipynb is not trusted
+[I 2025-10-19 15:49:38.787 ServerApp] Saving file at /03-Data-Viz/2-ipywidgets.ipynb
+[W 2025-10-19 15:49:38.787 ServerApp] Notebook 03-Data-Viz/2-ipywidgets.ipynb is not trusted
+[I 2025-10-19 15:51:38.822 ServerApp] Saving file at /03-Data-Viz/2-ipywidgets.ipynb
+[W 2025-10-19 15:51:38.823 ServerApp] Notebook 03-Data-Viz/2-ipywidgets.ipynb is not trusted
+[I 2025-10-19 15:53:38.868 ServerApp] Saving file at /03-Data-Viz/2-ipywidgets.ipynb
+[W 2025-10-19 15:53:38.869 ServerApp] Notebook 03-Data-Viz/2-ipywidgets.ipynb is not trusted
+[I 2025-10-19 15:55:38.903 ServerApp] Saving file at /03-Data-Viz/2-ipywidgets.ipynb
+[W 2025-10-19 15:55:38.904 ServerApp] Notebook 03-Data-Viz/2-ipywidgets.ipynb is not trusted
+[I 2025-10-19 15:57:16.047 ServerApp] Saving file at /03-Data-Viz/2-ipywidgets.ipynb
+[I 2025-10-19 15:57:18.171 ServerApp] Starting buffering for 4af4a3d5-d47f-4e03-b894-a2ac51d5f821:225bd83a-88c2-468c-9b50-4fdcde6a04a4
+[I 2025-10-19 15:57:18.174 ServerApp] Kernel shutdown: 4af4a3d5-d47f-4e03-b894-a2ac51d5f821
+[W 2025-10-19 15:57:21.299 ServerApp] Notebook 03-Data-Viz/3-seaborn.ipynb is not trusted
+[I 2025-10-19 15:57:21.441 ServerApp] Kernel started: 5a0547d4-4bf8-4177-9765-f1224ae1ca7e
+[I 2025-10-19 15:57:21.671 ServerApp] Connecting to kernel 5a0547d4-4bf8-4177-9765-f1224ae1ca7e.
+[I 2025-10-19 15:59:21.363 ServerApp] Saving file at /03-Data-Viz/3-seaborn.ipynb
+[W 2025-10-19 15:59:21.365 ServerApp] Notebook 03-Data-Viz/3-seaborn.ipynb is not trusted
+[I 2025-10-19 16:01:21.427 ServerApp] Saving file at /03-Data-Viz/3-seaborn.ipynb
+[W 2025-10-19 16:01:21.428 ServerApp] Notebook 03-Data-Viz/3-seaborn.ipynb is not trusted
+[I 2025-10-19 16:03:21.490 ServerApp] Saving file at /03-Data-Viz/3-seaborn.ipynb
+[W 2025-10-19 16:03:21.491 ServerApp] Notebook 03-Data-Viz/3-seaborn.ipynb is not trusted
+[I 2025-10-19 16:05:21.556 ServerApp] Saving file at /03-Data-Viz/3-seaborn.ipynb
+[W 2025-10-19 16:05:21.558 ServerApp] Notebook 03-Data-Viz/3-seaborn.ipynb is not trusted
+[I 2025-10-19 16:07:13.249 ServerApp] Starting buffering for 5a0547d4-4bf8-4177-9765-f1224ae1ca7e:0988654b-2aa6-4d39-b75c-11484600155b
+[I 2025-10-19 16:07:13.251 ServerApp] Kernel shutdown: 5a0547d4-4bf8-4177-9765-f1224ae1ca7e
+[W 2025-10-19 16:07:32.150 ServerApp] delete /03-Data-Viz/3-seaborn.ipynb
+[W 2025-10-19 16:07:35.848 ServerApp] Notebook 03-Data-Viz/data-viz-livecoded.ipynb is not trusted
+[I 2025-10-19 16:07:35.977 ServerApp] Kernel started: c6ddd7a8-df4b-4252-85d4-fe6a7b5f9f14
+[I 2025-10-19 16:07:36.168 ServerApp] Connecting to kernel c6ddd7a8-df4b-4252-85d4-fe6a7b5f9f14.
+[I 2025-10-19 16:07:47.564 ServerApp] Starting buffering for c6ddd7a8-df4b-4252-85d4-fe6a7b5f9f14:1be5ce2e-2997-409b-8929-ebf9504bd2c9
+[I 2025-10-19 16:07:47.566 ServerApp] Kernel shutdown: c6ddd7a8-df4b-4252-85d4-fe6a7b5f9f14
+[I 2025-10-19 16:08:01.178 ServerApp] New terminal with automatic name: 1
+[I 2025-10-19 16:08:12.279 ServerApp] EOF on FD 15; stopping reading
+[I 2025-10-19 16:08:12.385 ServerApp] Terminal 1 closed
+[I 2025-10-19 16:19:37.131 ServerApp] Shutting down on /api/shutdown request.
+[I 2025-10-19 16:19:37.132 ServerApp] Shutting down 4 extensions
+[I 2025-10-19 16:21:07.525 ServerApp] jupyter_lsp | extension was successfully linked.
+[I 2025-10-19 16:21:07.526 ServerApp] jupyter_server_terminals | extension was successfully linked.
+[I 2025-10-19 16:21:07.527 ServerApp] jupyterlab | extension was successfully linked.
+[I 2025-10-19 16:21:07.995 ServerApp] notebook_shim | extension was successfully linked.
+[W 2025-10-19 16:21:08.043 ServerApp] WARNING: The Jupyter server is listening on all IP addresses and not using encryption. This is not recommended.
+[I 2025-10-19 16:21:08.043 ServerApp] notebook_shim | extension was successfully loaded.
+[I 2025-10-19 16:21:08.044 ServerApp] jupyter_lsp | extension was successfully loaded.
+[I 2025-10-19 16:21:08.044 ServerApp] jupyter_server_terminals | extension was successfully loaded.
+[I 2025-10-19 16:21:08.045 LabApp] JupyterLab extension loaded from /Users/dush/Code/cst4150/.fintech/lib/python3.13/site-packages/jupyterlab
+[I 2025-10-19 16:21:08.045 LabApp] JupyterLab application directory is /Users/dush/Code/cst4150/.fintech/share/jupyter/lab
+[I 2025-10-19 16:21:08.045 LabApp] Extension Manager is 'pypi'.
+[I 2025-10-19 16:21:08.094 ServerApp] jupyterlab | extension was successfully loaded.
+[I 2025-10-19 16:21:08.094 ServerApp] Serving notebooks from local directory: /Users/dush/Code/cst4150
+[I 2025-10-19 16:21:08.094 ServerApp] Jupyter Server 2.17.0 is running at:
+[I 2025-10-19 16:21:08.094 ServerApp] http://localhost:8888/lab?token=e743926a261ae0ce3ac9e0fedc5eddde0bccafa5c337087c
+[I 2025-10-19 16:21:08.094 ServerApp]     http://127.0.0.1:8888/lab?token=e743926a261ae0ce3ac9e0fedc5eddde0bccafa5c337087c
+[I 2025-10-19 16:21:08.094 ServerApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 2025-10-19 16:21:08.095 ServerApp] 
+    
+    To access the server, open this file in a browser:
+        file:///Users/dush/Library/Jupyter/runtime/jpserver-15926-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8888/lab?token=e743926a261ae0ce3ac9e0fedc5eddde0bccafa5c337087c
+        http://127.0.0.1:8888/lab?token=e743926a261ae0ce3ac9e0fedc5eddde0bccafa5c337087c
+[I 2025-10-19 16:21:08.189 ServerApp] Skipped non-installed server(s): basedpyright, bash-language-server, dockerfile-language-server-nodejs, javascript-typescript-langserver, jedi-language-server, julia-language-server, pyrefly, pyright, python-language-server, python-lsp-server, r-languageserver, sql-language-server, texlab, typescript-language-server, unified-language-server, vscode-css-languageserver-bin, vscode-html-languageserver-bin, vscode-json-languageserver-bin, yaml-language-server
+[W 2025-10-19 16:21:18.305 ServerApp] 404 GET /api/contents/03-Data-Viz/3-seaborn.ipynb?content=0&hash=0&1760883678299 (c0caa8c02f8e4cc0bc6cb4b348316188@::1) 1.07ms referer=http://localhost:8888/lab/tree/03-Data-Viz
+[W 2025-10-19 16:21:18.305 ServerApp] 404 GET /api/contents/03-Data-Viz/3-seaborn.ipynb?content=0&hash=0&1760883678299 (::1): No such file or directory: 03-Data-Viz/3-seaborn.ipynb
+[W 2025-10-19 16:21:18.307 ServerApp] 404 GET /api/contents/03-Data-Viz/untitled.py?content=0&hash=0&1760883678300 (c0caa8c02f8e4cc0bc6cb4b348316188@::1) 1.02ms referer=http://localhost:8888/lab/tree/03-Data-Viz
+[W 2025-10-19 16:21:18.307 ServerApp] 404 GET /api/contents/03-Data-Viz/untitled.py?content=0&hash=0&1760883678300 (::1): No such file or directory: 03-Data-Viz/untitled.py
+[W 2025-10-19 16:21:18.308 ServerApp] 404 GET /api/contents/03-Data-Viz/untitled.txt?content=0&hash=0&1760883678300 (c0caa8c02f8e4cc0bc6cb4b348316188@::1) 0.77ms referer=http://localhost:8888/lab/tree/03-Data-Viz
+[W 2025-10-19 16:21:18.308 ServerApp] 404 GET /api/contents/03-Data-Viz/untitled.txt?content=0&hash=0&1760883678300 (::1): No such file or directory: 03-Data-Viz/untitled.txt
+[W 2025-10-19 16:21:18.309 ServerApp] 404 GET /api/contents/03-Data-Viz/Untitled.ipynb?content=0&hash=0&1760883678300 (c0caa8c02f8e4cc0bc6cb4b348316188@::1) 1.28ms referer=http://localhost:8888/lab/tree/03-Data-Viz
+[W 2025-10-19 16:21:18.309 ServerApp] 404 GET /api/contents/03-Data-Viz/Untitled.ipynb?content=0&hash=0&1760883678300 (::1): No such file or directory: 03-Data-Viz/Untitled.ipynb
+[W 2025-10-19 16:21:18.311 ServerApp] 404 GET /api/contents/03-Data-Viz/3-seaborn.ipynb?content=0&hash=0&1760883678301 (c0caa8c02f8e4cc0bc6cb4b348316188@::1) 0.52ms referer=http://localhost:8888/lab/tree/03-Data-Viz
+[W 2025-10-19 16:21:18.311 ServerApp] 404 GET /api/contents/03-Data-Viz/3-seaborn.ipynb?content=0&hash=0&1760883678301 (::1): No such file or directory: 03-Data-Viz/3-seaborn.ipynb
+[W 2025-10-19 16:21:18.312 ServerApp] 404 GET /api/contents/03-Data-Viz/untitled.txt?content=0&hash=0&1760883678301 (c0caa8c02f8e4cc0bc6cb4b348316188@::1) 1.02ms referer=http://localhost:8888/lab/tree/03-Data-Viz
+[W 2025-10-19 16:21:18.312 ServerApp] 404 GET /api/contents/03-Data-Viz/untitled.txt?content=0&hash=0&1760883678301 (::1): No such file or directory: 03-Data-Viz/untitled.txt
+[W 2025-10-19 16:21:18.314 ServerApp] 404 GET /api/contents/02%20Numpy%20%26%20Pandas/Untitled.ipynb?content=0&hash=0&1760883678301 (c0caa8c02f8e4cc0bc6cb4b348316188@::1) 1.28ms referer=http://localhost:8888/lab/tree/03-Data-Viz
+[W 2025-10-19 16:21:18.314 ServerApp] 404 GET /api/contents/02%20Numpy%20%26%20Pandas/Untitled.ipynb?content=0&hash=0&1760883678301 (::1): No such file or directory: 02 Numpy & Pandas/Untitled.ipynb
+[W 2025-10-19 16:21:18.315 ServerApp] 404 GET /api/contents/03%20Data%20Visualization/2-ipywidgets.ipynb?content=0&hash=0&1760883678301 (c0caa8c02f8e4cc0bc6cb4b348316188@::1) 1.34ms referer=http://localhost:8888/lab/tree/03-Data-Viz
+[W 2025-10-19 16:21:18.315 ServerApp] 404 GET /api/contents/03%20Data%20Visualization/2-ipywidgets.ipynb?content=0&hash=0&1760883678301 (::1): No such file or directory: 03 Data Visualization/2-ipywidgets.ipynb
+[I 2025-10-19 16:21:18.454 LabApp] Build is up to date
+[I 2025-10-19 16:55:48.104 ServerApp] Saving file at /03-Data-Viz/5-streamlit.py
+[I 2025-10-19 16:56:03.312 ServerApp] Saving file at /03-Data-Viz/5-streamlit.py
+[W 2025-10-19 16:59:24.616 ServerApp] Notebook 03-Data-Viz/data-viz-livecoded.ipynb is not trusted
+[I 2025-10-19 16:59:24.744 ServerApp] Kernel started: 4c456b5b-25a1-4deb-b532-fd2bd7f403c1
+[I 2025-10-19 16:59:26.028 ServerApp] Connecting to kernel 4c456b5b-25a1-4deb-b532-fd2bd7f403c1.
+[I 2025-10-19 16:59:26.029 ServerApp] Connecting to kernel 4c456b5b-25a1-4deb-b532-fd2bd7f403c1.
+[W 2025-10-19 16:59:26.030 ServerApp] The websocket_ping_timeout (90000) cannot be longer than the websocket_ping_interval (30000).
+    Setting websocket_ping_timeout=30000
+[I 2025-10-19 16:59:26.041 ServerApp] Connecting to kernel 4c456b5b-25a1-4deb-b532-fd2bd7f403c1.
+[I 2025-10-19 17:00:03.507 ServerApp] Starting buffering for 4c456b5b-25a1-4deb-b532-fd2bd7f403c1:17da6dc4-9d96-4a6a-a903-fd11198c3b22
+[I 2025-10-19 17:00:03.843 ServerApp] Connecting to kernel 4c456b5b-25a1-4deb-b532-fd2bd7f403c1.
+[I 2025-10-19 17:00:03.852 ServerApp] Starting buffering for 4c456b5b-25a1-4deb-b532-fd2bd7f403c1:fa5f4797-2431-4c17-9734-a7ecbfce3637
+[I 2025-10-19 17:00:04.364 LabApp] Build is up to date
+[W 2025-10-19 17:00:04.796 ServerApp] Notebook 03-Data-Viz/data-viz-livecoded.ipynb is not trusted
+[I 2025-10-19 17:00:04.986 ServerApp] Connecting to kernel 4c456b5b-25a1-4deb-b532-fd2bd7f403c1.
+[I 2025-10-19 17:00:38.552 ServerApp] Kernel shutdown: 4c456b5b-25a1-4deb-b532-fd2bd7f403c1
+[I 2025-10-19 17:00:38.775 ServerApp] Shutting down on /api/shutdown request.
+[I 2025-10-19 17:00:38.777 ServerApp] Shutting down 4 extensions

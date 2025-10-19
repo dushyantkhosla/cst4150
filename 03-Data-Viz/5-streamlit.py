@@ -15,7 +15,7 @@ st.sidebar.header("Settings")
 # Dropdown for dataset selection
 dataset_option = st.sidebar.selectbox(
     "Choose a dataset",
-    ("Iris", "Titanic", "Boston Housing")
+    ("Iris", "Titanic")
 )
 
 # Main body
@@ -32,10 +32,6 @@ def load_data(dataset):
         from sklearn.datasets import load_iris
         iris = load_iris()
         return pd.DataFrame(iris.data, columns=iris.feature_names)
-    elif dataset == "Boston Housing":
-        from sklearn.datasets import load_boston
-        boston = load_boston()
-        return pd.DataFrame(boston.data, columns=boston.feature_names)
 
 # Load the selected dataset
 data = load_data(dataset_option)
