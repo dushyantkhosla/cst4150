@@ -25,13 +25,11 @@ st.header(f"Exploring {dataset_option} Dataset")
 @st.cache_data
 def load_data(dataset):
     if dataset == "Titanic":
-        import seaborn as sns
         titanic = sns.load_dataset('titanic')
         return titanic
     elif dataset == "Iris":
-        from sklearn.datasets import load_iris
-        iris = load_iris()
-        return pd.DataFrame(iris.data, columns=iris.feature_names)
+        iris = sns.load_dataset('iris')
+        return iris
 
 # Load the selected dataset
 data = load_data(dataset_option)
@@ -64,17 +62,14 @@ if dataset_option == "Iris":
 # Seaborn barchart
 import matplotlib.pyplot as plt
 st.subheader("Seaborn Bar Chart")
-fig, ax = plt.subplots(figsize=(3, 4))
+fig, ax = plt.subplots()
 
 if dataset_option == "Iris":
-    sns.barplot(x="species", y="sepal length (cm)", data=load_data("Iris"), ax=ax)
+    sns.barplot(x="species", y="sepal_length", data=load_data("Iris"), ax=ax)
     plt.title("Average Sepal Length by Species")
 elif dataset_option == "Titanic":
     sns.barplot(x="class", y="fare", data=load_data("Titanic"), ax=ax)
     plt.title("Average Fare by Passenger Class")
-elif dataset_option == "Boston Housing":
-    sns.barplot(x="RAD", y="PRICE", data="Boston Housing", ax=ax)
-    plt.title("Average House Price by RAD (Index of accessibility to radial highways)")
 
 plt.xlabel(ax.get_xlabel(), fontsize=12)
 plt.ylabel(ax.get_ylabel(), fontsize=12)
