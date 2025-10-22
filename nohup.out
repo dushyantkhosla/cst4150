@@ -3302,3 +3302,1354 @@ nohup: jupyter: No such file or directory
 [I 2025-10-19 17:54:39.441 ServerApp] Saving file at /03-Data-Viz/5-streamlit.py
 [I 2025-10-19 17:55:40.464 ServerApp] Saving file at /03-Data-Viz/5-streamlit.py
 [I 2025-10-19 17:56:26.424 ServerApp] Saving file at /03-Data-Viz/5-streamlit.py
+[I 2025-10-19 17:57:42.025 ServerApp] Saving file at /03-Data-Viz/5-streamlit.ipynb
+[I 2025-10-19 17:57:51.054 ServerApp] Saving file at /03-Data-Viz/5-streamlit.ipynb
+[I 2025-10-19 17:57:52.607 ServerApp] Starting buffering for 35bc547c-7dfb-4d86-b3ea-d8db0a68df1b:cb367008-f5c4-4439-9c21-b1c160e3c12e
+[I 2025-10-19 17:57:52.609 ServerApp] Kernel shutdown: 35bc547c-7dfb-4d86-b3ea-d8db0a68df1b
+[I 2025-10-19 17:57:55.383 ServerApp] Starting buffering for 0210dc19-f238-42d7-b6ee-7883ebe5a781:6add3385-0eb0-413f-880e-92d3d292bf1a
+[I 2025-10-19 17:57:55.385 ServerApp] Kernel shutdown: 0210dc19-f238-42d7-b6ee-7883ebe5a781
+[W 2025-10-19 22:12:41.303 ServerApp] Notebook 04-Statistics/Stats-in-class-notebook.ipynb is not trusted
+[I 2025-10-19 22:12:41.416 ServerApp] Kernel started: b1afb286-31e6-4b6e-8349-dcd2ce5a11bf
+[I 2025-10-19 22:12:41.677 ServerApp] Connecting to kernel b1afb286-31e6-4b6e-8349-dcd2ce5a11bf.
+[I 2025-10-19 22:13:58.744 ServerApp] Starting buffering for b1afb286-31e6-4b6e-8349-dcd2ce5a11bf:6b68c09b-3d45-435c-bbff-675c9b28aa88
+[I 2025-10-19 22:13:58.746 ServerApp] Kernel shutdown: b1afb286-31e6-4b6e-8349-dcd2ce5a11bf
+[W 2025-10-19 22:35:44.906 ServerApp] Notebook 04-Statistics/Stats-in-class-notebook.ipynb is not trusted
+[I 2025-10-19 22:35:45.042 ServerApp] Kernel started: c94258db-ec07-4d90-bf32-e8afd2066bac
+[I 2025-10-19 22:35:45.333 ServerApp] Connecting to kernel c94258db-ec07-4d90-bf32-e8afd2066bac.
+[I 2025-10-19 22:37:44.957 ServerApp] Saving file at /04-Statistics/Stats-in-class-notebook.ipynb
+[W 2025-10-19 22:37:45.029 ServerApp] Notebook 04-Statistics/Stats-in-class-notebook.ipynb is not trusted
+[I 2025-10-19 22:39:45.061 ServerApp] Saving file at /04-Statistics/Stats-in-class-notebook.ipynb
+[W 2025-10-19 22:39:45.062 ServerApp] Notebook 04-Statistics/Stats-in-class-notebook.ipynb is not trusted
+[I 2025-10-19 22:41:45.130 ServerApp] Saving file at /04-Statistics/Stats-in-class-notebook.ipynb
+[W 2025-10-19 22:41:45.131 ServerApp] Notebook 04-Statistics/Stats-in-class-notebook.ipynb is not trusted
+[I 2025-10-19 22:43:46.130 ServerApp] Saving file at /04-Statistics/Stats-in-class-notebook.ipynb
+[W 2025-10-19 22:43:46.131 ServerApp] Notebook 04-Statistics/Stats-in-class-notebook.ipynb is not trusted
+[I 2025-10-19 22:45:47.133 ServerApp] Saving file at /04-Statistics/Stats-in-class-notebook.ipynb
+[W 2025-10-19 22:45:47.133 ServerApp] Notebook 04-Statistics/Stats-in-class-notebook.ipynb is not trusted
+[I 2025-10-19 22:51:13.439 ServerApp] Kernel shutdown: c94258db-ec07-4d90-bf32-e8afd2066bac
+[I 2025-10-19 22:51:13.965 ServerApp] Shutting down on /api/shutdown request.
+[I 2025-10-19 22:51:13.967 ServerApp] Shutting down 4 extensions
+[I 2025-10-19 22:51:38.275 ServerApp] jupyter_lsp | extension was successfully linked.
+[I 2025-10-19 22:51:38.277 ServerApp] jupyter_server_terminals | extension was successfully linked.
+[I 2025-10-19 22:51:38.278 ServerApp] jupyterlab | extension was successfully linked.
+[I 2025-10-19 22:51:38.348 ServerApp] notebook_shim | extension was successfully linked.
+[W 2025-10-19 22:51:38.371 ServerApp] WARNING: The Jupyter server is listening on all IP addresses and not using encryption. This is not recommended.
+[I 2025-10-19 22:51:38.371 ServerApp] notebook_shim | extension was successfully loaded.
+[I 2025-10-19 22:51:38.372 ServerApp] jupyter_lsp | extension was successfully loaded.
+[I 2025-10-19 22:51:38.373 ServerApp] jupyter_server_terminals | extension was successfully loaded.
+[I 2025-10-19 22:51:38.374 LabApp] JupyterLab extension loaded from /Users/dush/Code/cst4150/.fintech/lib/python3.13/site-packages/jupyterlab
+[I 2025-10-19 22:51:38.374 LabApp] JupyterLab application directory is /Users/dush/Code/cst4150/.fintech/share/jupyter/lab
+[I 2025-10-19 22:51:38.374 LabApp] Extension Manager is 'pypi'.
+[I 2025-10-19 22:51:38.393 ServerApp] jupyterlab | extension was successfully loaded.
+[I 2025-10-19 22:51:38.394 ServerApp] Serving notebooks from local directory: /Users/dush/Code/cst4150
+[I 2025-10-19 22:51:38.394 ServerApp] Jupyter Server 2.17.0 is running at:
+[I 2025-10-19 22:51:38.394 ServerApp] http://localhost:8888/lab?token=225bd3ec88768a3b535801562e28c927f983dbda000dd174
+[I 2025-10-19 22:51:38.394 ServerApp]     http://127.0.0.1:8888/lab?token=225bd3ec88768a3b535801562e28c927f983dbda000dd174
+[I 2025-10-19 22:51:38.394 ServerApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 2025-10-19 22:51:38.395 ServerApp] 
+    
+    To access the server, open this file in a browser:
+        file:///Users/dush/Library/Jupyter/runtime/jpserver-23339-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8888/lab?token=225bd3ec88768a3b535801562e28c927f983dbda000dd174
+        http://127.0.0.1:8888/lab?token=225bd3ec88768a3b535801562e28c927f983dbda000dd174
+[I 2025-10-19 22:51:38.476 ServerApp] Skipped non-installed server(s): basedpyright, bash-language-server, dockerfile-language-server-nodejs, javascript-typescript-langserver, jedi-language-server, julia-language-server, pyrefly, pyright, python-language-server, python-lsp-server, r-languageserver, sql-language-server, texlab, typescript-language-server, unified-language-server, vscode-css-languageserver-bin, vscode-html-languageserver-bin, vscode-json-languageserver-bin, yaml-language-server
+[I 2025-10-19 22:51:43.294 ServerApp] 302 GET /?token=[secret] (@::1) 0.63ms
+[W 2025-10-19 22:51:43.860 ServerApp] 404 GET /api/contents/03-Data-Viz/Untitled.ipynb?content=0&hash=0&1760907103854 (c0caa8c02f8e4cc0bc6cb4b348316188@::1) 1.37ms referer=http://localhost:8888/lab
+[W 2025-10-19 22:51:43.860 ServerApp] 404 GET /api/contents/03-Data-Viz/Untitled.ipynb?content=0&hash=0&1760907103854 (::1): No such file or directory: 03-Data-Viz/Untitled.ipynb
+[W 2025-10-19 22:51:43.861 ServerApp] 404 GET /api/contents/03-Data-Viz/5-streamlit.ipynb?content=0&hash=0&1760907103854 (c0caa8c02f8e4cc0bc6cb4b348316188@::1) 1.94ms referer=http://localhost:8888/lab
+[W 2025-10-19 22:51:43.861 ServerApp] 404 GET /api/contents/03-Data-Viz/5-streamlit.ipynb?content=0&hash=0&1760907103854 (::1): No such file or directory: 03-Data-Viz/5-streamlit.ipynb
+[W 2025-10-19 22:51:43.862 ServerApp] 404 GET /api/contents/03-Data-Viz/5-streamlit.py?content=0&hash=0&1760907103854 (c0caa8c02f8e4cc0bc6cb4b348316188@::1) 1.44ms referer=http://localhost:8888/lab
+[W 2025-10-19 22:51:43.862 ServerApp] 404 GET /api/contents/03-Data-Viz/5-streamlit.py?content=0&hash=0&1760907103854 (::1): No such file or directory: 03-Data-Viz/5-streamlit.py
+[W 2025-10-19 22:51:43.864 ServerApp] 404 GET /api/contents/03-Data-Viz/5-streamlit.py?content=0&hash=0&1760907103855 (c0caa8c02f8e4cc0bc6cb4b348316188@::1) 1.06ms referer=http://localhost:8888/lab
+[W 2025-10-19 22:51:43.864 ServerApp] 404 GET /api/contents/03-Data-Viz/5-streamlit.py?content=0&hash=0&1760907103855 (::1): No such file or directory: 03-Data-Viz/5-streamlit.py
+[W 2025-10-19 22:51:43.865 ServerApp] 404 GET /api/contents/03-Data-Viz/5-streamlit.ipynb?content=0&hash=0&1760907103855 (c0caa8c02f8e4cc0bc6cb4b348316188@::1) 0.81ms referer=http://localhost:8888/lab
+[W 2025-10-19 22:51:43.865 ServerApp] 404 GET /api/contents/03-Data-Viz/5-streamlit.ipynb?content=0&hash=0&1760907103855 (::1): No such file or directory: 03-Data-Viz/5-streamlit.ipynb
+[I 2025-10-19 22:51:43.947 LabApp] Build is up to date
+[W 2025-10-19 22:51:43.972 ServerApp] Notebook 04-Statistics/Stats-in-class-notebook.ipynb is not trusted
+[I 2025-10-19 22:51:44.083 ServerApp] Kernel started: 1343eb2f-6cd8-4fad-9986-24a3a3594418
+[I 2025-10-19 22:51:44.421 ServerApp] Connecting to kernel 1343eb2f-6cd8-4fad-9986-24a3a3594418.
+[I 2025-10-19 22:51:44.423 ServerApp] Connecting to kernel 1343eb2f-6cd8-4fad-9986-24a3a3594418.
+[W 2025-10-19 22:51:44.424 ServerApp] The websocket_ping_timeout (90000) cannot be longer than the websocket_ping_interval (30000).
+    Setting websocket_ping_timeout=30000
+[I 2025-10-19 22:51:44.435 ServerApp] Connecting to kernel 1343eb2f-6cd8-4fad-9986-24a3a3594418.
+[I 2025-10-19 22:51:47.927 ServerApp] Creating new notebook in /04-Statistics
+[I 2025-10-19 22:51:50.925 ServerApp] Kernel started: 518b808e-38bf-4190-a7cf-634ed6991804
+[I 2025-10-19 22:51:51.252 ServerApp] Connecting to kernel 518b808e-38bf-4190-a7cf-634ed6991804.
+[I 2025-10-19 22:53:48.139 ServerApp] Saving file at /04-Statistics/Untitled.ipynb
+[I 2025-10-19 22:57:49.144 ServerApp] Saving file at /04-Statistics/Untitled.ipynb
+[I 2025-10-19 22:59:49.170 ServerApp] Saving file at /04-Statistics/Untitled.ipynb
+[IPKernelApp] ERROR | Exception in message handler:
+Traceback (most recent call last):
+  File "/Users/dush/Code/cst4150/.fintech/lib/python3.13/site-packages/ipykernel/kernelbase.py", line 469, in dispatch_shell
+    await result
+  File "/Users/dush/Code/cst4150/.fintech/lib/python3.13/site-packages/ipykernel/kernelbase.py", line 988, in inspect_request
+    reply_content = self.do_inspect(
+        content["code"],
+    ...<2 lines>...
+        set(content.get("omit_sections", [])),
+    )
+  File "/Users/dush/Code/cst4150/.fintech/lib/python3.13/site-packages/ipykernel/ipkernel.py", line 610, in do_inspect
+    bundle = self.shell.object_inspect_mime(
+        name,
+        detail_level=detail_level,
+        omit_sections=omit_sections,
+    )
+  File "/Users/dush/Code/cst4150/.fintech/lib/python3.13/site-packages/IPython/core/interactiveshell.py", line 1913, in object_inspect_mime
+    return self.inspector._get_info(
+           ~~~~~~~~~~~~~~~~~~~~~~~~^
+        info.obj,
+        ^^^^^^^^^
+    ...<4 lines>...
+        omit_sections=omit_sections,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/Users/dush/Code/cst4150/.fintech/lib/python3.13/site-packages/IPython/core/oinspect.py", line 775, in _get_info
+    info_dict = self.info(obj, oname=oname, info=info, detail_level=detail_level)
+  File "/Users/dush/Code/cst4150/.fintech/lib/python3.13/site-packages/IPython/core/oinspect.py", line 890, in info
+    parents_docs = parents_docs_dict.get(att_name, None)
+                   ^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get'
+[IPKernelApp] ERROR | Exception in message handler:
+Traceback (most recent call last):
+  File "/Users/dush/Code/cst4150/.fintech/lib/python3.13/site-packages/ipykernel/kernelbase.py", line 469, in dispatch_shell
+    await result
+  File "/Users/dush/Code/cst4150/.fintech/lib/python3.13/site-packages/ipykernel/kernelbase.py", line 988, in inspect_request
+    reply_content = self.do_inspect(
+        content["code"],
+    ...<2 lines>...
+        set(content.get("omit_sections", [])),
+    )
+  File "/Users/dush/Code/cst4150/.fintech/lib/python3.13/site-packages/ipykernel/ipkernel.py", line 610, in do_inspect
+    bundle = self.shell.object_inspect_mime(
+        name,
+        detail_level=detail_level,
+        omit_sections=omit_sections,
+    )
+  File "/Users/dush/Code/cst4150/.fintech/lib/python3.13/site-packages/IPython/core/interactiveshell.py", line 1913, in object_inspect_mime
+    return self.inspector._get_info(
+           ~~~~~~~~~~~~~~~~~~~~~~~~^
+        info.obj,
+        ^^^^^^^^^
+    ...<4 lines>...
+        omit_sections=omit_sections,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/Users/dush/Code/cst4150/.fintech/lib/python3.13/site-packages/IPython/core/oinspect.py", line 775, in _get_info
+    info_dict = self.info(obj, oname=oname, info=info, detail_level=detail_level)
+  File "/Users/dush/Code/cst4150/.fintech/lib/python3.13/site-packages/IPython/core/oinspect.py", line 890, in info
+    parents_docs = parents_docs_dict.get(att_name, None)
+                   ^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get'
+[IPKernelApp] ERROR | Exception in message handler:
+Traceback (most recent call last):
+  File "/Users/dush/Code/cst4150/.fintech/lib/python3.13/site-packages/ipykernel/kernelbase.py", line 469, in dispatch_shell
+    await result
+  File "/Users/dush/Code/cst4150/.fintech/lib/python3.13/site-packages/ipykernel/kernelbase.py", line 988, in inspect_request
+    reply_content = self.do_inspect(
+        content["code"],
+    ...<2 lines>...
+        set(content.get("omit_sections", [])),
+    )
+  File "/Users/dush/Code/cst4150/.fintech/lib/python3.13/site-packages/ipykernel/ipkernel.py", line 610, in do_inspect
+    bundle = self.shell.object_inspect_mime(
+        name,
+        detail_level=detail_level,
+        omit_sections=omit_sections,
+    )
+  File "/Users/dush/Code/cst4150/.fintech/lib/python3.13/site-packages/IPython/core/interactiveshell.py", line 1913, in object_inspect_mime
+    return self.inspector._get_info(
+           ~~~~~~~~~~~~~~~~~~~~~~~~^
+        info.obj,
+        ^^^^^^^^^
+    ...<4 lines>...
+        omit_sections=omit_sections,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/Users/dush/Code/cst4150/.fintech/lib/python3.13/site-packages/IPython/core/oinspect.py", line 775, in _get_info
+    info_dict = self.info(obj, oname=oname, info=info, detail_level=detail_level)
+  File "/Users/dush/Code/cst4150/.fintech/lib/python3.13/site-packages/IPython/core/oinspect.py", line 890, in info
+    parents_docs = parents_docs_dict.get(att_name, None)
+                   ^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get'
+[IPKernelApp] ERROR | Exception in message handler:
+Traceback (most recent call last):
+  File "/Users/dush/Code/cst4150/.fintech/lib/python3.13/site-packages/ipykernel/kernelbase.py", line 469, in dispatch_shell
+    await result
+  File "/Users/dush/Code/cst4150/.fintech/lib/python3.13/site-packages/ipykernel/kernelbase.py", line 988, in inspect_request
+    reply_content = self.do_inspect(
+        content["code"],
+    ...<2 lines>...
+        set(content.get("omit_sections", [])),
+    )
+  File "/Users/dush/Code/cst4150/.fintech/lib/python3.13/site-packages/ipykernel/ipkernel.py", line 610, in do_inspect
+    bundle = self.shell.object_inspect_mime(
+        name,
+        detail_level=detail_level,
+        omit_sections=omit_sections,
+    )
+  File "/Users/dush/Code/cst4150/.fintech/lib/python3.13/site-packages/IPython/core/interactiveshell.py", line 1913, in object_inspect_mime
+    return self.inspector._get_info(
+           ~~~~~~~~~~~~~~~~~~~~~~~~^
+        info.obj,
+        ^^^^^^^^^
+    ...<4 lines>...
+        omit_sections=omit_sections,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/Users/dush/Code/cst4150/.fintech/lib/python3.13/site-packages/IPython/core/oinspect.py", line 775, in _get_info
+    info_dict = self.info(obj, oname=oname, info=info, detail_level=detail_level)
+  File "/Users/dush/Code/cst4150/.fintech/lib/python3.13/site-packages/IPython/core/oinspect.py", line 890, in info
+    parents_docs = parents_docs_dict.get(att_name, None)
+                   ^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get'
+[IPKernelApp] ERROR | Exception in message handler:
+Traceback (most recent call last):
+  File "/Users/dush/Code/cst4150/.fintech/lib/python3.13/site-packages/ipykernel/kernelbase.py", line 469, in dispatch_shell
+    await result
+  File "/Users/dush/Code/cst4150/.fintech/lib/python3.13/site-packages/ipykernel/kernelbase.py", line 988, in inspect_request
+    reply_content = self.do_inspect(
+        content["code"],
+    ...<2 lines>...
+        set(content.get("omit_sections", [])),
+    )
+  File "/Users/dush/Code/cst4150/.fintech/lib/python3.13/site-packages/ipykernel/ipkernel.py", line 610, in do_inspect
+    bundle = self.shell.object_inspect_mime(
+        name,
+        detail_level=detail_level,
+        omit_sections=omit_sections,
+    )
+  File "/Users/dush/Code/cst4150/.fintech/lib/python3.13/site-packages/IPython/core/interactiveshell.py", line 1913, in object_inspect_mime
+    return self.inspector._get_info(
+           ~~~~~~~~~~~~~~~~~~~~~~~~^
+        info.obj,
+        ^^^^^^^^^
+    ...<4 lines>...
+        omit_sections=omit_sections,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/Users/dush/Code/cst4150/.fintech/lib/python3.13/site-packages/IPython/core/oinspect.py", line 775, in _get_info
+    info_dict = self.info(obj, oname=oname, info=info, detail_level=detail_level)
+  File "/Users/dush/Code/cst4150/.fintech/lib/python3.13/site-packages/IPython/core/oinspect.py", line 890, in info
+    parents_docs = parents_docs_dict.get(att_name, None)
+                   ^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get'
+[I 2025-10-19 23:01:49.198 ServerApp] Saving file at /04-Statistics/Untitled.ipynb
+[I 2025-10-19 23:03:49.229 ServerApp] Saving file at /04-Statistics/Untitled.ipynb
+[I 2025-10-19 23:05:49.261 ServerApp] Saving file at /04-Statistics/Untitled.ipynb
+[I 2025-10-19 23:07:49.296 ServerApp] Saving file at /04-Statistics/Untitled.ipynb
+[I 2025-10-19 23:09:49.331 ServerApp] Saving file at /04-Statistics/Untitled.ipynb
+[I 2025-10-19 23:11:49.364 ServerApp] Saving file at /04-Statistics/Untitled.ipynb
+[I 2025-10-19 23:13:49.400 ServerApp] Saving file at /04-Statistics/Untitled.ipynb
+[W 2025-10-19 23:14:42.849 ServerApp] 404 GET /api/contents/.fintech/lib/python3.13/site-packages/seaborn/categorical.py?content=0&hash=0&1760908482847 (c0caa8c02f8e4cc0bc6cb4b348316188@::1) 0.35ms referer=http://localhost:8888/lab/tree/04-Statistics/Untitled.ipynb
+[I 2025-10-19 23:14:42.849 ServerApp] Refusing to serve hidden file or directory '/Users/dush/Code/cst4150/.fintech/lib/python3.13/site-packages/seaborn/categorical.py', via 404 Error
+[E 2025-10-19 23:14:42.849 ServerApp] Uncaught exception GET /api/contents/.fintech/lib/python3.13/site-packages/seaborn/categorical.py?content=0&hash=0&1760908482847 (::1)
+    HTTPServerRequest(protocol='http', host='localhost:8888', method='GET', uri='/api/contents/.fintech/lib/python3.13/site-packages/seaborn/categorical.py?content=0&hash=0&1760908482847', version='HTTP/1.1', remote_ip='::1')
+    Traceback (most recent call last):
+      File "/Users/dush/Code/cst4150/.fintech/lib/python3.13/site-packages/jupyter_server/services/contents/handlers.py", line 156, in get
+        model = await ensure_async(
+                ^^^^^^^^^^^^^^^^^^^
+        ...<7 lines>...
+        )
+        ^
+      File "/Users/dush/Code/cst4150/.fintech/lib/python3.13/site-packages/jupyter_core/utils/__init__.py", line 214, in ensure_async
+        result = await obj
+                 ^^^^^^^^^
+      File "/Users/dush/Code/cst4150/.fintech/lib/python3.13/site-packages/jupyter_server/services/contents/filemanager.py", line 928, in get
+        model = await self._file_model(
+                ^^^^^^^^^^^^^^^^^^^^^^^
+            path, content=content, format=format, require_hash=require_hash
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        )
+        ^
+      File "/Users/dush/Code/cst4150/.fintech/lib/python3.13/site-packages/jupyter_server/services/contents/filemanager.py", line 829, in _file_model
+        model = self._base_model(path)
+      File "/Users/dush/Code/cst4150/.fintech/lib/python3.13/site-packages/jupyter_server/services/contents/filemanager.py", line 237, in _base_model
+        raise web.HTTPError(404, four_o_four)
+    tornado.web.HTTPError: HTTP 404: Not Found (file or directory does not exist: '.fintech/lib/python3.13/site-packages/seaborn/categorical.py')
+    
+    During handling of the above exception, another exception occurred:
+    
+    Traceback (most recent call last):
+      File "/Users/dush/Code/cst4150/.fintech/lib/python3.13/site-packages/tornado/web.py", line 1848, in _execute
+        result = await result
+                 ^^^^^^^^^^^^
+      File "/Users/dush/Code/cst4150/.fintech/lib/python3.13/site-packages/jupyter_server/auth/decorator.py", line 73, in inner
+        return await out
+               ^^^^^^^^^
+      File "/Users/dush/Code/cst4150/.fintech/lib/python3.13/site-packages/jupyter_server/services/contents/handlers.py", line 182, in get
+        await self._finish_error(
+            HTTPStatus.NOT_FOUND, f"file or directory {path!r} does not exist"
+        )
+      File "/Users/dush/Code/cst4150/.fintech/lib/python3.13/site-packages/jupyter_server/services/contents/handlers.py", line 114, in _finish_error
+        self.write(message)
+        ~~~~~~~~~~^^^^^^^^^
+      File "/Users/dush/Code/cst4150/.fintech/lib/python3.13/site-packages/tornado/web.py", line 964, in write
+        raise RuntimeError("Cannot write() after finish()")
+    RuntimeError: Cannot write() after finish()
+[I 2025-10-19 23:15:49.432 ServerApp] Saving file at /04-Statistics/Untitled.ipynb
+[I 2025-10-19 23:19:38.142 ServerApp] Saving file at /04-Statistics/uciml-adult-classification.ipynb
+[I 2025-10-19 23:23:27.350 ServerApp] Saving file at /04-Statistics/uciml-datasets.ipynb
+[I 2025-10-19 23:25:27.385 ServerApp] Saving file at /04-Statistics/uciml-datasets.ipynb
+[I 2025-10-19 23:27:27.418 ServerApp] Saving file at /04-Statistics/uciml-datasets.ipynb
+[I 2025-10-19 23:28:34.859 ServerApp] Saving file at /04-Statistics/uciml-datasets.ipynb
+[I 2025-10-19 23:28:35.897 ServerApp] Starting buffering for 518b808e-38bf-4190-a7cf-634ed6991804:2f685325-db18-40e9-9c14-70f5bca652c9
+[I 2025-10-19 23:28:35.899 ServerApp] Kernel shutdown: 518b808e-38bf-4190-a7cf-634ed6991804
+[I 2025-10-19 23:28:38.282 ServerApp] Starting buffering for 1343eb2f-6cd8-4fad-9986-24a3a3594418:5aae5801-8ee1-4ad5-a178-500e4f27e06d
+[I 2025-10-19 23:28:38.284 ServerApp] Kernel shutdown: 1343eb2f-6cd8-4fad-9986-24a3a3594418
+[I 2025-10-19 23:28:48.119 ServerApp] Creating new directory in /04-Statistics
+[I 2025-10-19 23:31:31.465 ServerApp] Creating new directory in /04-Statistics
+[I 2025-10-19 23:31:31.467 ServerApp] Creating new directory in /04-Statistics
+[E 2025-10-19 23:31:31.470 ServerApp] Error while saving file: 04-Statistics/Untitled Folder [Errno 17] File exists: '/Users/dush/Code/cst4150/04-Statistics/Untitled Folder'
+    Traceback (most recent call last):
+      File "/Users/dush/Code/cst4150/.fintech/lib/python3.13/site-packages/jupyter_server/services/contents/filemanager.py", line 973, in save
+        await self._save_directory(os_path, model, path)
+      File "/Users/dush/Code/cst4150/.fintech/lib/python3.13/site-packages/jupyter_server/services/contents/filemanager.py", line 940, in _save_directory
+        await run_sync(os.mkdir, os_path)
+      File "/Users/dush/Code/cst4150/.fintech/lib/python3.13/site-packages/anyio/to_thread.py", line 56, in run_sync
+        return await get_async_backend().run_sync_in_worker_thread(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+            func, args, abandon_on_cancel=abandon_on_cancel, limiter=limiter
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        )
+        ^
+      File "/Users/dush/Code/cst4150/.fintech/lib/python3.13/site-packages/anyio/_backends/_asyncio.py", line 2485, in run_sync_in_worker_thread
+        return await future
+               ^^^^^^^^^^^^
+      File "/Users/dush/Code/cst4150/.fintech/lib/python3.13/site-packages/anyio/_backends/_asyncio.py", line 976, in run
+        result = context.run(func, *args)
+    FileExistsError: [Errno 17] File exists: '/Users/dush/Code/cst4150/04-Statistics/Untitled Folder'
+[W 2025-10-19 23:31:31.473 ServerApp] 500 POST /api/contents/04-Statistics?1760909491463 (::1): Unexpected error while saving file: 04-Statistics/Untitled Folder [Errno 17] File exists: '/Users/dush/Code/cst4150/04-Statistics/Untitled Folder'
+[W 2025-10-19 23:31:31.473 ServerApp] wrote error: "Unexpected error while saving file: 04-Statistics/Untitled Folder [Errno 17] File exists: '/Users/dush/Code/cst4150/04-Statistics/Untitled Folder'"
+    Traceback (most recent call last):
+      File "/Users/dush/Code/cst4150/.fintech/lib/python3.13/site-packages/jupyter_server/services/contents/filemanager.py", line 973, in save
+        await self._save_directory(os_path, model, path)
+      File "/Users/dush/Code/cst4150/.fintech/lib/python3.13/site-packages/jupyter_server/services/contents/filemanager.py", line 940, in _save_directory
+        await run_sync(os.mkdir, os_path)
+      File "/Users/dush/Code/cst4150/.fintech/lib/python3.13/site-packages/anyio/to_thread.py", line 56, in run_sync
+        return await get_async_backend().run_sync_in_worker_thread(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+            func, args, abandon_on_cancel=abandon_on_cancel, limiter=limiter
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        )
+        ^
+      File "/Users/dush/Code/cst4150/.fintech/lib/python3.13/site-packages/anyio/_backends/_asyncio.py", line 2485, in run_sync_in_worker_thread
+        return await future
+               ^^^^^^^^^^^^
+      File "/Users/dush/Code/cst4150/.fintech/lib/python3.13/site-packages/anyio/_backends/_asyncio.py", line 976, in run
+        result = context.run(func, *args)
+    FileExistsError: [Errno 17] File exists: '/Users/dush/Code/cst4150/04-Statistics/Untitled Folder'
+    
+    The above exception was the direct cause of the following exception:
+    
+    Traceback (most recent call last):
+      File "/Users/dush/Code/cst4150/.fintech/lib/python3.13/site-packages/tornado/web.py", line 1848, in _execute
+        result = await result
+                 ^^^^^^^^^^^^
+      File "/Users/dush/Code/cst4150/.fintech/lib/python3.13/site-packages/jupyter_server/auth/decorator.py", line 73, in inner
+        return await out
+               ^^^^^^^^^
+      File "/Users/dush/Code/cst4150/.fintech/lib/python3.13/site-packages/jupyter_server/services/contents/handlers.py", line 286, in post
+        await self._new_untitled(path, type=type, ext=ext)
+      File "/Users/dush/Code/cst4150/.fintech/lib/python3.13/site-packages/jupyter_server/services/contents/handlers.py", line 233, in _new_untitled
+        model = await ensure_async(
+                ^^^^^^^^^^^^^^^^^^^
+            self.contents_manager.new_untitled(path=path, type=type, ext=ext)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        )
+        ^
+      File "/Users/dush/Code/cst4150/.fintech/lib/python3.13/site-packages/jupyter_core/utils/__init__.py", line 214, in ensure_async
+        result = await obj
+                 ^^^^^^^^^
+      File "/Users/dush/Code/cst4150/.fintech/lib/python3.13/site-packages/jupyter_server/services/contents/manager.py", line 991, in new_untitled
+        return await self.new(model, path)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+      File "/Users/dush/Code/cst4150/.fintech/lib/python3.13/site-packages/jupyter_server/services/contents/manager.py", line 1017, in new
+        model = await self.save(model, path)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+      File "/Users/dush/Code/cst4150/.fintech/lib/python3.13/site-packages/jupyter_server/services/contents/largefilemanager.py", line 133, in save
+        return await super().save(model, path)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+      File "/Users/dush/Code/cst4150/.fintech/lib/python3.13/site-packages/jupyter_server/services/contents/filemanager.py", line 980, in save
+        raise web.HTTPError(500, f"Unexpected error while saving file: {path} {e}") from e
+    tornado.web.HTTPError: HTTP 500: Internal Server Error (Unexpected error while saving file: 04-Statistics/Untitled Folder [Errno 17] File exists: '/Users/dush/Code/cst4150/04-Statistics/Untitled Folder')
+[E 2025-10-19 23:31:31.486 ServerApp] {
+      "Host": "localhost:8888",
+      "Accept": "*/*",
+      "Referer": "http://localhost:8888/lab",
+      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
+    }
+[E 2025-10-19 23:31:31.486 ServerApp] 500 POST /api/contents/04-Statistics?1760909491463 (c0caa8c02f8e4cc0bc6cb4b348316188@::1) 19.92ms referer=http://localhost:8888/lab
+[I 2025-10-19 23:31:31.506 ServerApp] Uploading file to /04-Statistics/Stats-1/Stats - 2 [Fitting Distributions].ipynb
+[I 2025-10-19 23:31:31.520 ServerApp] Uploading file to /04-Statistics/Stats-1/Stats - 3 [Effect Size].ipynb
+[W 2025-10-19 23:31:31.531 ServerApp] 400 PUT /api/contents/04-Statistics/Stats-1/.DS_Store?1760909491529 (::1): Cannot create file or directory '/04-Statistics/Stats-1/.DS_Store'
+[W 2025-10-19 23:31:31.531 ServerApp] wrote error: "Cannot create file or directory '/04-Statistics/Stats-1/.DS_Store'"
+    Traceback (most recent call last):
+      File "/Users/dush/Code/cst4150/.fintech/lib/python3.13/site-packages/tornado/web.py", line 1848, in _execute
+        result = await result
+                 ^^^^^^^^^^^^
+      File "/Users/dush/Code/cst4150/.fintech/lib/python3.13/site-packages/jupyter_server/auth/decorator.py", line 73, in inner
+        return await out
+               ^^^^^^^^^
+      File "/Users/dush/Code/cst4150/.fintech/lib/python3.13/site-packages/jupyter_server/services/contents/handlers.py", line 313, in put
+        raise web.HTTPError(400, f"Cannot create file or directory {path!r}")
+    tornado.web.HTTPError: HTTP 400: Bad Request (Cannot create file or directory '/04-Statistics/Stats-1/.DS_Store')
+[W 2025-10-19 23:31:31.532 ServerApp] 400 PUT /api/contents/04-Statistics/Stats-1/.DS_Store?1760909491529 (c0caa8c02f8e4cc0bc6cb4b348316188@::1) 1.30ms referer=http://localhost:8888/lab
+[W 2025-10-19 23:31:45.788 ServerApp] delete /04-Statistics/Stats-1
+[I 2025-10-19 23:31:48.825 ServerApp] Creating new directory in /04-Statistics
+[I 2025-10-19 23:31:56.041 ServerApp] Creating new directory in /04-Statistics
+[I 2025-10-19 23:32:11.998 ServerApp] Uploading file to /04-Statistics/stats-1/Stats - 3 [Effect Size].ipynb
+[I 2025-10-19 23:32:12.003 ServerApp] Uploading file to /04-Statistics/stats-1/Stats - Common Probability Distributions for Data Science.pdf
+[I 2025-10-19 23:32:12.009 ServerApp] Uploading file to /04-Statistics/stats-1/Stats - 0 [Basic Stats & Distributions].ipynb
+[I 2025-10-19 23:32:12.010 ServerApp] Uploading file to /04-Statistics/stats-1/Stats - 1 [SciPy, Distributions, Curve Fitting].ipynb
+[I 2025-10-19 23:32:12.017 ServerApp] Uploading file to /04-Statistics/stats-1/Stats - 2 [Fitting Distributions].ipynb
+[I 2025-10-19 23:32:12.020 ServerApp] Uploading file to /04-Statistics/stats-1/Stats - 4 [Regression].ipynb
+[I 2025-10-19 23:32:30.797 ServerApp] Creating new directory in /04-Statistics/stats-1
+[I 2025-10-19 23:32:36.843 ServerApp] Uploading file to /04-Statistics/stats-1/data/baseball.csv
+[I 2025-10-19 23:32:36.845 ServerApp] Uploading file to /04-Statistics/stats-1/data/mtcars.csv
+[I 2025-10-19 23:32:36.846 ServerApp] Uploading file to /04-Statistics/stats-1/data/nashville_precip.txt
+[I 2025-10-19 23:32:36.847 ServerApp] Uploading file to /04-Statistics/stats-1/data/cdystonia.csv
+[I 2025-10-19 23:32:36.850 ServerApp] Uploading file to /04-Statistics/stats-1/data/titanic.html
+[I 2025-10-19 23:32:36.856 ServerApp] Uploading file to /04-Statistics/stats-1/data/titanic.xls
+[I 2025-10-19 23:33:01.818 ServerApp] Creating new directory in /04-Statistics/stats-2
+[I 2025-10-19 23:33:09.965 ServerApp] Uploading file to /04-Statistics/stats-2/data/Andy-Murray.csv
+[I 2025-10-19 23:33:09.974 ServerApp] Uploading file to /04-Statistics/stats-2/data/Novak-Djokovic.csv
+[I 2025-10-19 23:33:09.986 ServerApp] Uploading file to /04-Statistics/stats-2/data/Rafael-Nadal.csv
+[I 2025-10-19 23:33:09.990 ServerApp] Uploading file to /04-Statistics/stats-2/data/Roger-Federer.csv
+[I 2025-10-19 23:33:17.261 ServerApp] Uploading file to /04-Statistics/stats-2/1 - Hypothesis Testing.ipynb
+[I 2025-10-19 23:33:17.263 ServerApp] Uploading file to /04-Statistics/stats-2/2.2 - curveFitting_MLE.ipynb
+[I 2025-10-19 23:33:17.266 ServerApp] Uploading file to /04-Statistics/stats-2/3 - Correlation with chisquare.ipynb
+[I 2025-10-19 23:33:17.269 ServerApp] Uploading file to /04-Statistics/stats-2/2.1 - MoreDistributions_CurveFitting.ipynb
+[I 2025-10-19 23:33:29.444 ServerApp] Creating new directory in /04-Statistics/stats-2
+[W 2025-10-19 23:33:29.456 ServerApp] /Users/dush/Code/cst4150/04-Statistics/stats-2/Untitled Folder doesn't exist
+[I 2025-10-19 23:33:29.490 ServerApp] Uploading file to /04-Statistics/stats-2/4 - Regression Example/A2. Linear Regression - Data Exploration - Lending Club.ipynb
+[I 2025-10-19 23:33:29.496 ServerApp] Creating new directory in /04-Statistics/stats-2/4 - Regression Example
+[I 2025-10-19 23:33:29.521 ServerApp] Uploading file to /04-Statistics/stats-2/4 - Regression Example/images/highFICO.smooth.png
+[I 2025-10-19 23:33:29.535 ServerApp] Uploading file to /04-Statistics/stats-2/4 - Regression Example/images/physicslab1.png
+[I 2025-10-19 23:33:29.549 ServerApp] Uploading file to /04-Statistics/stats-2/4 - Regression Example/images/midFICO.smooth.png
+[I 2025-10-19 23:33:29.560 ServerApp] Uploading file to /04-Statistics/stats-2/4 - Regression Example/images/titanic_survivors.png
+[I 2025-10-19 23:33:29.571 ServerApp] Uploading file to /04-Statistics/stats-2/4 - Regression Example/images/a1fig2_labexperiment_withline.png
+[I 2025-10-19 23:33:29.583 ServerApp] Uploading file to /04-Statistics/stats-2/4 - Regression Example/images/physicslab2.png
+[I 2025-10-19 23:33:29.598 ServerApp] Uploading file to /04-Statistics/stats-2/4 - Regression Example/images/scatterplotmatrix3var.png
+[I 2025-10-19 23:33:29.609 ServerApp] Uploading file to /04-Statistics/stats-2/4 - Regression Example/images/a1fig4_twolabexperiments.png
+[I 2025-10-19 23:33:29.620 ServerApp] Uploading file to /04-Statistics/stats-2/4 - Regression Example/images/a1fig3_labexperiment_slopeintercept.png
+[I 2025-10-19 23:33:29.630 ServerApp] Uploading file to /04-Statistics/stats-2/4 - Regression Example/images/b1fig2_nfloutcomes_withline.png
+[I 2025-10-19 23:33:29.641 ServerApp] Uploading file to /04-Statistics/stats-2/4 - Regression Example/images/scatterplotmatrix5var.png
+[I 2025-10-19 23:33:29.651 ServerApp] Uploading file to /04-Statistics/stats-2/4 - Regression Example/images/decisiontree_titanic.png
+[I 2025-10-19 23:33:29.661 ServerApp] Uploading file to /04-Statistics/stats-2/4 - Regression Example/images/important.png
+[I 2025-10-19 23:33:29.670 ServerApp] Uploading file to /04-Statistics/stats-2/4 - Regression Example/images/rfconfusionmat.png
+[I 2025-10-19 23:33:29.682 ServerApp] Uploading file to /04-Statistics/stats-2/4 - Regression Example/images/kmeans_example.png
+[I 2025-10-19 23:33:29.694 ServerApp] Uploading file to /04-Statistics/stats-2/4 - Regression Example/images/randomforests_c2_figure1.png
+[I 2025-10-19 23:33:29.704 ServerApp] Uploading file to /04-Statistics/stats-2/4 - Regression Example/images/standardSigmoidFunction.png
+[I 2025-10-19 23:33:29.714 ServerApp] Uploading file to /04-Statistics/stats-2/4 - Regression Example/images/histInterestRateColor.png
+[I 2025-10-19 23:33:29.725 ServerApp] Uploading file to /04-Statistics/stats-2/4 - Regression Example/images/rfvalsetpred.png
+[I 2025-10-19 23:33:29.735 ServerApp] Uploading file to /04-Statistics/stats-2/4 - Regression Example/images/fullFICO.expository.smooth.png
+[I 2025-10-19 23:33:29.747 ServerApp] Uploading file to /04-Statistics/stats-2/4 - Regression Example/images/regressionline_fulldataset.png
+[I 2025-10-19 23:33:29.758 ServerApp] Uploading file to /04-Statistics/stats-2/4 - Regression Example/images/NFLscores3.png
+[I 2025-10-19 23:33:29.770 ServerApp] Uploading file to /04-Statistics/stats-2/4 - Regression Example/images/regressionline_fulldataset2.png
+[I 2025-10-19 23:33:29.782 ServerApp] Uploading file to /04-Statistics/stats-2/4 - Regression Example/images/histInterestRate.png
+[I 2025-10-19 23:33:29.793 ServerApp] Uploading file to /04-Statistics/stats-2/4 - Regression Example/images/histFicoScores.png
+[I 2025-10-19 23:33:29.806 ServerApp] Uploading file to /04-Statistics/stats-2/4 - Regression Example/images/boxplot_fulldataset.png
+[I 2025-10-19 23:33:29.818 ServerApp] Uploading file to /04-Statistics/stats-2/4 - Regression Example/images/NFLscores2.png
+[I 2025-10-19 23:33:29.830 ServerApp] Uploading file to /04-Statistics/stats-2/4 - Regression Example/images/NFLscores.png
+[I 2025-10-19 23:33:29.842 ServerApp] Uploading file to /04-Statistics/stats-2/4 - Regression Example/images/b1fig1_nfloutcomes.png
+[I 2025-10-19 23:33:29.855 ServerApp] Uploading file to /04-Statistics/stats-2/4 - Regression Example/images/fullFICO.smooth.png
+[I 2025-10-19 23:33:29.868 ServerApp] Uploading file to /04-Statistics/stats-2/4 - Regression Example/images/nflscoresplusabline.png
+[I 2025-10-19 23:33:29.881 ServerApp] Uploading file to /04-Statistics/stats-2/4 - Regression Example/images/a1fig1_labexperiment.png
+[I 2025-10-19 23:33:29.896 ServerApp] Uploading file to /04-Statistics/stats-2/4 - Regression Example/images/height_vs_age.png
+[I 2025-10-19 23:33:29.908 ServerApp] Uploading file to /04-Statistics/stats-2/4 - Regression Example/images/logisticMPG.png
+[I 2025-10-19 23:33:29.921 ServerApp] Uploading file to /04-Statistics/stats-2/4 - Regression Example/images/scatterplotmatrixNonvars.png
+[I 2025-10-19 23:33:29.933 ServerApp] Uploading file to /04-Statistics/stats-2/4 - Regression Example/images/lowFICO.smooth.png
+[I 2025-10-19 23:33:29.945 ServerApp] Uploading file to /04-Statistics/stats-2/4 - Regression Example/images/rftestsetpred.png
+[I 2025-10-19 23:33:29.955 ServerApp] Uploading file to /04-Statistics/stats-2/4 - Regression Example/images/example.png
+[I 2025-10-19 23:33:29.958 ServerApp] Creating new directory in /04-Statistics/stats-2/4 - Regression Example
+[I 2025-10-19 23:33:29.972 ServerApp] Uploading file to /04-Statistics/stats-2/4 - Regression Example/figs/wideView400.png
+[I 2025-10-19 23:33:29.982 ServerApp] Uploading file to /04-Statistics/stats-2/4 - Regression Example/figs/allconnections.png
+[I 2025-10-19 23:33:29.993 ServerApp] Uploading file to /04-Statistics/stats-2/4 - Regression Example/figs/python-logo.svg
+[I 2025-10-19 23:33:30.003 ServerApp] Uploading file to /04-Statistics/stats-2/4 - Regression Example/figs/latency.png
+[I 2025-10-19 23:33:30.013 ServerApp] Uploading file to /04-Statistics/stats-2/4 - Regression Example/figs/throughput2.png
+[I 2025-10-19 23:33:30.023 ServerApp] Uploading file to /04-Statistics/stats-2/4 - Regression Example/figs/map.png
+[I 2025-10-19 23:33:30.035 ServerApp] Uploading file to /04-Statistics/stats-2/4 - Regression Example/figs/throughput1.png
+[I 2025-10-19 23:33:30.045 ServerApp] Uploading file to /04-Statistics/stats-2/4 - Regression Example/figs/wideView.png
+[I 2025-10-19 23:33:30.054 ServerApp] Uploading file to /04-Statistics/stats-2/4 - Regression Example/figs/logo.png
+[I 2025-10-19 23:33:30.064 ServerApp] Uploading file to /04-Statistics/stats-2/4 - Regression Example/figs/darts.png
+[I 2025-10-19 23:33:30.073 ServerApp] Uploading file to /04-Statistics/stats-2/4 - Regression Example/figs/latency2.png
+[I 2025-10-19 23:33:30.082 ServerApp] Uploading file to /04-Statistics/stats-2/4 - Regression Example/figs/animation.m4v
+[I 2025-10-19 23:33:30.093 ServerApp] Uploading file to /04-Statistics/stats-2/4 - Regression Example/A3. Linear Regression - Analysis.ipynb
+[I 2025-10-19 23:33:30.097 ServerApp] Creating new directory in /04-Statistics/stats-2/4 - Regression Example
+[I 2025-10-19 23:33:30.112 ServerApp] Uploading file to /04-Statistics/stats-2/4 - Regression Example/datasets/loanf.csv
+[I 2025-10-19 23:33:30.124 ServerApp] Uploading file to /04-Statistics/stats-2/4 - Regression Example/datasets/loanpy.csv
+[I 2025-10-19 23:33:30.137 ServerApp] Uploading file to /04-Statistics/stats-2/4 - Regression Example/datasets/loansData.csv
+[I 2025-10-19 23:33:30.149 ServerApp] Uploading file to /04-Statistics/stats-2/4 - Regression Example/A1. Linear Regression - Overview.ipynb
+[I 2025-10-19 23:33:30.152 ServerApp] Creating new directory in /04-Statistics/stats-2/4 - Regression Example
+[I 2025-10-19 23:33:30.166 ServerApp] Uploading file to /04-Statistics/stats-2/4 - Regression Example/styles/matplotlibrc
+[I 2025-10-19 23:33:30.176 ServerApp] Uploading file to /04-Statistics/stats-2/4 - Regression Example/styles/custom.css
+[I 2025-10-19 23:33:30.188 ServerApp] Uploading file to /04-Statistics/stats-2/4 - Regression Example/styles/bmh_matplotlibrc.json
+[I 2025-10-19 23:33:30.191 ServerApp] Creating new directory in /04-Statistics/stats-2/4 - Regression Example
+[W 2025-10-19 23:33:30.194 ServerApp] 400 PATCH /api/contents/04-Statistics/stats-2/4%20-%20Regression%20Example/Untitled%20Folder?1760909610193 (::1): Cannot rename file or directory '/04-Statistics/stats-2/4 - Regression Example/Untitled Folder'
+[W 2025-10-19 23:33:30.194 ServerApp] wrote error: "Cannot rename file or directory '/04-Statistics/stats-2/4 - Regression Example/Untitled Folder'"
+    Traceback (most recent call last):
+      File "/Users/dush/Code/cst4150/.fintech/lib/python3.13/site-packages/tornado/web.py", line 1848, in _execute
+        result = await result
+                 ^^^^^^^^^^^^
+      File "/Users/dush/Code/cst4150/.fintech/lib/python3.13/site-packages/jupyter_server/auth/decorator.py", line 73, in inner
+        return await out
+               ^^^^^^^^^
+      File "/Users/dush/Code/cst4150/.fintech/lib/python3.13/site-packages/jupyter_server/services/contents/handlers.py", line 204, in patch
+        raise web.HTTPError(400, f"Cannot rename file or directory {path!r}")
+    tornado.web.HTTPError: HTTP 400: Bad Request (Cannot rename file or directory '/04-Statistics/stats-2/4 - Regression Example/Untitled Folder')
+[W 2025-10-19 23:33:30.195 ServerApp] 400 PATCH /api/contents/04-Statistics/stats-2/4%20-%20Regression%20Example/Untitled%20Folder?1760909610193 (c0caa8c02f8e4cc0bc6cb4b348316188@::1) 1.30ms referer=http://localhost:8888/lab/tree/04-Statistics/stats-2
+[W 2025-10-19 23:33:30.198 ServerApp] delete /04-Statistics/stats-2/4 - Regression Example/Untitled Folder
+[W 2025-10-19 23:33:30.211 ServerApp] 400 PUT /api/contents/04-Statistics/stats-2/4%20-%20Regression%20Example/.ipynb_checkpoints/A1.%20Linear%20Regression%20-%20Overview-checkpoint.ipynb?1760909610209 (::1): Cannot create file or directory '/04-Statistics/stats-2/4 - Regression Example/.ipynb_checkpoints/A1. Linear Regression - Overview-checkpoint.ipynb'
+[W 2025-10-19 23:33:30.212 ServerApp] wrote error: "Cannot create file or directory '/04-Statistics/stats-2/4 - Regression Example/.ipynb_checkpoints/A1. Linear Regression - Overview-checkpoint.ipynb'"
+    Traceback (most recent call last):
+      File "/Users/dush/Code/cst4150/.fintech/lib/python3.13/site-packages/tornado/web.py", line 1848, in _execute
+        result = await result
+                 ^^^^^^^^^^^^
+      File "/Users/dush/Code/cst4150/.fintech/lib/python3.13/site-packages/jupyter_server/auth/decorator.py", line 73, in inner
+        return await out
+               ^^^^^^^^^
+      File "/Users/dush/Code/cst4150/.fintech/lib/python3.13/site-packages/jupyter_server/services/contents/handlers.py", line 313, in put
+        raise web.HTTPError(400, f"Cannot create file or directory {path!r}")
+    tornado.web.HTTPError: HTTP 400: Bad Request (Cannot create file or directory '/04-Statistics/stats-2/4 - Regression Example/.ipynb_checkpoints/A1. Linear Regression - Overview-checkpoint.ipynb')
+[W 2025-10-19 23:33:30.212 ServerApp] 400 PUT /api/contents/04-Statistics/stats-2/4%20-%20Regression%20Example/.ipynb_checkpoints/A1.%20Linear%20Regression%20-%20Overview-checkpoint.ipynb?1760909610209 (c0caa8c02f8e4cc0bc6cb4b348316188@::1) 1.90ms referer=http://localhost:8888/lab/tree/04-Statistics/stats-2
+[W 2025-10-19 23:33:38.551 ServerApp] Notebook 04-Statistics/stats-1/Stats - 0 [Basic Stats & Distributions].ipynb is not trusted
+[I 2025-10-19 23:33:38.697 ServerApp] Kernel started: dea5677a-4d93-458d-9fd9-488fc1c169fd
+[I 2025-10-19 23:33:38.886 ServerApp] Connecting to kernel dea5677a-4d93-458d-9fd9-488fc1c169fd.
+[I 2025-10-19 23:35:38.578 ServerApp] Saving file at /04-Statistics/stats-1/Stats - 0 [Basic Stats & Distributions].ipynb
+[W 2025-10-19 23:35:38.582 ServerApp] Notebook 04-Statistics/stats-1/Stats - 0 [Basic Stats & Distributions].ipynb is not trusted
+[I 2025-10-19 23:37:38.649 ServerApp] Saving file at /04-Statistics/stats-1/Stats - 0 [Basic Stats & Distributions].ipynb
+[W 2025-10-19 23:37:38.650 ServerApp] Notebook 04-Statistics/stats-1/Stats - 0 [Basic Stats & Distributions].ipynb is not trusted
+[I 2025-10-19 23:39:38.678 ServerApp] Saving file at /04-Statistics/stats-1/Stats - 0 [Basic Stats & Distributions].ipynb
+[W 2025-10-19 23:39:38.679 ServerApp] Notebook 04-Statistics/stats-1/Stats - 0 [Basic Stats & Distributions].ipynb is not trusted
+[I 2025-10-19 23:41:00.771 ServerApp] Creating new directory in /04-Statistics/stats-1
+[I 2025-10-19 23:41:16.718 ServerApp] Uploading file to /04-Statistics/stats-1/assets/distributions.png
+[W 2025-10-19 23:41:33.357 ServerApp] 404 GET /files/04-Statistics/stats-1/assets/distribution.png?_xsrf=[secret]&1760910093333 (c0caa8c02f8e4cc0bc6cb4b348316188@::1) 16.02ms referer=http://localhost:8888/lab/tree/04-Statistics/stats-1/Stats%20-%200%20%5BBasic%20Stats%20%26%20Distributions%5D.ipynb
+[W 2025-10-19 23:41:36.954 ServerApp] 404 GET /files/04-Statistics/assets/distribution.png?_xsrf=[secret]&1760910096946 (c0caa8c02f8e4cc0bc6cb4b348316188@::1) 1.00ms referer=http://localhost:8888/lab/tree/04-Statistics/stats-1/Stats%20-%200%20%5BBasic%20Stats%20%26%20Distributions%5D.ipynb
+[I 2025-10-19 23:41:38.718 ServerApp] Saving file at /04-Statistics/stats-1/Stats - 0 [Basic Stats & Distributions].ipynb
+[W 2025-10-19 23:41:38.719 ServerApp] Notebook 04-Statistics/stats-1/Stats - 0 [Basic Stats & Distributions].ipynb is not trusted
+[W 2025-10-19 23:41:40.389 ServerApp] 404 GET /files/04-Statistics/stats-1/.assets/distribution.png?_xsrf=[secret]&1760910100382 (c0caa8c02f8e4cc0bc6cb4b348316188@::1) 0.95ms referer=http://localhost:8888/lab/tree/04-Statistics/stats-1/Stats%20-%200%20%5BBasic%20Stats%20%26%20Distributions%5D.ipynb
+[W 2025-10-19 23:41:46.723 ServerApp] 404 GET /files/04-Statistics/stats-1/.assets/distribution?_xsrf=[secret]&1760910106715 (c0caa8c02f8e4cc0bc6cb4b348316188@::1) 5.88ms referer=http://localhost:8888/lab/tree/04-Statistics/stats-1/Stats%20-%200%20%5BBasic%20Stats%20%26%20Distributions%5D.ipynb
+[W 2025-10-19 23:41:52.586 ServerApp] 404 GET /files/04-Statistics/stats-1/.assets/distributions?_xsrf=[secret]&1760910112578 (c0caa8c02f8e4cc0bc6cb4b348316188@::1) 5.74ms referer=http://localhost:8888/lab/tree/04-Statistics/stats-1/Stats%20-%200%20%5BBasic%20Stats%20%26%20Distributions%5D.ipynb
+[W 2025-10-19 23:41:55.627 ServerApp] 404 GET /files/04-Statistics/stats-1/.assets/distributions.png?_xsrf=[secret]&1760910115620 (c0caa8c02f8e4cc0bc6cb4b348316188@::1) 0.78ms referer=http://localhost:8888/lab/tree/04-Statistics/stats-1/Stats%20-%200%20%5BBasic%20Stats%20%26%20Distributions%5D.ipynb
+[I 2025-10-19 23:43:38.822 ServerApp] Saving file at /04-Statistics/stats-1/Stats - 0 [Basic Stats & Distributions].ipynb
+[W 2025-10-19 23:43:38.823 ServerApp] Notebook 04-Statistics/stats-1/Stats - 0 [Basic Stats & Distributions].ipynb is not trusted
+[I 2025-10-19 23:43:44.020 ServerApp] Uploading file to /04-Statistics/stats-1/assets/normal.png
+[W 2025-10-19 23:43:48.276 ServerApp] delete /04-Statistics/stats-1/assets/The_Normal_Distribution.svg.png
+[I 2025-10-19 23:45:38.863 ServerApp] Saving file at /04-Statistics/stats-1/Stats - 0 [Basic Stats & Distributions].ipynb
+[W 2025-10-19 23:45:38.863 ServerApp] Notebook 04-Statistics/stats-1/Stats - 0 [Basic Stats & Distributions].ipynb is not trusted
+[I 2025-10-19 23:47:38.902 ServerApp] Saving file at /04-Statistics/stats-1/Stats - 0 [Basic Stats & Distributions].ipynb
+[W 2025-10-19 23:47:38.903 ServerApp] Notebook 04-Statistics/stats-1/Stats - 0 [Basic Stats & Distributions].ipynb is not trusted
+[I 2025-10-19 23:49:38.938 ServerApp] Saving file at /04-Statistics/stats-1/Stats - 0 [Basic Stats & Distributions].ipynb
+[W 2025-10-19 23:49:38.939 ServerApp] Notebook 04-Statistics/stats-1/Stats - 0 [Basic Stats & Distributions].ipynb is not trusted
+[I 2025-10-19 23:51:38.976 ServerApp] Saving file at /04-Statistics/stats-1/Stats - 0 [Basic Stats & Distributions].ipynb
+[W 2025-10-19 23:51:38.977 ServerApp] Notebook 04-Statistics/stats-1/Stats - 0 [Basic Stats & Distributions].ipynb is not trusted
+[I 2025-10-19 23:53:39.016 ServerApp] Saving file at /04-Statistics/stats-1/Stats - 0 [Basic Stats & Distributions].ipynb
+[W 2025-10-19 23:53:39.017 ServerApp] Notebook 04-Statistics/stats-1/Stats - 0 [Basic Stats & Distributions].ipynb is not trusted
+[I 2025-10-19 23:55:39.058 ServerApp] Saving file at /04-Statistics/stats-1/Stats - 0 [Basic Stats & Distributions].ipynb
+[W 2025-10-19 23:55:39.059 ServerApp] Notebook 04-Statistics/stats-1/Stats - 0 [Basic Stats & Distributions].ipynb is not trusted
+[W 2025-10-20 00:02:41.296 ServerApp] Notebook 04-Statistics/Stats-in-class-notebook.ipynb is not trusted
+[I 2025-10-20 00:02:41.442 ServerApp] Kernel started: da9a9c6d-b305-48cf-bb09-b852710af572
+[I 2025-10-20 00:02:41.814 ServerApp] Connecting to kernel da9a9c6d-b305-48cf-bb09-b852710af572.
+[I 2025-10-20 00:03:39.062 ServerApp] Saving file at /04-Statistics/stats-1/Stats - 0 [Basic Stats & Distributions].ipynb
+[W 2025-10-20 00:03:39.062 ServerApp] Notebook 04-Statistics/stats-1/Stats - 0 [Basic Stats & Distributions].ipynb is not trusted
+[I 2025-10-20 00:04:44.331 ServerApp] Kernel started: eaac2c3b-80fa-4083-b1a5-c7f7b0393aaf
+[I 2025-10-20 00:04:44.621 ServerApp] Connecting to kernel eaac2c3b-80fa-4083-b1a5-c7f7b0393aaf.
+[I 2025-10-20 00:04:53.125 ServerApp] Starting buffering for eaac2c3b-80fa-4083-b1a5-c7f7b0393aaf:57268ad3-986c-4c15-ba8e-47c9989bd47d
+[I 2025-10-20 00:04:53.127 ServerApp] Kernel shutdown: eaac2c3b-80fa-4083-b1a5-c7f7b0393aaf
+[I 2025-10-20 00:04:55.321 ServerApp] Starting buffering for da9a9c6d-b305-48cf-bb09-b852710af572:1e46aae4-6b15-49b9-a74a-98fb99af4e2a
+[I 2025-10-20 00:04:55.323 ServerApp] Kernel shutdown: da9a9c6d-b305-48cf-bb09-b852710af572
+[I 2025-10-20 00:05:39.100 ServerApp] Saving file at /04-Statistics/stats-1/Stats - 0 [Basic Stats & Distributions].ipynb
+[W 2025-10-20 00:05:39.101 ServerApp] Notebook 04-Statistics/stats-1/Stats - 0 [Basic Stats & Distributions].ipynb is not trusted
+[I 2025-10-20 00:07:39.138 ServerApp] Saving file at /04-Statistics/stats-1/Stats - 0 [Basic Stats & Distributions].ipynb
+[W 2025-10-20 00:07:39.139 ServerApp] Notebook 04-Statistics/stats-1/Stats - 0 [Basic Stats & Distributions].ipynb is not trusted
+[I 2025-10-20 00:09:39.176 ServerApp] Saving file at /04-Statistics/stats-1/Stats - 0 [Basic Stats & Distributions].ipynb
+[W 2025-10-20 00:09:39.177 ServerApp] Notebook 04-Statistics/stats-1/Stats - 0 [Basic Stats & Distributions].ipynb is not trusted
+[I 2025-10-20 00:11:39.218 ServerApp] Saving file at /04-Statistics/stats-1/Stats - 0 [Basic Stats & Distributions].ipynb
+[W 2025-10-20 00:11:39.219 ServerApp] Notebook 04-Statistics/stats-1/Stats - 0 [Basic Stats & Distributions].ipynb is not trusted
+[I 2025-10-20 00:13:39.258 ServerApp] Saving file at /04-Statistics/stats-1/Stats - 0 [Basic Stats & Distributions].ipynb
+[W 2025-10-20 00:13:39.258 ServerApp] Notebook 04-Statistics/stats-1/Stats - 0 [Basic Stats & Distributions].ipynb is not trusted
+[I 2025-10-20 00:15:39.297 ServerApp] Saving file at /04-Statistics/stats-1/Stats - 0 [Basic Stats & Distributions].ipynb
+[W 2025-10-20 00:15:39.299 ServerApp] Notebook 04-Statistics/stats-1/Stats - 0 [Basic Stats & Distributions].ipynb is not trusted
+[I 2025-10-20 00:17:39.334 ServerApp] Saving file at /04-Statistics/stats-1/Stats - 0 [Basic Stats & Distributions].ipynb
+[W 2025-10-20 00:17:39.335 ServerApp] Notebook 04-Statistics/stats-1/Stats - 0 [Basic Stats & Distributions].ipynb is not trusted
+[I 2025-10-20 00:19:39.375 ServerApp] Saving file at /04-Statistics/stats-1/Stats - 0 [Basic Stats & Distributions].ipynb
+[W 2025-10-20 00:19:39.377 ServerApp] Notebook 04-Statistics/stats-1/Stats - 0 [Basic Stats & Distributions].ipynb is not trusted
+[I 2025-10-20 00:21:39.415 ServerApp] Saving file at /04-Statistics/stats-1/Stats - 0 [Basic Stats & Distributions].ipynb
+[W 2025-10-20 00:21:39.417 ServerApp] Notebook 04-Statistics/stats-1/Stats - 0 [Basic Stats & Distributions].ipynb is not trusted
+[I 2025-10-20 00:23:39.455 ServerApp] Saving file at /04-Statistics/stats-1/Stats - 0 [Basic Stats & Distributions].ipynb
+[W 2025-10-20 00:23:39.457 ServerApp] Notebook 04-Statistics/stats-1/Stats - 0 [Basic Stats & Distributions].ipynb is not trusted
+[I 2025-10-20 00:25:39.496 ServerApp] Saving file at /04-Statistics/stats-1/Stats - 0 [Basic Stats & Distributions].ipynb
+[W 2025-10-20 00:25:39.497 ServerApp] Notebook 04-Statistics/stats-1/Stats - 0 [Basic Stats & Distributions].ipynb is not trusted
+[I 2025-10-20 00:27:40.129 ServerApp] Saving file at /04-Statistics/stats-1/Stats - 0 [Basic Stats & Distributions].ipynb
+[W 2025-10-20 00:27:40.131 ServerApp] Notebook 04-Statistics/stats-1/Stats - 0 [Basic Stats & Distributions].ipynb is not trusted
+[I 2025-10-20 00:29:40.167 ServerApp] Saving file at /04-Statistics/stats-1/Stats - 0 [Basic Stats & Distributions].ipynb
+[W 2025-10-20 00:29:40.168 ServerApp] Notebook 04-Statistics/stats-1/Stats - 0 [Basic Stats & Distributions].ipynb is not trusted
+[I 2025-10-20 00:31:40.210 ServerApp] Saving file at /04-Statistics/stats-1/Stats - 0 [Basic Stats & Distributions].ipynb
+[W 2025-10-20 00:31:40.211 ServerApp] Notebook 04-Statistics/stats-1/Stats - 0 [Basic Stats & Distributions].ipynb is not trusted
+[I 2025-10-20 00:32:20.812 ServerApp] Kernel restarted: dea5677a-4d93-458d-9fd9-488fc1c169fd
+[I 2025-10-20 00:32:20.814 ServerApp] Starting buffering for dea5677a-4d93-458d-9fd9-488fc1c169fd:321f47b3-a368-4fd9-adb4-a551bc2f8f07
+[I 2025-10-20 00:32:20.817 ServerApp] Connecting to kernel dea5677a-4d93-458d-9fd9-488fc1c169fd.
+[I 2025-10-20 00:32:20.817 ServerApp] Restoring connection for dea5677a-4d93-458d-9fd9-488fc1c169fd:321f47b3-a368-4fd9-adb4-a551bc2f8f07
+[I 2025-10-20 00:33:40.247 ServerApp] Saving file at /04-Statistics/stats-1/Stats - 0 [Basic Stats & Distributions].ipynb
+[W 2025-10-20 00:33:40.248 ServerApp] Notebook 04-Statistics/stats-1/Stats - 0 [Basic Stats & Distributions].ipynb is not trusted
+[I 2025-10-20 00:35:40.327 ServerApp] Saving file at /04-Statistics/stats-1/Stats - 0 [Basic Stats & Distributions].ipynb
+[W 2025-10-20 00:35:40.329 ServerApp] Notebook 04-Statistics/stats-1/Stats - 0 [Basic Stats & Distributions].ipynb is not trusted
+[I 2025-10-20 00:37:40.369 ServerApp] Saving file at /04-Statistics/stats-1/Stats - 0 [Basic Stats & Distributions].ipynb
+[W 2025-10-20 00:37:40.370 ServerApp] Notebook 04-Statistics/stats-1/Stats - 0 [Basic Stats & Distributions].ipynb is not trusted
+[I 2025-10-20 00:39:40.409 ServerApp] Saving file at /04-Statistics/stats-1/Stats - 0 [Basic Stats & Distributions].ipynb
+[W 2025-10-20 00:39:40.410 ServerApp] Notebook 04-Statistics/stats-1/Stats - 0 [Basic Stats & Distributions].ipynb is not trusted
+[I 2025-10-20 00:41:40.447 ServerApp] Saving file at /04-Statistics/stats-1/Stats - 0 [Basic Stats & Distributions].ipynb
+[W 2025-10-20 00:41:40.449 ServerApp] Notebook 04-Statistics/stats-1/Stats - 0 [Basic Stats & Distributions].ipynb is not trusted
+[W 2025-10-20 00:42:38.782 ServerApp] Notebook 04-Statistics/Stats-in-class-notebook.ipynb is not trusted
+[I 2025-10-20 00:42:38.892 ServerApp] Kernel started: 8e8e1560-2be4-4c84-b144-27559615887c
+[I 2025-10-20 00:42:39.201 ServerApp] Connecting to kernel 8e8e1560-2be4-4c84-b144-27559615887c.
+[I 2025-10-20 00:50:16.691 ServerApp] Starting buffering for 8e8e1560-2be4-4c84-b144-27559615887c:8ec68c71-4987-4243-b8c0-bb04d79b566e
+[I 2025-10-20 00:50:16.694 ServerApp] Kernel shutdown: 8e8e1560-2be4-4c84-b144-27559615887c
+[I 2025-10-20 00:51:42.173 ServerApp] Saving file at /04-Statistics/stats-1/Stats - 0 [Basic Stats & Distributions].ipynb
+[W 2025-10-20 00:51:42.174 ServerApp] Notebook 04-Statistics/stats-1/Stats - 0 [Basic Stats & Distributions].ipynb is not trusted
+[I 2025-10-20 00:53:42.217 ServerApp] Saving file at /04-Statistics/stats-1/Stats - 0 [Basic Stats & Distributions].ipynb
+[W 2025-10-20 00:53:42.217 ServerApp] Notebook 04-Statistics/stats-1/Stats - 0 [Basic Stats & Distributions].ipynb is not trusted
+[I 2025-10-20 00:55:42.255 ServerApp] Saving file at /04-Statistics/stats-1/Stats - 0 [Basic Stats & Distributions].ipynb
+[W 2025-10-20 00:55:42.256 ServerApp] Notebook 04-Statistics/stats-1/Stats - 0 [Basic Stats & Distributions].ipynb is not trusted
+[I 2025-10-20 00:57:42.297 ServerApp] Saving file at /04-Statistics/stats-1/Stats - 0 [Basic Stats & Distributions].ipynb
+[W 2025-10-20 00:57:42.297 ServerApp] Notebook 04-Statistics/stats-1/Stats - 0 [Basic Stats & Distributions].ipynb is not trusted
+[I 2025-10-20 00:59:42.342 ServerApp] Saving file at /04-Statistics/stats-1/Stats - 0 [Basic Stats & Distributions].ipynb
+[W 2025-10-20 00:59:42.343 ServerApp] Notebook 04-Statistics/stats-1/Stats - 0 [Basic Stats & Distributions].ipynb is not trusted
+[I 2025-10-20 01:01:42.389 ServerApp] Saving file at /04-Statistics/stats-1/Stats - 0 [Basic Stats & Distributions].ipynb
+[W 2025-10-20 01:01:42.390 ServerApp] Notebook 04-Statistics/stats-1/Stats - 0 [Basic Stats & Distributions].ipynb is not trusted
+[I 2025-10-20 01:02:59.010 ServerApp] Uploading file to /04-Statistics/Visualizing_Distributions.ipynb
+[I 2025-10-20 01:05:42.434 ServerApp] Saving file at /04-Statistics/stats-1/Stats - 0 [Basic Stats & Distributions].ipynb
+[W 2025-10-20 01:05:42.435 ServerApp] Notebook 04-Statistics/stats-1/Stats - 0 [Basic Stats & Distributions].ipynb is not trusted
+[I 2025-10-20 01:07:42.490 ServerApp] Saving file at /04-Statistics/stats-1/Stats - 0 [Basic Stats & Distributions].ipynb
+[W 2025-10-20 01:07:42.490 ServerApp] Notebook 04-Statistics/stats-1/Stats - 0 [Basic Stats & Distributions].ipynb is not trusted
+[I 2025-10-20 01:09:42.533 ServerApp] Saving file at /04-Statistics/stats-1/Stats - 0 [Basic Stats & Distributions].ipynb
+[W 2025-10-20 01:09:42.534 ServerApp] Notebook 04-Statistics/stats-1/Stats - 0 [Basic Stats & Distributions].ipynb is not trusted
+[I 2025-10-20 01:11:42.568 ServerApp] Saving file at /04-Statistics/stats-1/Stats - 0 [Basic Stats & Distributions].ipynb
+[W 2025-10-20 01:11:42.568 ServerApp] Notebook 04-Statistics/stats-1/Stats - 0 [Basic Stats & Distributions].ipynb is not trusted
+[I 2025-10-20 01:12:05.690 ServerApp] Kernel started: 7c26aa52-73e8-4751-ae62-4248a14d7e49
+[I 2025-10-20 01:12:05.963 ServerApp] Connecting to kernel 7c26aa52-73e8-4751-ae62-4248a14d7e49.
+[I 2025-10-20 01:12:17.495 ServerApp] Starting buffering for 7c26aa52-73e8-4751-ae62-4248a14d7e49:210b6fc5-b6c0-45de-91e0-2b76acc2761c
+[I 2025-10-20 01:12:17.497 ServerApp] Kernel shutdown: 7c26aa52-73e8-4751-ae62-4248a14d7e49
+[I 2025-10-20 01:12:19.914 ServerApp] Kernel started: e9d7f3ab-0d53-40d1-bceb-403e0655ad04
+[I 2025-10-20 01:12:20.126 ServerApp] Connecting to kernel e9d7f3ab-0d53-40d1-bceb-403e0655ad04.
+[I 2025-10-20 01:12:28.946 ServerApp] Starting buffering for e9d7f3ab-0d53-40d1-bceb-403e0655ad04:56fde0ac-1a64-4825-99d4-f50b36021465
+[I 2025-10-20 01:12:28.948 ServerApp] Kernel shutdown: e9d7f3ab-0d53-40d1-bceb-403e0655ad04
+[W 2025-10-20 01:12:31.076 ServerApp] Notebook 03-Data-Viz/data-viz-livecoded.ipynb is not trusted
+[I 2025-10-20 01:12:31.185 ServerApp] Kernel started: a97fa224-4eb6-49db-b466-781415117f41
+[I 2025-10-20 01:12:31.473 ServerApp] Connecting to kernel a97fa224-4eb6-49db-b466-781415117f41.
+[I 2025-10-20 01:12:46.415 ServerApp] Starting buffering for a97fa224-4eb6-49db-b466-781415117f41:0bee8588-d3ae-499b-be77-c7e6cc00d2fd
+[I 2025-10-20 01:12:46.417 ServerApp] Kernel shutdown: a97fa224-4eb6-49db-b466-781415117f41
+[W 2025-10-20 01:12:47.796 ServerApp] Notebook 03-Data-Viz/0-data-viz.ipynb is not trusted
+[I 2025-10-20 01:12:47.917 ServerApp] Kernel started: a282ba60-2a47-451f-8da0-3710332bf1d2
+[I 2025-10-20 01:12:48.141 ServerApp] Connecting to kernel a282ba60-2a47-451f-8da0-3710332bf1d2.
+[I 2025-10-20 01:13:42.604 ServerApp] Saving file at /04-Statistics/stats-1/Stats - 0 [Basic Stats & Distributions].ipynb
+[W 2025-10-20 01:13:42.605 ServerApp] Notebook 04-Statistics/stats-1/Stats - 0 [Basic Stats & Distributions].ipynb is not trusted
+[I 2025-10-20 01:13:46.440 ServerApp] Starting buffering for a282ba60-2a47-451f-8da0-3710332bf1d2:827296f1-2c7f-47d0-bd49-b853dccf505b
+[I 2025-10-20 01:13:46.442 ServerApp] Kernel shutdown: a282ba60-2a47-451f-8da0-3710332bf1d2
+[I 2025-10-20 01:14:08.504 ServerApp] Kernel started: 1502d32f-5a80-4ff1-8cb7-6380e71729c2
+[I 2025-10-20 01:14:08.682 ServerApp] Connecting to kernel 1502d32f-5a80-4ff1-8cb7-6380e71729c2.
+[I 2025-10-20 01:14:31.567 ServerApp] Starting buffering for 1502d32f-5a80-4ff1-8cb7-6380e71729c2:d9122d82-7d38-460f-8fce-5dcfc73d29fd
+[I 2025-10-20 01:14:31.569 ServerApp] Kernel shutdown: 1502d32f-5a80-4ff1-8cb7-6380e71729c2
+[I 2025-10-20 01:15:42.644 ServerApp] Saving file at /04-Statistics/stats-1/Stats - 0 [Basic Stats & Distributions].ipynb
+[W 2025-10-20 01:15:42.644 ServerApp] Notebook 04-Statistics/stats-1/Stats - 0 [Basic Stats & Distributions].ipynb is not trusted
+[I 2025-10-20 01:17:42.678 ServerApp] Saving file at /04-Statistics/stats-1/Stats - 0 [Basic Stats & Distributions].ipynb
+[W 2025-10-20 01:17:42.679 ServerApp] Notebook 04-Statistics/stats-1/Stats - 0 [Basic Stats & Distributions].ipynb is not trusted
+[I 2025-10-20 01:19:42.722 ServerApp] Saving file at /04-Statistics/stats-1/Stats - 0 [Basic Stats & Distributions].ipynb
+[W 2025-10-20 01:19:42.723 ServerApp] Notebook 04-Statistics/stats-1/Stats - 0 [Basic Stats & Distributions].ipynb is not trusted
+[I 2025-10-20 01:21:42.764 ServerApp] Saving file at /04-Statistics/stats-1/Stats - 0 [Basic Stats & Distributions].ipynb
+[W 2025-10-20 01:21:42.765 ServerApp] Notebook 04-Statistics/stats-1/Stats - 0 [Basic Stats & Distributions].ipynb is not trusted
+[I 2025-10-20 01:23:42.805 ServerApp] Saving file at /04-Statistics/stats-1/Stats - 0 [Basic Stats & Distributions].ipynb
+[W 2025-10-20 01:23:42.806 ServerApp] Notebook 04-Statistics/stats-1/Stats - 0 [Basic Stats & Distributions].ipynb is not trusted
+[I 2025-10-20 01:25:42.847 ServerApp] Saving file at /04-Statistics/stats-1/Stats - 0 [Basic Stats & Distributions].ipynb
+[W 2025-10-20 01:25:42.847 ServerApp] Notebook 04-Statistics/stats-1/Stats - 0 [Basic Stats & Distributions].ipynb is not trusted
+[I 2025-10-20 01:27:42.887 ServerApp] Saving file at /04-Statistics/stats-1/Stats - 0 [Basic Stats & Distributions].ipynb
+[W 2025-10-20 01:27:42.887 ServerApp] Notebook 04-Statistics/stats-1/Stats - 0 [Basic Stats & Distributions].ipynb is not trusted
+[I 2025-10-20 01:29:42.928 ServerApp] Saving file at /04-Statistics/stats-1/Stats - 0 [Basic Stats & Distributions].ipynb
+[W 2025-10-20 01:29:42.929 ServerApp] Notebook 04-Statistics/stats-1/Stats - 0 [Basic Stats & Distributions].ipynb is not trusted
+[I 2025-10-20 01:31:42.970 ServerApp] Saving file at /04-Statistics/stats-1/Stats - 0 [Basic Stats & Distributions].ipynb
+[W 2025-10-20 01:31:42.971 ServerApp] Notebook 04-Statistics/stats-1/Stats - 0 [Basic Stats & Distributions].ipynb is not trusted
+[I 2025-10-20 01:33:43.013 ServerApp] Saving file at /04-Statistics/stats-1/Stats - 0 [Basic Stats & Distributions].ipynb
+[W 2025-10-20 01:33:43.015 ServerApp] Notebook 04-Statistics/stats-1/Stats - 0 [Basic Stats & Distributions].ipynb is not trusted
+[I 2025-10-20 01:35:43.052 ServerApp] Saving file at /04-Statistics/stats-1/Stats - 0 [Basic Stats & Distributions].ipynb
+[W 2025-10-20 01:35:43.053 ServerApp] Notebook 04-Statistics/stats-1/Stats - 0 [Basic Stats & Distributions].ipynb is not trusted
+[I 2025-10-20 01:37:43.093 ServerApp] Saving file at /04-Statistics/stats-1/Stats - 0 [Basic Stats & Distributions].ipynb
+[W 2025-10-20 01:37:43.094 ServerApp] Notebook 04-Statistics/stats-1/Stats - 0 [Basic Stats & Distributions].ipynb is not trusted
+[I 2025-10-20 01:39:43.102 ServerApp] Saving file at /04-Statistics/stats-1/Stats - 0 [Basic Stats & Distributions].ipynb
+[W 2025-10-20 01:39:43.104 ServerApp] Notebook 04-Statistics/stats-1/Stats - 0 [Basic Stats & Distributions].ipynb is not trusted
+[I 2025-10-20 01:41:43.140 ServerApp] Saving file at /04-Statistics/stats-1/Stats - 0 [Basic Stats & Distributions].ipynb
+[W 2025-10-20 01:41:43.141 ServerApp] Notebook 04-Statistics/stats-1/Stats - 0 [Basic Stats & Distributions].ipynb is not trusted
+[I 2025-10-20 01:43:43.181 ServerApp] Saving file at /04-Statistics/stats-1/Stats - 0 [Basic Stats & Distributions].ipynb
+[W 2025-10-20 01:43:43.182 ServerApp] Notebook 04-Statistics/stats-1/Stats - 0 [Basic Stats & Distributions].ipynb is not trusted
+[I 2025-10-20 01:45:43.221 ServerApp] Saving file at /04-Statistics/stats-1/Stats - 0 [Basic Stats & Distributions].ipynb
+[W 2025-10-20 01:45:43.222 ServerApp] Notebook 04-Statistics/stats-1/Stats - 0 [Basic Stats & Distributions].ipynb is not trusted
+[I 2025-10-20 01:47:43.265 ServerApp] Saving file at /04-Statistics/stats-1/Stats - 0 [Basic Stats & Distributions].ipynb
+[W 2025-10-20 01:47:43.266 ServerApp] Notebook 04-Statistics/stats-1/Stats - 0 [Basic Stats & Distributions].ipynb is not trusted
+[I 2025-10-20 01:49:43.301 ServerApp] Saving file at /04-Statistics/stats-1/Stats - 0 [Basic Stats & Distributions].ipynb
+[W 2025-10-20 01:49:43.302 ServerApp] Notebook 04-Statistics/stats-1/Stats - 0 [Basic Stats & Distributions].ipynb is not trusted
+[I 2025-10-20 01:51:43.342 ServerApp] Saving file at /04-Statistics/stats-1/Stats - 0 [Basic Stats & Distributions].ipynb
+[W 2025-10-20 01:51:43.343 ServerApp] Notebook 04-Statistics/stats-1/Stats - 0 [Basic Stats & Distributions].ipynb is not trusted
+[I 2025-10-20 01:53:18.924 ServerApp] Uploading file to /04-Statistics/stats-1/assets/pdf.png
+[I 2025-10-20 01:53:43.377 ServerApp] Saving file at /04-Statistics/stats-1/Stats - 0 [Basic Stats & Distributions].ipynb
+[W 2025-10-20 01:53:43.377 ServerApp] Notebook 04-Statistics/stats-1/Stats - 0 [Basic Stats & Distributions].ipynb is not trusted
+[I 2025-10-20 01:55:43.413 ServerApp] Saving file at /04-Statistics/stats-1/Stats - 0 [Basic Stats & Distributions].ipynb
+[W 2025-10-20 01:55:43.414 ServerApp] Notebook 04-Statistics/stats-1/Stats - 0 [Basic Stats & Distributions].ipynb is not trusted
+[I 2025-10-20 01:57:43.453 ServerApp] Saving file at /04-Statistics/stats-1/Stats - 0 [Basic Stats & Distributions].ipynb
+[W 2025-10-20 01:57:43.454 ServerApp] Notebook 04-Statistics/stats-1/Stats - 0 [Basic Stats & Distributions].ipynb is not trusted
+[I 2025-10-20 01:59:43.495 ServerApp] Saving file at /04-Statistics/stats-1/Stats - 0 [Basic Stats & Distributions].ipynb
+[W 2025-10-20 01:59:43.496 ServerApp] Notebook 04-Statistics/stats-1/Stats - 0 [Basic Stats & Distributions].ipynb is not trusted
+[I 2025-10-20 02:01:43.534 ServerApp] Saving file at /04-Statistics/stats-1/Stats - 0 [Basic Stats & Distributions].ipynb
+[W 2025-10-20 02:01:43.535 ServerApp] Notebook 04-Statistics/stats-1/Stats - 0 [Basic Stats & Distributions].ipynb is not trusted
+[I 2025-10-20 02:03:43.573 ServerApp] Saving file at /04-Statistics/stats-1/Stats - 0 [Basic Stats & Distributions].ipynb
+[W 2025-10-20 02:03:43.575 ServerApp] Notebook 04-Statistics/stats-1/Stats - 0 [Basic Stats & Distributions].ipynb is not trusted
+[I 2025-10-20 02:05:43.616 ServerApp] Saving file at /04-Statistics/stats-1/Stats - 0 [Basic Stats & Distributions].ipynb
+[W 2025-10-20 02:05:43.617 ServerApp] Notebook 04-Statistics/stats-1/Stats - 0 [Basic Stats & Distributions].ipynb is not trusted
+[I 2025-10-20 02:07:06.282 ServerApp] Uploading file to /04-Statistics/stats-1/assets/cdf.png
+[I 2025-10-20 02:07:06.287 ServerApp] Uploading file to /04-Statistics/stats-1/assets/pdf-cdf-normal.png
+[I 2025-10-20 02:07:06.298 ServerApp] Uploading file to /04-Statistics/stats-1/assets/pdf-cdf-known-1.png
+[I 2025-10-20 02:07:06.304 ServerApp] Uploading file to /04-Statistics/stats-1/assets/pdf-cdf-known-2.png
+[I 2025-10-20 02:07:43.661 ServerApp] Saving file at /04-Statistics/stats-1/Stats - 0 [Basic Stats & Distributions].ipynb
+[W 2025-10-20 02:07:43.662 ServerApp] Notebook 04-Statistics/stats-1/Stats - 0 [Basic Stats & Distributions].ipynb is not trusted
+[W 2025-10-20 02:09:35.116 ServerApp] Notebook 04-Statistics/Visualizing_Distributions.ipynb is not trusted
+[I 2025-10-20 02:09:35.287 ServerApp] Kernel started: d9bf9fd5-dd17-43ba-a400-3a55ab86d7b7
+[I 2025-10-20 02:09:35.568 ServerApp] Connecting to kernel d9bf9fd5-dd17-43ba-a400-3a55ab86d7b7.
+[I 2025-10-20 02:09:44.256 ServerApp] Saving file at /04-Statistics/stats-1/Stats - 0 [Basic Stats & Distributions].ipynb
+[W 2025-10-20 02:09:44.257 ServerApp] Notebook 04-Statistics/stats-1/Stats - 0 [Basic Stats & Distributions].ipynb is not trusted
+[I 2025-10-20 02:11:35.136 ServerApp] Saving file at /04-Statistics/Visualizing_Distributions.ipynb
+[I 2025-10-20 02:11:44.295 ServerApp] Saving file at /04-Statistics/stats-1/Stats - 0 [Basic Stats & Distributions].ipynb
+[W 2025-10-20 02:11:44.296 ServerApp] Notebook 04-Statistics/stats-1/Stats - 0 [Basic Stats & Distributions].ipynb is not trusted
+[I 2025-10-20 02:13:43.840 ServerApp] Starting buffering for d9bf9fd5-dd17-43ba-a400-3a55ab86d7b7:ecd4052b-645e-463b-982d-bae7f390e965
+[I 2025-10-20 02:13:43.842 ServerApp] Kernel shutdown: d9bf9fd5-dd17-43ba-a400-3a55ab86d7b7
+[I 2025-10-20 02:13:44.341 ServerApp] Saving file at /04-Statistics/stats-1/Stats - 0 [Basic Stats & Distributions].ipynb
+[W 2025-10-20 02:13:44.342 ServerApp] Notebook 04-Statistics/stats-1/Stats - 0 [Basic Stats & Distributions].ipynb is not trusted
+[I 2025-10-20 02:15:44.385 ServerApp] Saving file at /04-Statistics/stats-1/Stats - 0 [Basic Stats & Distributions].ipynb
+[W 2025-10-20 02:15:44.386 ServerApp] Notebook 04-Statistics/stats-1/Stats - 0 [Basic Stats & Distributions].ipynb is not trusted
+[I 2025-10-20 02:17:44.427 ServerApp] Saving file at /04-Statistics/stats-1/Stats - 0 [Basic Stats & Distributions].ipynb
+[W 2025-10-20 02:17:44.427 ServerApp] Notebook 04-Statistics/stats-1/Stats - 0 [Basic Stats & Distributions].ipynb is not trusted
+[I 2025-10-20 02:19:44.465 ServerApp] Saving file at /04-Statistics/stats-1/Stats - 0 [Basic Stats & Distributions].ipynb
+[W 2025-10-20 02:19:44.466 ServerApp] Notebook 04-Statistics/stats-1/Stats - 0 [Basic Stats & Distributions].ipynb is not trusted
+[I 2025-10-20 02:20:46.595 ServerApp] Saving file at /04-Statistics/stats-1/Stats - 0 [Basic Stats & Distributions].ipynb
+[W 2025-10-20 02:20:46.595 ServerApp] Notebook 04-Statistics/stats-1/Stats - 0 [Basic Stats & Distributions].ipynb is not trusted
+[I 2025-10-20 02:20:49.880 ServerApp] Starting buffering for dea5677a-4d93-458d-9fd9-488fc1c169fd:321f47b3-a368-4fd9-adb4-a551bc2f8f07
+[I 2025-10-20 02:20:49.883 ServerApp] Kernel shutdown: dea5677a-4d93-458d-9fd9-488fc1c169fd
+[W 2025-10-20 02:21:06.542 ServerApp] Notebook 04-Statistics/stats-1/Stats - 0 [Univariate Distributions].ipynb is not trusted
+[I 2025-10-20 02:21:06.656 ServerApp] Kernel started: ce736b76-9e0d-4162-931b-edf18e0484d1
+[I 2025-10-20 02:21:07.025 ServerApp] Connecting to kernel ce736b76-9e0d-4162-931b-edf18e0484d1.
+[I 2025-10-20 02:21:09.842 ServerApp] Starting buffering for ce736b76-9e0d-4162-931b-edf18e0484d1:29ae5e7b-0441-4680-bc94-b34476135d25
+[I 2025-10-20 02:21:09.845 ServerApp] Kernel shutdown: ce736b76-9e0d-4162-931b-edf18e0484d1
+[W 2025-10-20 02:21:19.583 ServerApp] Notebook 04-Statistics/stats-1/Stats - 1 [SciPy, Distributions, Curve Fitting].ipynb is not trusted
+[I 2025-10-20 02:21:19.676 ServerApp] Kernel started: e3630c3b-91a2-47dd-825a-5a1b0c3ca92d
+[I 2025-10-20 02:21:19.892 ServerApp] Connecting to kernel e3630c3b-91a2-47dd-825a-5a1b0c3ca92d.
+[I 2025-10-20 02:23:19.628 ServerApp] Saving file at /04-Statistics/stats-1/Stats - 1 [SciPy, Distributions, Curve Fitting].ipynb
+[W 2025-10-20 02:23:19.630 ServerApp] Notebook 04-Statistics/stats-1/Stats - 1 [SciPy, Distributions, Curve Fitting].ipynb is not trusted
+[I 2025-10-20 02:25:19.671 ServerApp] Saving file at /04-Statistics/stats-1/Stats - 1 [SciPy, Distributions, Curve Fitting].ipynb
+[W 2025-10-20 02:25:19.672 ServerApp] Notebook 04-Statistics/stats-1/Stats - 1 [SciPy, Distributions, Curve Fitting].ipynb is not trusted
+[I 2025-10-20 02:27:19.712 ServerApp] Saving file at /04-Statistics/stats-1/Stats - 1 [SciPy, Distributions, Curve Fitting].ipynb
+[W 2025-10-20 02:27:19.713 ServerApp] Notebook 04-Statistics/stats-1/Stats - 1 [SciPy, Distributions, Curve Fitting].ipynb is not trusted
+[W 2025-10-20 02:29:14.998 ServerApp] 404 GET /api/contents/data/titanic.xls?content=0&hash=0&1760920154996 (c0caa8c02f8e4cc0bc6cb4b348316188@::1) 0.36ms referer=http://localhost:8888/lab/tree/04-Statistics/stats-1/Stats%20-%201%20%5BSciPy%2C%20Distributions%2C%20Curve%20Fitting%5D.ipynb
+[W 2025-10-20 02:29:14.998 ServerApp] 404 GET /api/contents/data/titanic.xls?content=0&hash=0&1760920154996 (::1): No such file or directory: data/titanic.xls
+[I 2025-10-20 02:29:19.758 ServerApp] Saving file at /04-Statistics/stats-1/Stats - 1 [SciPy, Distributions, Curve Fitting].ipynb
+[W 2025-10-20 02:29:19.759 ServerApp] Notebook 04-Statistics/stats-1/Stats - 1 [SciPy, Distributions, Curve Fitting].ipynb is not trusted
+[I 2025-10-20 02:30:10.289 ServerApp] Saving file at /04-Statistics/stats-1/Stats - 1 [SciPy, Distributions, Curve Fitting].ipynb
+[I 2025-10-20 02:30:12.073 ServerApp] Starting buffering for e3630c3b-91a2-47dd-825a-5a1b0c3ca92d:9ce1fe1e-ab16-4772-aa65-be7296861a17
+[I 2025-10-20 02:30:12.076 ServerApp] Kernel shutdown: e3630c3b-91a2-47dd-825a-5a1b0c3ca92d
+[W 2025-10-20 02:30:13.373 ServerApp] Notebook 04-Statistics/stats-1/Stats - 2 [Fitting Distributions].ipynb is not trusted
+[I 2025-10-20 02:30:13.541 ServerApp] Kernel started: 95d2ebc4-cd25-4ed8-b460-915a5a78afd1
+[I 2025-10-20 02:30:13.824 ServerApp] Connecting to kernel 95d2ebc4-cd25-4ed8-b460-915a5a78afd1.
+[I 2025-10-20 02:30:52.192 ServerApp] Starting buffering for 95d2ebc4-cd25-4ed8-b460-915a5a78afd1:e31c42f2-375a-4765-b95d-7ac96d7cabd6
+[I 2025-10-20 02:30:52.194 ServerApp] Kernel shutdown: 95d2ebc4-cd25-4ed8-b460-915a5a78afd1
+[W 2025-10-20 02:30:53.713 ServerApp] Notebook 04-Statistics/stats-1/Stats - 3 [Effect Size].ipynb is not trusted
+[I 2025-10-20 02:30:53.939 ServerApp] Kernel started: 4749bf5d-8230-4d06-af99-6312e2f65519
+[I 2025-10-20 02:30:54.172 ServerApp] Connecting to kernel 4749bf5d-8230-4d06-af99-6312e2f65519.
+[I 2025-10-20 02:31:00.547 ServerApp] Starting buffering for 4749bf5d-8230-4d06-af99-6312e2f65519:082b5adc-3a0b-4bfb-9b73-7f22372e8e9e
+[I 2025-10-20 02:31:00.549 ServerApp] Kernel shutdown: 4749bf5d-8230-4d06-af99-6312e2f65519
+[W 2025-10-20 10:50:46.042 ServerApp] Notebook 04-Statistics/1-Univariate.ipynb is not trusted
+[I 2025-10-20 10:50:46.161 ServerApp] Kernel started: 559f5626-21a6-4788-b35f-4aa8a0539fbf
+[I 2025-10-20 10:50:46.474 ServerApp] Connecting to kernel 559f5626-21a6-4788-b35f-4aa8a0539fbf.
+[I 2025-10-20 10:52:46.073 ServerApp] Saving file at /04-Statistics/1-Univariate.ipynb
+[W 2025-10-20 10:52:46.075 ServerApp] Notebook 04-Statistics/1-Univariate.ipynb is not trusted
+[I 2025-10-20 10:54:46.118 ServerApp] Saving file at /04-Statistics/1-Univariate.ipynb
+[W 2025-10-20 10:54:46.119 ServerApp] Notebook 04-Statistics/1-Univariate.ipynb is not trusted
+[I 2025-10-20 10:56:46.163 ServerApp] Saving file at /04-Statistics/1-Univariate.ipynb
+[W 2025-10-20 10:56:46.165 ServerApp] Notebook 04-Statistics/1-Univariate.ipynb is not trusted
+[W 2025-10-20 10:56:59.059 ServerApp] Notebook 04-Statistics/stats-1/Stats - 2 [Fitting Distributions].ipynb is not trusted
+[I 2025-10-20 10:56:59.221 ServerApp] Kernel started: 682c940b-b55e-4eb5-9944-78fa33d5a897
+[I 2025-10-20 10:56:59.417 ServerApp] Connecting to kernel 682c940b-b55e-4eb5-9944-78fa33d5a897.
+[W 2025-10-20 10:57:00.848 ServerApp] Notebook 04-Statistics/stats-1/Stats - 3 [Effect Size].ipynb is not trusted
+[I 2025-10-20 10:57:00.984 ServerApp] Kernel started: d6094a44-b0aa-4908-b9d8-ca1413dbf48f
+[I 2025-10-20 10:57:01.186 ServerApp] Connecting to kernel d6094a44-b0aa-4908-b9d8-ca1413dbf48f.
+[W 2025-10-20 10:57:03.824 ServerApp] Notebook 04-Statistics/stats-1/Stats - 4 [Regression].ipynb is not trusted
+[I 2025-10-20 10:57:03.984 ServerApp] Kernel started: 3f2be5d2-7190-465b-9c42-c46c6824446b
+[I 2025-10-20 10:57:04.179 ServerApp] Connecting to kernel 3f2be5d2-7190-465b-9c42-c46c6824446b.
+[I 2025-10-20 10:58:59.120 ServerApp] Saving file at /04-Statistics/stats-1/Stats - 2 [Fitting Distributions].ipynb
+[W 2025-10-20 10:58:59.121 ServerApp] Notebook 04-Statistics/stats-1/Stats - 2 [Fitting Distributions].ipynb is not trusted
+[I 2025-10-20 10:59:00.896 ServerApp] Saving file at /04-Statistics/stats-1/Stats - 3 [Effect Size].ipynb
+[W 2025-10-20 10:59:00.897 ServerApp] Notebook 04-Statistics/stats-1/Stats - 3 [Effect Size].ipynb is not trusted
+[I 2025-10-20 10:59:03.884 ServerApp] Saving file at /04-Statistics/stats-1/Stats - 4 [Regression].ipynb
+[W 2025-10-20 10:59:03.886 ServerApp] Notebook 04-Statistics/stats-1/Stats - 4 [Regression].ipynb is not trusted
+[I 2025-10-20 11:00:59.175 ServerApp] Saving file at /04-Statistics/stats-1/Stats - 2 [Fitting Distributions].ipynb
+[W 2025-10-20 11:00:59.179 ServerApp] Notebook 04-Statistics/stats-1/Stats - 2 [Fitting Distributions].ipynb is not trusted
+[I 2025-10-20 11:02:59.233 ServerApp] Saving file at /04-Statistics/stats-1/Stats - 2 [Fitting Distributions].ipynb
+[W 2025-10-20 11:02:59.234 ServerApp] Notebook 04-Statistics/stats-1/Stats - 2 [Fitting Distributions].ipynb is not trusted
+[I 2025-10-20 11:04:59.294 ServerApp] Saving file at /04-Statistics/stats-1/Stats - 2 [Fitting Distributions].ipynb
+[W 2025-10-20 11:04:59.296 ServerApp] Notebook 04-Statistics/stats-1/Stats - 2 [Fitting Distributions].ipynb is not trusted
+[W 2025-10-20 11:05:15.274 ServerApp] 404 GET /api/contents/data/nashville_precip.txt?content=0&hash=0&1760951115271 (c0caa8c02f8e4cc0bc6cb4b348316188@::1) 1.02ms referer=http://localhost:8888/lab/tree/04-Statistics/stats-1/Stats%20-%202%20%5BFitting%20Distributions%5D.ipynb
+[W 2025-10-20 11:05:15.274 ServerApp] 404 GET /api/contents/data/nashville_precip.txt?content=0&hash=0&1760951115271 (::1): No such file or directory: data/nashville_precip.txt
+[I 2025-10-20 11:06:59.343 ServerApp] Saving file at /04-Statistics/stats-1/Stats - 2 [Fitting Distributions].ipynb
+[W 2025-10-20 11:06:59.345 ServerApp] Notebook 04-Statistics/stats-1/Stats - 2 [Fitting Distributions].ipynb is not trusted
+[I 2025-10-20 11:08:59.394 ServerApp] Saving file at /04-Statistics/stats-1/Stats - 2 [Fitting Distributions].ipynb
+[W 2025-10-20 11:08:59.396 ServerApp] Notebook 04-Statistics/stats-1/Stats - 2 [Fitting Distributions].ipynb is not trusted
+[I 2025-10-20 11:10:59.445 ServerApp] Saving file at /04-Statistics/stats-1/Stats - 2 [Fitting Distributions].ipynb
+[W 2025-10-20 11:10:59.446 ServerApp] Notebook 04-Statistics/stats-1/Stats - 2 [Fitting Distributions].ipynb is not trusted
+[W 2025-10-20 11:11:27.656 ServerApp] 404 GET /api/contents/data/nashville_precip.txt?content=0&hash=0&1760951487653 (c0caa8c02f8e4cc0bc6cb4b348316188@::1) 1.36ms referer=http://localhost:8888/lab/tree/04-Statistics/stats-1/Stats%20-%202%20%5BFitting%20Distributions%5D.ipynb
+[W 2025-10-20 11:11:27.656 ServerApp] 404 GET /api/contents/data/nashville_precip.txt?content=0&hash=0&1760951487653 (::1): No such file or directory: data/nashville_precip.txt
+[W 2025-10-20 11:12:45.317 ServerApp] 404 GET /api/contents/data/nashville_precip.txt?content=0&hash=0&1760951565316 (c0caa8c02f8e4cc0bc6cb4b348316188@::1) 0.48ms referer=http://localhost:8888/lab/tree/04-Statistics/stats-1/Stats%20-%202%20%5BFitting%20Distributions%5D.ipynb
+[W 2025-10-20 11:12:45.317 ServerApp] 404 GET /api/contents/data/nashville_precip.txt?content=0&hash=0&1760951565316 (::1): No such file or directory: data/nashville_precip.txt
+[W 2025-10-20 11:12:45.320 ServerApp] 404 GET /api/contents/data/nashville_precip.txt?content=0&hash=0&1760951565319 (c0caa8c02f8e4cc0bc6cb4b348316188@::1) 0.33ms referer=http://localhost:8888/lab/tree/04-Statistics/stats-1/Stats%20-%202%20%5BFitting%20Distributions%5D.ipynb
+[W 2025-10-20 11:12:45.320 ServerApp] 404 GET /api/contents/data/nashville_precip.txt?content=0&hash=0&1760951565319 (::1): No such file or directory: data/nashville_precip.txt
+[I 2025-10-20 11:12:59.507 ServerApp] Saving file at /04-Statistics/stats-1/Stats - 2 [Fitting Distributions].ipynb
+[W 2025-10-20 11:12:59.509 ServerApp] Notebook 04-Statistics/stats-1/Stats - 2 [Fitting Distributions].ipynb is not trusted
+[W 2025-10-20 11:13:01.836 ServerApp] 404 GET /api/contents/data/nashville_precip.txt?content=0&hash=0&1760951581835 (c0caa8c02f8e4cc0bc6cb4b348316188@::1) 0.43ms referer=http://localhost:8888/lab/tree/04-Statistics/stats-1/Stats%20-%202%20%5BFitting%20Distributions%5D.ipynb
+[W 2025-10-20 11:13:01.837 ServerApp] 404 GET /api/contents/data/nashville_precip.txt?content=0&hash=0&1760951581835 (::1): No such file or directory: data/nashville_precip.txt
+[W 2025-10-20 11:13:01.837 ServerApp] 404 GET /api/contents/data/nashville_precip.txt?content=0&hash=0&1760951581835 (c0caa8c02f8e4cc0bc6cb4b348316188@::1) 0.31ms referer=http://localhost:8888/lab/tree/04-Statistics/stats-1/Stats%20-%202%20%5BFitting%20Distributions%5D.ipynb
+[W 2025-10-20 11:13:01.837 ServerApp] 404 GET /api/contents/data/nashville_precip.txt?content=0&hash=0&1760951581835 (::1): No such file or directory: data/nashville_precip.txt
+[I 2025-10-20 11:14:59.563 ServerApp] Saving file at /04-Statistics/stats-1/Stats - 2 [Fitting Distributions].ipynb
+[W 2025-10-20 11:14:59.565 ServerApp] Notebook 04-Statistics/stats-1/Stats - 2 [Fitting Distributions].ipynb is not trusted
+[I 2025-10-20 11:16:59.614 ServerApp] Saving file at /04-Statistics/stats-1/Stats - 2 [Fitting Distributions].ipynb
+[W 2025-10-20 11:16:59.616 ServerApp] Notebook 04-Statistics/stats-1/Stats - 2 [Fitting Distributions].ipynb is not trusted
+[I 2025-10-20 11:19:00.334 ServerApp] Saving file at /04-Statistics/stats-1/Stats - 2 [Fitting Distributions].ipynb
+[W 2025-10-20 11:19:00.335 ServerApp] Notebook 04-Statistics/stats-1/Stats - 2 [Fitting Distributions].ipynb is not trusted
+[W 2025-10-20 11:20:37.120 ServerApp] 404 GET /files/04-Statistics/assets/gamma.png?_xsrf=[secret]&1760952037109 (c0caa8c02f8e4cc0bc6cb4b348316188@::1) 2.15ms referer=http://localhost:8888/lab/tree/04-Statistics/stats-1/Stats%20-%202%20%5BFitting%20Distributions%5D.ipynb
+[I 2025-10-20 11:21:00.386 ServerApp] Saving file at /04-Statistics/stats-1/Stats - 2 [Fitting Distributions].ipynb
+[W 2025-10-20 11:21:00.387 ServerApp] Notebook 04-Statistics/stats-1/Stats - 2 [Fitting Distributions].ipynb is not trusted
+[I 2025-10-20 11:23:00.443 ServerApp] Saving file at /04-Statistics/stats-1/Stats - 2 [Fitting Distributions].ipynb
+[W 2025-10-20 11:23:00.444 ServerApp] Notebook 04-Statistics/stats-1/Stats - 2 [Fitting Distributions].ipynb is not trusted
+[I 2025-10-20 11:25:00.494 ServerApp] Saving file at /04-Statistics/stats-1/Stats - 2 [Fitting Distributions].ipynb
+[W 2025-10-20 11:25:00.495 ServerApp] Notebook 04-Statistics/stats-1/Stats - 2 [Fitting Distributions].ipynb is not trusted
+[I 2025-10-20 11:27:00.553 ServerApp] Saving file at /04-Statistics/stats-1/Stats - 2 [Fitting Distributions].ipynb
+[W 2025-10-20 11:27:00.555 ServerApp] Notebook 04-Statistics/stats-1/Stats - 2 [Fitting Distributions].ipynb is not trusted
+[I 2025-10-20 11:29:00.605 ServerApp] Saving file at /04-Statistics/stats-1/Stats - 2 [Fitting Distributions].ipynb
+[W 2025-10-20 11:29:00.606 ServerApp] Notebook 04-Statistics/stats-1/Stats - 2 [Fitting Distributions].ipynb is not trusted
+[I 2025-10-20 11:31:00.647 ServerApp] Saving file at /04-Statistics/stats-1/Stats - 2 [Fitting Distributions].ipynb
+[W 2025-10-20 11:31:00.649 ServerApp] Notebook 04-Statistics/stats-1/Stats - 2 [Fitting Distributions].ipynb is not trusted
+[I 2025-10-20 12:02:51.729 ServerApp] Starting buffering for 3f2be5d2-7190-465b-9c42-c46c6824446b:d865cb2b-601e-4309-acb3-ee885b504dc5
+[I 2025-10-20 12:02:51.736 ServerApp] Starting buffering for d6094a44-b0aa-4908-b9d8-ca1413dbf48f:3e94ce77-5a42-49b6-8d3b-d4a7c1d94d83
+[I 2025-10-20 12:02:51.739 ServerApp] Starting buffering for 682c940b-b55e-4eb5-9944-78fa33d5a897:2a438222-22a1-4a9a-ad5d-6585a9eb8f7e
+[I 2025-10-20 12:02:51.741 ServerApp] Starting buffering for 559f5626-21a6-4788-b35f-4aa8a0539fbf:eb816ec7-3934-42a8-bda2-04dcfb27b4df
+[I 2025-10-20 12:02:51.745 ServerApp] Connecting to kernel 3f2be5d2-7190-465b-9c42-c46c6824446b.
+[I 2025-10-20 12:02:51.745 ServerApp] Restoring connection for 3f2be5d2-7190-465b-9c42-c46c6824446b:d865cb2b-601e-4309-acb3-ee885b504dc5
+[I 2025-10-20 12:02:51.760 ServerApp] Connecting to kernel d6094a44-b0aa-4908-b9d8-ca1413dbf48f.
+[I 2025-10-20 12:02:51.760 ServerApp] Restoring connection for d6094a44-b0aa-4908-b9d8-ca1413dbf48f:3e94ce77-5a42-49b6-8d3b-d4a7c1d94d83
+[I 2025-10-20 12:02:51.774 ServerApp] Connecting to kernel 682c940b-b55e-4eb5-9944-78fa33d5a897.
+[I 2025-10-20 12:02:51.774 ServerApp] Restoring connection for 682c940b-b55e-4eb5-9944-78fa33d5a897:2a438222-22a1-4a9a-ad5d-6585a9eb8f7e
+[I 2025-10-20 12:02:51.786 ServerApp] Connecting to kernel 559f5626-21a6-4788-b35f-4aa8a0539fbf.
+[I 2025-10-20 12:02:51.786 ServerApp] Restoring connection for 559f5626-21a6-4788-b35f-4aa8a0539fbf:eb816ec7-3934-42a8-bda2-04dcfb27b4df
+[I 2025-10-20 12:37:28.663 ServerApp] Saving file at /04-Statistics/stats-1/Stats - 2 [Fitting Distributions].ipynb
+[W 2025-10-20 12:37:28.666 ServerApp] Notebook 04-Statistics/stats-1/Stats - 2 [Fitting Distributions].ipynb is not trusted
+[I 2025-10-20 12:39:28.713 ServerApp] Saving file at /04-Statistics/stats-1/Stats - 2 [Fitting Distributions].ipynb
+[W 2025-10-20 12:39:28.714 ServerApp] Notebook 04-Statistics/stats-1/Stats - 2 [Fitting Distributions].ipynb is not trusted
+[I 2025-10-20 12:41:28.756 ServerApp] Saving file at /04-Statistics/stats-1/Stats - 2 [Fitting Distributions].ipynb
+[W 2025-10-20 12:41:28.758 ServerApp] Notebook 04-Statistics/stats-1/Stats - 2 [Fitting Distributions].ipynb is not trusted
+[I 2025-10-20 12:43:29.662 ServerApp] Saving file at /04-Statistics/stats-1/Stats - 2 [Fitting Distributions].ipynb
+[W 2025-10-20 12:43:29.664 ServerApp] Notebook 04-Statistics/stats-1/Stats - 2 [Fitting Distributions].ipynb is not trusted
+[I 2025-10-20 12:45:29.710 ServerApp] Saving file at /04-Statistics/stats-1/Stats - 2 [Fitting Distributions].ipynb
+[W 2025-10-20 12:45:29.711 ServerApp] Notebook 04-Statistics/stats-1/Stats - 2 [Fitting Distributions].ipynb is not trusted
+[I 2025-10-20 12:47:29.781 ServerApp] Saving file at /04-Statistics/stats-1/Stats - 2 [Fitting Distributions].ipynb
+[W 2025-10-20 12:47:29.782 ServerApp] Notebook 04-Statistics/stats-1/Stats - 2 [Fitting Distributions].ipynb is not trusted
+[I 2025-10-20 12:49:15.328 ServerApp] Kernel restarted: 682c940b-b55e-4eb5-9944-78fa33d5a897
+[I 2025-10-20 12:49:15.331 ServerApp] Starting buffering for 682c940b-b55e-4eb5-9944-78fa33d5a897:2a438222-22a1-4a9a-ad5d-6585a9eb8f7e
+[I 2025-10-20 12:49:15.334 ServerApp] Connecting to kernel 682c940b-b55e-4eb5-9944-78fa33d5a897.
+[I 2025-10-20 12:49:15.334 ServerApp] Restoring connection for 682c940b-b55e-4eb5-9944-78fa33d5a897:2a438222-22a1-4a9a-ad5d-6585a9eb8f7e
+[I 2025-10-20 12:49:29.868 ServerApp] Saving file at /04-Statistics/stats-1/Stats - 2 [Fitting Distributions].ipynb
+[I 2025-10-20 12:52:45.707 ServerApp] Saving file at /04-Statistics/1-Univariate.ipynb
+[W 2025-10-20 12:52:45.708 ServerApp] Notebook 04-Statistics/1-Univariate.ipynb is not trusted
+[I 2025-10-20 13:02:49.714 ServerApp] Saving file at /04-Statistics/1-Univariate.ipynb
+[W 2025-10-20 13:02:49.714 ServerApp] Notebook 04-Statistics/1-Univariate.ipynb is not trusted
+[I 2025-10-20 13:04:49.759 ServerApp] Saving file at /04-Statistics/1-Univariate.ipynb
+[W 2025-10-20 13:04:49.760 ServerApp] Notebook 04-Statistics/1-Univariate.ipynb is not trusted
+[I 2025-10-20 13:06:50.714 ServerApp] Saving file at /04-Statistics/1-Univariate.ipynb
+[W 2025-10-20 13:06:50.715 ServerApp] Notebook 04-Statistics/1-Univariate.ipynb is not trusted
+[I 2025-10-20 13:08:51.718 ServerApp] Saving file at /04-Statistics/1-Univariate.ipynb
+[W 2025-10-20 13:08:51.719 ServerApp] Notebook 04-Statistics/1-Univariate.ipynb is not trusted
+[I 2025-10-20 13:10:51.763 ServerApp] Saving file at /04-Statistics/1-Univariate.ipynb
+[W 2025-10-20 13:10:51.764 ServerApp] Notebook 04-Statistics/1-Univariate.ipynb is not trusted
+[I 2025-10-20 13:12:51.807 ServerApp] Saving file at /04-Statistics/1-Univariate.ipynb
+[W 2025-10-20 13:12:51.808 ServerApp] Notebook 04-Statistics/1-Univariate.ipynb is not trusted
+[I 2025-10-20 13:14:52.720 ServerApp] Saving file at /04-Statistics/1-Univariate.ipynb
+[W 2025-10-20 13:14:52.721 ServerApp] Notebook 04-Statistics/1-Univariate.ipynb is not trusted
+[I 2025-10-20 13:16:52.762 ServerApp] Saving file at /04-Statistics/1-Univariate.ipynb
+[W 2025-10-20 13:16:52.763 ServerApp] Notebook 04-Statistics/1-Univariate.ipynb is not trusted
+[I 2025-10-20 13:18:52.806 ServerApp] Saving file at /04-Statistics/1-Univariate.ipynb
+[W 2025-10-20 13:18:52.807 ServerApp] Notebook 04-Statistics/1-Univariate.ipynb is not trusted
+[I 2025-10-20 13:20:52.865 ServerApp] Saving file at /04-Statistics/1-Univariate.ipynb
+[W 2025-10-20 13:20:52.866 ServerApp] Notebook 04-Statistics/1-Univariate.ipynb is not trusted
+[I 2025-10-20 13:22:53.727 ServerApp] Saving file at /04-Statistics/1-Univariate.ipynb
+[W 2025-10-20 13:22:53.729 ServerApp] Notebook 04-Statistics/1-Univariate.ipynb is not trusted
+[I 2025-10-20 13:24:53.755 ServerApp] Saving file at /04-Statistics/1-Univariate.ipynb
+[W 2025-10-20 13:24:53.756 ServerApp] Notebook 04-Statistics/1-Univariate.ipynb is not trusted
+[I 2025-10-20 13:26:53.803 ServerApp] Saving file at /04-Statistics/1-Univariate.ipynb
+[W 2025-10-20 13:26:53.805 ServerApp] Notebook 04-Statistics/1-Univariate.ipynb is not trusted
+[I 2025-10-20 13:28:53.860 ServerApp] Saving file at /04-Statistics/1-Univariate.ipynb
+[W 2025-10-20 13:28:53.861 ServerApp] Notebook 04-Statistics/1-Univariate.ipynb is not trusted
+[I 2025-10-20 13:30:53.902 ServerApp] Saving file at /04-Statistics/1-Univariate.ipynb
+[W 2025-10-20 13:30:53.903 ServerApp] Notebook 04-Statistics/1-Univariate.ipynb is not trusted
+[I 2025-10-20 13:32:53.945 ServerApp] Saving file at /04-Statistics/1-Univariate.ipynb
+[W 2025-10-20 13:32:53.946 ServerApp] Notebook 04-Statistics/1-Univariate.ipynb is not trusted
+[I 2025-10-20 13:34:54.019 ServerApp] Saving file at /04-Statistics/1-Univariate.ipynb
+[W 2025-10-20 13:34:54.020 ServerApp] Notebook 04-Statistics/1-Univariate.ipynb is not trusted
+[I 2025-10-20 13:36:54.054 ServerApp] Saving file at /04-Statistics/1-Univariate.ipynb
+[W 2025-10-20 13:36:54.056 ServerApp] Notebook 04-Statistics/1-Univariate.ipynb is not trusted
+[I 2025-10-20 13:38:54.097 ServerApp] Saving file at /04-Statistics/1-Univariate.ipynb
+[W 2025-10-20 13:38:54.098 ServerApp] Notebook 04-Statistics/1-Univariate.ipynb is not trusted
+[I 2025-10-20 13:40:54.713 ServerApp] Saving file at /04-Statistics/1-Univariate.ipynb
+[W 2025-10-20 13:40:54.713 ServerApp] Notebook 04-Statistics/1-Univariate.ipynb is not trusted
+[I 2025-10-20 13:42:55.717 ServerApp] Saving file at /04-Statistics/1-Univariate.ipynb
+[W 2025-10-20 13:42:55.718 ServerApp] Notebook 04-Statistics/1-Univariate.ipynb is not trusted
+[I 2025-10-20 13:44:56.717 ServerApp] Saving file at /04-Statistics/1-Univariate.ipynb
+[W 2025-10-20 13:44:56.718 ServerApp] Notebook 04-Statistics/1-Univariate.ipynb is not trusted
+[I 2025-10-20 13:46:56.759 ServerApp] Saving file at /04-Statistics/1-Univariate.ipynb
+[W 2025-10-20 13:46:56.760 ServerApp] Notebook 04-Statistics/1-Univariate.ipynb is not trusted
+[I 2025-10-20 13:48:47.427 ServerApp] Creating new notebook in /04-Statistics
+[I 2025-10-20 13:48:49.309 ServerApp] Kernel started: 8af37cae-04cb-4d21-8e7a-f08ea02e9bc5
+[I 2025-10-20 13:48:49.751 ServerApp] Connecting to kernel 8af37cae-04cb-4d21-8e7a-f08ea02e9bc5.
+[I 2025-10-20 13:48:56.799 ServerApp] Saving file at /04-Statistics/1-Univariate.ipynb
+[I 2025-10-20 13:50:56.429 ServerApp] Saving file at /04-Statistics/2-Bivariate.ipynb
+[I 2025-10-20 14:48:40.690 ServerApp] Starting buffering for 8af37cae-04cb-4d21-8e7a-f08ea02e9bc5:a9ec158c-336a-435e-8d6e-8e175705f650
+[I 2025-10-20 14:48:40.692 ServerApp] Starting buffering for 682c940b-b55e-4eb5-9944-78fa33d5a897:2a438222-22a1-4a9a-ad5d-6585a9eb8f7e
+[I 2025-10-20 14:48:40.693 ServerApp] Starting buffering for 559f5626-21a6-4788-b35f-4aa8a0539fbf:eb816ec7-3934-42a8-bda2-04dcfb27b4df
+[I 2025-10-20 14:48:40.693 ServerApp] Starting buffering for d6094a44-b0aa-4908-b9d8-ca1413dbf48f:3e94ce77-5a42-49b6-8d3b-d4a7c1d94d83
+[I 2025-10-20 14:48:40.693 ServerApp] Starting buffering for 3f2be5d2-7190-465b-9c42-c46c6824446b:d865cb2b-601e-4309-acb3-ee885b504dc5
+[I 2025-10-20 14:48:40.696 ServerApp] Connecting to kernel 8af37cae-04cb-4d21-8e7a-f08ea02e9bc5.
+[I 2025-10-20 14:48:40.696 ServerApp] Restoring connection for 8af37cae-04cb-4d21-8e7a-f08ea02e9bc5:a9ec158c-336a-435e-8d6e-8e175705f650
+[I 2025-10-20 14:48:40.708 ServerApp] Connecting to kernel 682c940b-b55e-4eb5-9944-78fa33d5a897.
+[I 2025-10-20 14:48:40.708 ServerApp] Restoring connection for 682c940b-b55e-4eb5-9944-78fa33d5a897:2a438222-22a1-4a9a-ad5d-6585a9eb8f7e
+[I 2025-10-20 14:48:40.721 ServerApp] Connecting to kernel 559f5626-21a6-4788-b35f-4aa8a0539fbf.
+[I 2025-10-20 14:48:40.721 ServerApp] Restoring connection for 559f5626-21a6-4788-b35f-4aa8a0539fbf:eb816ec7-3934-42a8-bda2-04dcfb27b4df
+[I 2025-10-20 14:48:40.736 ServerApp] Connecting to kernel d6094a44-b0aa-4908-b9d8-ca1413dbf48f.
+[I 2025-10-20 14:48:40.736 ServerApp] Restoring connection for d6094a44-b0aa-4908-b9d8-ca1413dbf48f:3e94ce77-5a42-49b6-8d3b-d4a7c1d94d83
+[I 2025-10-20 14:48:40.753 ServerApp] Connecting to kernel 3f2be5d2-7190-465b-9c42-c46c6824446b.
+[I 2025-10-20 14:48:40.753 ServerApp] Restoring connection for 3f2be5d2-7190-465b-9c42-c46c6824446b:d865cb2b-601e-4309-acb3-ee885b504dc5
+[W 2025-10-20 14:53:39.504 ServerApp] Notebook 04-Statistics/stats-2/1 - Hypothesis Testing.ipynb is not trusted
+[I 2025-10-20 14:53:39.654 ServerApp] Kernel started: 487061dc-c4ea-4962-8fff-042464e42db2
+[I 2025-10-20 14:53:40.042 ServerApp] Connecting to kernel 487061dc-c4ea-4962-8fff-042464e42db2.
+[I 2025-10-20 14:55:39.556 ServerApp] Saving file at /04-Statistics/stats-2/1 - Hypothesis Testing.ipynb
+[W 2025-10-20 14:55:39.556 ServerApp] Notebook 04-Statistics/stats-2/1 - Hypothesis Testing.ipynb is not trusted
+[W 2025-10-20 14:55:48.927 ServerApp] Notebook 04-Statistics/Stats-in-class-notebook.ipynb is not trusted
+[I 2025-10-20 14:55:49.065 ServerApp] Kernel started: 4f0925f7-2203-444f-9c8c-5f95d5b3b56e
+[I 2025-10-20 14:55:49.261 ServerApp] Connecting to kernel 4f0925f7-2203-444f-9c8c-5f95d5b3b56e.
+[I 2025-10-20 14:57:48.981 ServerApp] Saving file at /04-Statistics/Stats-in-class-notebook.ipynb
+[W 2025-10-20 14:57:48.984 ServerApp] Notebook 04-Statistics/Stats-in-class-notebook.ipynb is not trusted
+[I 2025-10-20 15:06:56.469 ServerApp] Starting buffering for 4f0925f7-2203-444f-9c8c-5f95d5b3b56e:09307d87-372c-4733-aa8a-36a25ad8ea4d
+[I 2025-10-20 15:06:56.473 ServerApp] Starting buffering for 487061dc-c4ea-4962-8fff-042464e42db2:d10c8c28-85dd-469d-ae64-30c82297a087
+[I 2025-10-20 15:06:56.479 ServerApp] Starting buffering for 3f2be5d2-7190-465b-9c42-c46c6824446b:d865cb2b-601e-4309-acb3-ee885b504dc5
+[I 2025-10-20 15:06:56.486 ServerApp] Starting buffering for d6094a44-b0aa-4908-b9d8-ca1413dbf48f:3e94ce77-5a42-49b6-8d3b-d4a7c1d94d83
+[I 2025-10-20 15:06:56.489 ServerApp] Starting buffering for 559f5626-21a6-4788-b35f-4aa8a0539fbf:eb816ec7-3934-42a8-bda2-04dcfb27b4df
+[I 2025-10-20 15:06:56.492 ServerApp] Starting buffering for 682c940b-b55e-4eb5-9944-78fa33d5a897:2a438222-22a1-4a9a-ad5d-6585a9eb8f7e
+[I 2025-10-20 15:06:56.494 ServerApp] Starting buffering for 8af37cae-04cb-4d21-8e7a-f08ea02e9bc5:a9ec158c-336a-435e-8d6e-8e175705f650
+[I 2025-10-20 15:06:56.500 ServerApp] Connecting to kernel 4f0925f7-2203-444f-9c8c-5f95d5b3b56e.
+[I 2025-10-20 15:06:56.501 ServerApp] Restoring connection for 4f0925f7-2203-444f-9c8c-5f95d5b3b56e:09307d87-372c-4733-aa8a-36a25ad8ea4d
+[I 2025-10-20 15:06:56.516 ServerApp] Connecting to kernel 487061dc-c4ea-4962-8fff-042464e42db2.
+[I 2025-10-20 15:06:56.516 ServerApp] Restoring connection for 487061dc-c4ea-4962-8fff-042464e42db2:d10c8c28-85dd-469d-ae64-30c82297a087
+[I 2025-10-20 15:06:56.528 ServerApp] Connecting to kernel 3f2be5d2-7190-465b-9c42-c46c6824446b.
+[I 2025-10-20 15:06:56.528 ServerApp] Restoring connection for 3f2be5d2-7190-465b-9c42-c46c6824446b:d865cb2b-601e-4309-acb3-ee885b504dc5
+[I 2025-10-20 15:06:56.540 ServerApp] Connecting to kernel d6094a44-b0aa-4908-b9d8-ca1413dbf48f.
+[I 2025-10-20 15:06:56.540 ServerApp] Restoring connection for d6094a44-b0aa-4908-b9d8-ca1413dbf48f:3e94ce77-5a42-49b6-8d3b-d4a7c1d94d83
+[I 2025-10-20 15:06:56.558 ServerApp] Connecting to kernel 559f5626-21a6-4788-b35f-4aa8a0539fbf.
+[I 2025-10-20 15:06:56.558 ServerApp] Restoring connection for 559f5626-21a6-4788-b35f-4aa8a0539fbf:eb816ec7-3934-42a8-bda2-04dcfb27b4df
+[I 2025-10-20 15:06:56.595 ServerApp] Connecting to kernel 682c940b-b55e-4eb5-9944-78fa33d5a897.
+[I 2025-10-20 15:06:56.595 ServerApp] Restoring connection for 682c940b-b55e-4eb5-9944-78fa33d5a897:2a438222-22a1-4a9a-ad5d-6585a9eb8f7e
+[I 2025-10-20 15:06:56.610 ServerApp] Connecting to kernel 8af37cae-04cb-4d21-8e7a-f08ea02e9bc5.
+[I 2025-10-20 15:06:56.610 ServerApp] Restoring connection for 8af37cae-04cb-4d21-8e7a-f08ea02e9bc5:a9ec158c-336a-435e-8d6e-8e175705f650
+[I 2025-10-20 15:29:53.870 ServerApp] Starting buffering for 8af37cae-04cb-4d21-8e7a-f08ea02e9bc5:a9ec158c-336a-435e-8d6e-8e175705f650
+[I 2025-10-20 15:29:53.873 ServerApp] Starting buffering for 682c940b-b55e-4eb5-9944-78fa33d5a897:2a438222-22a1-4a9a-ad5d-6585a9eb8f7e
+[I 2025-10-20 15:29:53.874 ServerApp] Starting buffering for 559f5626-21a6-4788-b35f-4aa8a0539fbf:eb816ec7-3934-42a8-bda2-04dcfb27b4df
+[I 2025-10-20 15:29:53.875 ServerApp] Starting buffering for d6094a44-b0aa-4908-b9d8-ca1413dbf48f:3e94ce77-5a42-49b6-8d3b-d4a7c1d94d83
+[I 2025-10-20 15:29:53.875 ServerApp] Starting buffering for 3f2be5d2-7190-465b-9c42-c46c6824446b:d865cb2b-601e-4309-acb3-ee885b504dc5
+[I 2025-10-20 15:29:53.876 ServerApp] Starting buffering for 487061dc-c4ea-4962-8fff-042464e42db2:d10c8c28-85dd-469d-ae64-30c82297a087
+[I 2025-10-20 15:29:53.876 ServerApp] Starting buffering for 4f0925f7-2203-444f-9c8c-5f95d5b3b56e:09307d87-372c-4733-aa8a-36a25ad8ea4d
+[I 2025-10-20 15:29:53.883 ServerApp] Connecting to kernel 8af37cae-04cb-4d21-8e7a-f08ea02e9bc5.
+[I 2025-10-20 15:29:53.883 ServerApp] Restoring connection for 8af37cae-04cb-4d21-8e7a-f08ea02e9bc5:a9ec158c-336a-435e-8d6e-8e175705f650
+[I 2025-10-20 15:29:53.909 ServerApp] Connecting to kernel 682c940b-b55e-4eb5-9944-78fa33d5a897.
+[I 2025-10-20 15:29:53.909 ServerApp] Restoring connection for 682c940b-b55e-4eb5-9944-78fa33d5a897:2a438222-22a1-4a9a-ad5d-6585a9eb8f7e
+[I 2025-10-20 15:29:53.947 ServerApp] Connecting to kernel 559f5626-21a6-4788-b35f-4aa8a0539fbf.
+[I 2025-10-20 15:29:53.947 ServerApp] Restoring connection for 559f5626-21a6-4788-b35f-4aa8a0539fbf:eb816ec7-3934-42a8-bda2-04dcfb27b4df
+[I 2025-10-20 15:29:53.972 ServerApp] Connecting to kernel d6094a44-b0aa-4908-b9d8-ca1413dbf48f.
+[I 2025-10-20 15:29:53.972 ServerApp] Restoring connection for d6094a44-b0aa-4908-b9d8-ca1413dbf48f:3e94ce77-5a42-49b6-8d3b-d4a7c1d94d83
+[I 2025-10-20 15:29:53.989 ServerApp] Connecting to kernel 3f2be5d2-7190-465b-9c42-c46c6824446b.
+[I 2025-10-20 15:29:53.989 ServerApp] Restoring connection for 3f2be5d2-7190-465b-9c42-c46c6824446b:d865cb2b-601e-4309-acb3-ee885b504dc5
+[I 2025-10-20 15:29:54.003 ServerApp] Connecting to kernel 4f0925f7-2203-444f-9c8c-5f95d5b3b56e.
+[I 2025-10-20 15:29:54.003 ServerApp] Restoring connection for 4f0925f7-2203-444f-9c8c-5f95d5b3b56e:09307d87-372c-4733-aa8a-36a25ad8ea4d
+[I 2025-10-20 15:29:54.068 ServerApp] Connecting to kernel 487061dc-c4ea-4962-8fff-042464e42db2.
+[I 2025-10-20 15:29:54.068 ServerApp] Restoring connection for 487061dc-c4ea-4962-8fff-042464e42db2:d10c8c28-85dd-469d-ae64-30c82297a087
+[I 2025-10-20 15:32:22.381 ServerApp] Saving file at /04-Statistics/1-Univariate.ipynb
+[I 2025-10-20 15:34:22.430 ServerApp] Saving file at /04-Statistics/1-Univariate.ipynb
+[I 2025-10-20 15:36:22.461 ServerApp] Saving file at /04-Statistics/1-Univariate.ipynb
+[I 2025-10-20 15:36:26.394 ServerApp] Starting buffering for 682c940b-b55e-4eb5-9944-78fa33d5a897:2a438222-22a1-4a9a-ad5d-6585a9eb8f7e
+[I 2025-10-20 15:36:26.398 ServerApp] Kernel shutdown: 682c940b-b55e-4eb5-9944-78fa33d5a897
+[I 2025-10-20 15:38:22.498 ServerApp] Saving file at /04-Statistics/1-Univariate.ipynb
+[I 2025-10-20 15:38:52.541 ServerApp] Starting buffering for 4f0925f7-2203-444f-9c8c-5f95d5b3b56e:09307d87-372c-4733-aa8a-36a25ad8ea4d
+[I 2025-10-20 15:38:52.544 ServerApp] Kernel shutdown: 4f0925f7-2203-444f-9c8c-5f95d5b3b56e
+[I 2025-10-20 15:39:02.256 ServerApp] Saving file at /04-Statistics/1-Univariate.ipynb
+[I 2025-10-20 15:40:22.536 ServerApp] Saving file at /04-Statistics/1-Univariate.ipynb
+[I 2025-10-20 15:42:22.573 ServerApp] Saving file at /04-Statistics/1-Univariate.ipynb
+[I 2025-10-20 15:44:21.495 ServerApp] Saving file at /04-Statistics/1-Univariate.ipynb
+[I 2025-10-20 15:44:58.969 ServerApp] Kernel restarted: d6094a44-b0aa-4908-b9d8-ca1413dbf48f
+[I 2025-10-20 15:44:58.971 ServerApp] Starting buffering for d6094a44-b0aa-4908-b9d8-ca1413dbf48f:3e94ce77-5a42-49b6-8d3b-d4a7c1d94d83
+[I 2025-10-20 15:44:58.973 ServerApp] Connecting to kernel d6094a44-b0aa-4908-b9d8-ca1413dbf48f.
+[I 2025-10-20 15:44:58.973 ServerApp] Restoring connection for d6094a44-b0aa-4908-b9d8-ca1413dbf48f:3e94ce77-5a42-49b6-8d3b-d4a7c1d94d83
+[I 2025-10-20 15:55:00.586 ServerApp] Uploading file to /04-Statistics/3_HypothesisTesting.pdf
+[I 2025-10-20 15:55:00.590 ServerApp] Uploading file to /04-Statistics/4_Correlation.pdf
+[I 2025-10-20 15:55:00.596 ServerApp] Uploading file to /04-Statistics/5_Regression.pdf
+[I 2025-10-20 15:55:05.612 ServerApp] Starting buffering for 559f5626-21a6-4788-b35f-4aa8a0539fbf:eb816ec7-3934-42a8-bda2-04dcfb27b4df
+[I 2025-10-20 15:55:05.615 ServerApp] Kernel shutdown: 559f5626-21a6-4788-b35f-4aa8a0539fbf
+[I 2025-10-20 15:55:06.065 ServerApp] Starting buffering for 8af37cae-04cb-4d21-8e7a-f08ea02e9bc5:a9ec158c-336a-435e-8d6e-8e175705f650
+[I 2025-10-20 15:55:06.066 ServerApp] Kernel shutdown: 8af37cae-04cb-4d21-8e7a-f08ea02e9bc5
+[I 2025-10-20 15:55:06.490 ServerApp] Starting buffering for d6094a44-b0aa-4908-b9d8-ca1413dbf48f:3e94ce77-5a42-49b6-8d3b-d4a7c1d94d83
+[I 2025-10-20 15:55:06.491 ServerApp] Kernel shutdown: d6094a44-b0aa-4908-b9d8-ca1413dbf48f
+[I 2025-10-20 15:55:06.970 ServerApp] Starting buffering for 3f2be5d2-7190-465b-9c42-c46c6824446b:d865cb2b-601e-4309-acb3-ee885b504dc5
+[I 2025-10-20 15:55:06.971 ServerApp] Kernel shutdown: 3f2be5d2-7190-465b-9c42-c46c6824446b
+[I 2025-10-20 15:55:07.411 ServerApp] Starting buffering for 487061dc-c4ea-4962-8fff-042464e42db2:d10c8c28-85dd-469d-ae64-30c82297a087
+[I 2025-10-20 15:55:07.412 ServerApp] Kernel shutdown: 487061dc-c4ea-4962-8fff-042464e42db2
+[W 2025-10-20 15:55:40.053 ServerApp] Notebook 04-Statistics/stats-1/Stats - 4 [Regression].ipynb is not trusted
+[I 2025-10-20 15:55:40.204 ServerApp] Kernel started: eaf7de56-b965-4a8c-b58a-408edce5afda
+[I 2025-10-20 15:55:40.531 ServerApp] Connecting to kernel eaf7de56-b965-4a8c-b58a-408edce5afda.
+[I 2025-10-20 15:55:48.824 ServerApp] Starting buffering for eaf7de56-b965-4a8c-b58a-408edce5afda:ea1ae495-f948-466a-bd45-f0968922fdc9
+[I 2025-10-20 15:55:48.827 ServerApp] Kernel shutdown: eaf7de56-b965-4a8c-b58a-408edce5afda
+[W 2025-10-20 15:55:50.556 ServerApp] Notebook 04-Statistics/stats-1/Stats - 3 [Effect Size].ipynb is not trusted
+[I 2025-10-20 15:55:50.691 ServerApp] Kernel started: 96f0af27-10e1-4b73-bebe-d831bdabaf84
+[I 2025-10-20 15:55:50.929 ServerApp] Connecting to kernel 96f0af27-10e1-4b73-bebe-d831bdabaf84.
+[I 2025-10-20 15:56:12.068 ServerApp] Starting buffering for 96f0af27-10e1-4b73-bebe-d831bdabaf84:163ad8b6-7a53-4879-b68e-db982bab6b60
+[I 2025-10-20 15:56:12.070 ServerApp] Kernel shutdown: 96f0af27-10e1-4b73-bebe-d831bdabaf84
+[W 2025-10-20 15:56:16.976 ServerApp] Notebook 04-Statistics/stats-2/1 - Hypothesis Testing.ipynb is not trusted
+[I 2025-10-20 15:56:17.094 ServerApp] Kernel started: 77b12207-fc88-42fb-8ade-609fbb7f2336
+[I 2025-10-20 15:56:17.333 ServerApp] Connecting to kernel 77b12207-fc88-42fb-8ade-609fbb7f2336.
+[I 2025-10-20 15:56:34.154 ServerApp] Starting buffering for 77b12207-fc88-42fb-8ade-609fbb7f2336:5b4689d3-d768-4c42-ba16-ee049d8622cd
+[I 2025-10-20 15:56:34.156 ServerApp] Kernel shutdown: 77b12207-fc88-42fb-8ade-609fbb7f2336
+[W 2025-10-20 15:56:35.534 ServerApp] Notebook 04-Statistics/stats-2/2.1 - MoreDistributions_CurveFitting.ipynb is not trusted
+[I 2025-10-20 15:56:35.667 ServerApp] Kernel started: d0239aa3-3f79-4329-ba17-c6aba88aa046
+[I 2025-10-20 15:56:35.852 ServerApp] Connecting to kernel d0239aa3-3f79-4329-ba17-c6aba88aa046.
+[I 2025-10-20 15:57:03.117 ServerApp] Starting buffering for d0239aa3-3f79-4329-ba17-c6aba88aa046:bec5e4bb-39c1-42d5-a930-cd8a338b34bd
+[I 2025-10-20 15:57:03.119 ServerApp] Kernel shutdown: d0239aa3-3f79-4329-ba17-c6aba88aa046
+[W 2025-10-20 15:57:06.423 ServerApp] Notebook 04-Statistics/stats-2/2.2 - curveFitting_MLE.ipynb is not trusted
+[I 2025-10-20 15:57:06.550 ServerApp] Kernel started: e332f767-4f66-4fe3-9d44-c397ed765ced
+[I 2025-10-20 15:57:06.750 ServerApp] Connecting to kernel e332f767-4f66-4fe3-9d44-c397ed765ced.
+[I 2025-10-20 15:57:12.152 ServerApp] Starting buffering for e332f767-4f66-4fe3-9d44-c397ed765ced:297de2c6-eb66-44f3-8373-8ab7b7bdbc4e
+[I 2025-10-20 15:57:12.154 ServerApp] Kernel shutdown: e332f767-4f66-4fe3-9d44-c397ed765ced
+[W 2025-10-20 15:57:13.882 ServerApp] Notebook 04-Statistics/stats-2/3 - Correlation with chisquare.ipynb is not trusted
+[I 2025-10-20 15:57:14.007 ServerApp] Kernel started: 719f2b24-3ad8-4514-aa1f-7dab610aed5d
+[I 2025-10-20 15:57:14.190 ServerApp] Connecting to kernel 719f2b24-3ad8-4514-aa1f-7dab610aed5d.
+[I 2025-10-20 15:57:28.539 ServerApp] Starting buffering for 719f2b24-3ad8-4514-aa1f-7dab610aed5d:15d8975e-ed9e-48cd-9f85-d9caaad9f0b9
+[I 2025-10-20 15:57:28.541 ServerApp] Kernel shutdown: 719f2b24-3ad8-4514-aa1f-7dab610aed5d
+[W 2025-10-20 15:57:33.152 ServerApp] Notebook 04-Statistics/stats-2/4 - Regression Example/A1. Linear Regression - Overview.ipynb is not trusted
+[W 2025-10-20 15:57:33.223 ServerApp] 404 GET /files/04-Statistics/stats-2/4%20-%20Regression%20Example/files/images/a1fig1_labexperiment.png?_xsrf=[secret]&1760968653209 (c0caa8c02f8e4cc0bc6cb4b348316188@::1) 2.46ms referer=http://localhost:8888/lab/tree/04-Statistics/stats-2/4%20-%20Regression%20Example/A1.%20Linear%20Regression%20-%20Overview.ipynb
+[I 2025-10-20 15:57:33.345 ServerApp] Kernel started: 1036c7ec-61f8-42a4-8ab7-7c973fd58af0
+[I 2025-10-20 15:57:33.744 ServerApp] Connecting to kernel 1036c7ec-61f8-42a4-8ab7-7c973fd58af0.
+[W 2025-10-20 15:57:33.898 ServerApp] 404 GET /files/04-Statistics/stats-2/4%20-%20Regression%20Example/files/images/a1fig4_twolabexperiments.png?_xsrf=[secret]&1760968653896 (c0caa8c02f8e4cc0bc6cb4b348316188@::1) 0.57ms referer=http://localhost:8888/lab/tree/04-Statistics/stats-2/4%20-%20Regression%20Example/A1.%20Linear%20Regression%20-%20Overview.ipynb
+[I 2025-10-20 15:57:39.725 ServerApp] Starting buffering for 1036c7ec-61f8-42a4-8ab7-7c973fd58af0:33409f88-d55c-464d-a85d-466feceb662c
+[I 2025-10-20 15:57:39.727 ServerApp] Kernel shutdown: 1036c7ec-61f8-42a4-8ab7-7c973fd58af0
+[W 2025-10-20 15:57:49.216 ServerApp] delete /04-Statistics/docs
+[W 2025-10-20 15:57:49.258 ServerApp] delete /04-Statistics/stats-1
+[W 2025-10-20 15:57:49.264 ServerApp] delete /04-Statistics/stats-2
+[I 2025-10-20 15:57:59.909 ServerApp] Kernel started: 5866fea8-0568-44a4-b477-1c77149e1dda
+[I 2025-10-20 15:58:00.096 ServerApp] Connecting to kernel 5866fea8-0568-44a4-b477-1c77149e1dda.
+[I 2025-10-20 15:58:07.081 ServerApp] Starting buffering for 5866fea8-0568-44a4-b477-1c77149e1dda:b99e42ff-af9e-41e5-9314-cfffe960c1d5
+[I 2025-10-20 15:58:07.083 ServerApp] Kernel shutdown: 5866fea8-0568-44a4-b477-1c77149e1dda
+[W 2025-10-20 15:58:10.400 ServerApp] delete /04-Statistics/Visualizing_Distributions.ipynb
+[I 2025-10-20 15:58:11.929 ServerApp] Kernel started: 20255bcf-0541-410a-ac40-d307f6de804d
+[I 2025-10-20 15:58:12.138 ServerApp] Connecting to kernel 20255bcf-0541-410a-ac40-d307f6de804d.
+[I 2025-10-20 15:58:15.781 ServerApp] Starting buffering for 20255bcf-0541-410a-ac40-d307f6de804d:8dea444e-fe28-46ef-8fcb-6ebe7b127e8e
+[I 2025-10-20 15:58:15.783 ServerApp] Kernel shutdown: 20255bcf-0541-410a-ac40-d307f6de804d
+[I 2025-10-20 15:58:26.842 ServerApp] Creating new directory in 
+[I 2025-10-20 15:59:33.270 ServerApp] Creating new directory in /04-Statistics
+[W 2025-10-20 15:59:33.279 ServerApp] /Users/dush/Code/cst4150/04-Statistics/Untitled Folder doesn't exist
+[I 2025-10-20 15:59:33.297 ServerApp] Uploading file to /04-Statistics/notebooks/5. Distributions.ipynb
+[I 2025-10-20 15:59:33.316 ServerApp] Uploading file to /04-Statistics/notebooks/4. Basic Metrics.ipynb
+[I 2025-10-20 15:59:33.332 ServerApp] Uploading file to /04-Statistics/notebooks/1. Introduction.ipynb
+[I 2025-10-20 15:59:33.335 ServerApp] Creating new directory in /04-Statistics/notebooks
+[I 2025-10-20 15:59:33.352 ServerApp] Uploading file to /04-Statistics/notebooks/img/variance.png
+[I 2025-10-20 15:59:33.364 ServerApp] Uploading file to /04-Statistics/notebooks/img/leastsquare.gif
+[I 2025-10-20 15:59:33.376 ServerApp] Uploading file to /04-Statistics/notebooks/img/correlation.gif
+[I 2025-10-20 15:59:33.391 ServerApp] Uploading file to /04-Statistics/notebooks/img/skewness.png
+[I 2025-10-20 15:59:33.404 ServerApp] Uploading file to /04-Statistics/notebooks/img/correlation_not_causation.gif
+[I 2025-10-20 15:59:33.415 ServerApp] Uploading file to /04-Statistics/notebooks/img/binomial.gif
+[I 2025-10-20 15:59:33.427 ServerApp] Uploading file to /04-Statistics/notebooks/img/normal_cdf.png
+[I 2025-10-20 15:59:33.439 ServerApp] Uploading file to /04-Statistics/notebooks/img/6sigma.png
+[I 2025-10-20 15:59:33.450 ServerApp] Uploading file to /04-Statistics/notebooks/img/normal_pdf.png
+[I 2025-10-20 15:59:33.461 ServerApp] Uploading file to /04-Statistics/notebooks/img/normaldist.png
+[I 2025-10-20 15:59:33.471 ServerApp] Uploading file to /04-Statistics/notebooks/img/covariance.png
+[I 2025-10-20 15:59:33.483 ServerApp] Uploading file to /04-Statistics/notebooks/img/kurtosis.png
+[I 2025-10-20 15:59:33.494 ServerApp] Uploading file to /04-Statistics/notebooks/img/binomial_pmf.png
+[I 2025-10-20 15:59:33.510 ServerApp] Uploading file to /04-Statistics/notebooks/img/uniform.png
+[I 2025-10-20 15:59:33.521 ServerApp] Uploading file to /04-Statistics/notebooks/img/exponential_pdf.png
+[I 2025-10-20 15:59:33.536 ServerApp] Uploading file to /04-Statistics/notebooks/9. References.ipynb
+[I 2025-10-20 15:59:33.538 ServerApp] Creating new directory in /04-Statistics/notebooks
+[W 2025-10-20 15:59:33.540 ServerApp] 400 PATCH /api/contents/04-Statistics/notebooks/Untitled%20Folder?1760968773539 (::1): Cannot rename file or directory '/04-Statistics/notebooks/Untitled Folder'
+[W 2025-10-20 15:59:33.540 ServerApp] wrote error: "Cannot rename file or directory '/04-Statistics/notebooks/Untitled Folder'"
+    Traceback (most recent call last):
+      File "/Users/dush/Code/cst4150/.fintech/lib/python3.13/site-packages/tornado/web.py", line 1848, in _execute
+        result = await result
+                 ^^^^^^^^^^^^
+      File "/Users/dush/Code/cst4150/.fintech/lib/python3.13/site-packages/jupyter_server/auth/decorator.py", line 73, in inner
+        return await out
+               ^^^^^^^^^
+      File "/Users/dush/Code/cst4150/.fintech/lib/python3.13/site-packages/jupyter_server/services/contents/handlers.py", line 204, in patch
+        raise web.HTTPError(400, f"Cannot rename file or directory {path!r}")
+    tornado.web.HTTPError: HTTP 400: Bad Request (Cannot rename file or directory '/04-Statistics/notebooks/Untitled Folder')
+[W 2025-10-20 15:59:33.541 ServerApp] 400 PATCH /api/contents/04-Statistics/notebooks/Untitled%20Folder?1760968773539 (c0caa8c02f8e4cc0bc6cb4b348316188@::1) 1.19ms referer=http://localhost:8888/lab/tree/04-Statistics
+[W 2025-10-20 15:59:33.543 ServerApp] delete /04-Statistics/notebooks/Untitled Folder
+[W 2025-10-20 15:59:33.555 ServerApp] 400 PUT /api/contents/04-Statistics/notebooks/.ipynb_checkpoints/5.%20Distributions-checkpoint.ipynb?1760968773554 (::1): Cannot create file or directory '/04-Statistics/notebooks/.ipynb_checkpoints/5. Distributions-checkpoint.ipynb'
+[W 2025-10-20 15:59:33.555 ServerApp] wrote error: "Cannot create file or directory '/04-Statistics/notebooks/.ipynb_checkpoints/5. Distributions-checkpoint.ipynb'"
+    Traceback (most recent call last):
+      File "/Users/dush/Code/cst4150/.fintech/lib/python3.13/site-packages/tornado/web.py", line 1848, in _execute
+        result = await result
+                 ^^^^^^^^^^^^
+      File "/Users/dush/Code/cst4150/.fintech/lib/python3.13/site-packages/jupyter_server/auth/decorator.py", line 73, in inner
+        return await out
+               ^^^^^^^^^
+      File "/Users/dush/Code/cst4150/.fintech/lib/python3.13/site-packages/jupyter_server/services/contents/handlers.py", line 313, in put
+        raise web.HTTPError(400, f"Cannot create file or directory {path!r}")
+    tornado.web.HTTPError: HTTP 400: Bad Request (Cannot create file or directory '/04-Statistics/notebooks/.ipynb_checkpoints/5. Distributions-checkpoint.ipynb')
+[W 2025-10-20 15:59:33.556 ServerApp] 400 PUT /api/contents/04-Statistics/notebooks/.ipynb_checkpoints/5.%20Distributions-checkpoint.ipynb?1760968773554 (c0caa8c02f8e4cc0bc6cb4b348316188@::1) 1.32ms referer=http://localhost:8888/lab/tree/04-Statistics
+[I 2025-10-20 15:59:45.757 ServerApp] Uploading file to /04-Statistics/notebooks/2. Warm-up.ipynb
+[I 2025-10-20 15:59:45.759 ServerApp] Uploading file to /04-Statistics/notebooks/6. Hypothesis Testing.ipynb
+[I 2025-10-20 15:59:45.764 ServerApp] Uploading file to /04-Statistics/notebooks/3. Resampling.ipynb
+[I 2025-10-20 15:59:45.771 ServerApp] Uploading file to /04-Statistics/notebooks/7. Linear Regression.ipynb
+[I 2025-10-20 15:59:47.762 ServerApp] Saving file at /04-Statistics/notebooks/1. Introduction.ipynb
+[I 2025-10-20 15:59:48.179 ServerApp] Saving file at /04-Statistics/notebooks/4. Basic Metrics.ipynb
+[I 2025-10-20 15:59:48.539 ServerApp] Saving file at /04-Statistics/notebooks/5. Distributions.ipynb
+[W 2025-10-20 15:59:53.682 ServerApp] Notebook 04-Statistics/notebooks/3. Resampling.ipynb is not trusted
+[I 2025-10-20 15:59:53.827 ServerApp] Kernel started: 3d760cff-1ae8-4ae4-818f-5daaf7773b76
+[I 2025-10-20 15:59:54.086 ServerApp] Connecting to kernel 3d760cff-1ae8-4ae4-818f-5daaf7773b76.
+[W 2025-10-20 16:00:12.724 ServerApp] Notebook 04-Statistics/notebooks/4. Basic Metrics.ipynb is not trusted
+[I 2025-10-20 16:00:12.896 ServerApp] Kernel started: 05a0b236-6234-4886-ae66-17d50e788336
+[I 2025-10-20 16:00:13.201 ServerApp] Connecting to kernel 05a0b236-6234-4886-ae66-17d50e788336.
+[W 2025-10-20 16:00:24.322 ServerApp] Notebook 04-Statistics/notebooks/5. Distributions.ipynb is not trusted
+[I 2025-10-20 16:00:24.472 ServerApp] Kernel started: 2791449b-c945-4c3e-8272-e4a58fdbbce7
+[I 2025-10-20 16:00:24.689 ServerApp] Connecting to kernel 2791449b-c945-4c3e-8272-e4a58fdbbce7.
+[I 2025-10-20 16:00:43.905 ServerApp] Starting buffering for 3d760cff-1ae8-4ae4-818f-5daaf7773b76:3f9dcecb-4527-4751-ad58-6345998a9e29
+[I 2025-10-20 16:00:43.907 ServerApp] Kernel shutdown: 3d760cff-1ae8-4ae4-818f-5daaf7773b76
+[I 2025-10-20 16:00:46.168 ServerApp] Starting buffering for 05a0b236-6234-4886-ae66-17d50e788336:5b9c5b6a-294d-445a-b0dc-bf142800aa34
+[I 2025-10-20 16:00:46.171 ServerApp] Kernel shutdown: 05a0b236-6234-4886-ae66-17d50e788336
+[I 2025-10-20 16:00:48.250 ServerApp] Starting buffering for 2791449b-c945-4c3e-8272-e4a58fdbbce7:1b849dff-9a10-4bf2-861d-dd27c71a0165
+[I 2025-10-20 16:00:48.253 ServerApp] Kernel shutdown: 2791449b-c945-4c3e-8272-e4a58fdbbce7
+[W 2025-10-20 16:00:50.375 ServerApp] Notebook 04-Statistics/notebooks/6. Hypothesis Testing.ipynb is not trusted
+[I 2025-10-20 16:00:50.507 ServerApp] Kernel started: c600bb50-9268-4e17-867b-fe91862624e2
+[I 2025-10-20 16:00:50.729 ServerApp] Connecting to kernel c600bb50-9268-4e17-867b-fe91862624e2.
+[W 2025-10-20 16:01:00.206 ServerApp] delete /04-Statistics/notebooks
+[W 2025-10-20 16:02:50.407 ServerApp] 404 GET /api/contents/04-Statistics/notebooks/6.%20Hypothesis%20Testing.ipynb?content=0&hash=1&contentProviderId=undefined&1760968970402 (c0caa8c02f8e4cc0bc6cb4b348316188@::1) 1.16ms referer=http://localhost:8888/lab/tree/04-Statistics/notebooks/6.%20Hypothesis%20Testing.ipynb
+[W 2025-10-20 16:02:50.407 ServerApp] 404 GET /api/contents/04-Statistics/notebooks/6.%20Hypothesis%20Testing.ipynb?content=0&hash=1&contentProviderId=undefined&1760968970402 (::1): No such file or directory: 04-Statistics/notebooks/6. Hypothesis Testing.ipynb
+[I 2025-10-20 16:02:50.412 ServerApp] Uploading file to /04-Statistics/notebooks/6. Hypothesis Testing.ipynb
+[W 2025-10-20 16:02:50.412 ServerApp] Notebook 04-Statistics/notebooks/6. Hypothesis Testing.ipynb is not trusted
+[E 2025-10-20 16:02:50.412 ServerApp] Error while saving file: 04-Statistics/notebooks/6. Hypothesis Testing.ipynb [Errno 2] No such file or directory: '/Users/dush/Code/cst4150/04-Statistics/notebooks/6. Hypothesis Testing.ipynb'
+    Traceback (most recent call last):
+      File "/Users/dush/Code/cst4150/.fintech/lib/python3.13/site-packages/jupyter_server/services/contents/filemanager.py", line 965, in save
+        await self._save_notebook(os_path, nb, capture_validation_error=validation_error)
+      File "/Users/dush/Code/cst4150/.fintech/lib/python3.13/site-packages/jupyter_server/services/contents/fileio.py", line 514, in _save_notebook
+        with self.atomic_writing(os_path, encoding="utf-8") as f:
+             ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^
+      File "/Users/dush/.local/share/uv/python/cpython-3.13.7-macos-aarch64-none/lib/python3.13/contextlib.py", line 141, in __enter__
+        return next(self.gen)
+      File "/Users/dush/Code/cst4150/.fintech/lib/python3.13/site-packages/jupyter_server/services/contents/fileio.py", line 246, in atomic_writing
+        with atomic_writing(os_path, *args, **kwargs) as f:
+             ~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+      File "/Users/dush/.local/share/uv/python/cpython-3.13.7-macos-aarch64-none/lib/python3.13/contextlib.py", line 141, in __enter__
+        return next(self.gen)
+      File "/Users/dush/Code/cst4150/.fintech/lib/python3.13/site-packages/jupyter_server/services/contents/fileio.py", line 138, in atomic_writing
+        fileobj = open(path, "w", encoding=encoding, **kwargs)  # noqa: SIM115
+    FileNotFoundError: [Errno 2] No such file or directory: '/Users/dush/Code/cst4150/04-Statistics/notebooks/6. Hypothesis Testing.ipynb'
+[W 2025-10-20 16:02:50.417 ServerApp] 500 PUT /api/contents/04-Statistics/notebooks/6.%20Hypothesis%20Testing.ipynb?1760968970409 (::1): Unexpected error while saving file: 04-Statistics/notebooks/6. Hypothesis Testing.ipynb [Errno 2] No such file or directory: '/Users/dush/Code/cst4150/04-Statistics/notebooks/6. Hypothesis Testing.ipynb'
+[W 2025-10-20 16:02:50.417 ServerApp] wrote error: "Unexpected error while saving file: 04-Statistics/notebooks/6. Hypothesis Testing.ipynb [Errno 2] No such file or directory: '/Users/dush/Code/cst4150/04-Statistics/notebooks/6. Hypothesis Testing.ipynb'"
+    Traceback (most recent call last):
+      File "/Users/dush/Code/cst4150/.fintech/lib/python3.13/site-packages/jupyter_server/services/contents/filemanager.py", line 965, in save
+        await self._save_notebook(os_path, nb, capture_validation_error=validation_error)
+      File "/Users/dush/Code/cst4150/.fintech/lib/python3.13/site-packages/jupyter_server/services/contents/fileio.py", line 514, in _save_notebook
+        with self.atomic_writing(os_path, encoding="utf-8") as f:
+             ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^
+      File "/Users/dush/.local/share/uv/python/cpython-3.13.7-macos-aarch64-none/lib/python3.13/contextlib.py", line 141, in __enter__
+        return next(self.gen)
+      File "/Users/dush/Code/cst4150/.fintech/lib/python3.13/site-packages/jupyter_server/services/contents/fileio.py", line 246, in atomic_writing
+        with atomic_writing(os_path, *args, **kwargs) as f:
+             ~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+      File "/Users/dush/.local/share/uv/python/cpython-3.13.7-macos-aarch64-none/lib/python3.13/contextlib.py", line 141, in __enter__
+        return next(self.gen)
+      File "/Users/dush/Code/cst4150/.fintech/lib/python3.13/site-packages/jupyter_server/services/contents/fileio.py", line 138, in atomic_writing
+        fileobj = open(path, "w", encoding=encoding, **kwargs)  # noqa: SIM115
+    FileNotFoundError: [Errno 2] No such file or directory: '/Users/dush/Code/cst4150/04-Statistics/notebooks/6. Hypothesis Testing.ipynb'
+    
+    The above exception was the direct cause of the following exception:
+    
+    Traceback (most recent call last):
+      File "/Users/dush/Code/cst4150/.fintech/lib/python3.13/site-packages/tornado/web.py", line 1848, in _execute
+        result = await result
+                 ^^^^^^^^^^^^
+      File "/Users/dush/Code/cst4150/.fintech/lib/python3.13/site-packages/jupyter_server/auth/decorator.py", line 73, in inner
+        return await out
+               ^^^^^^^^^
+      File "/Users/dush/Code/cst4150/.fintech/lib/python3.13/site-packages/jupyter_server/services/contents/handlers.py", line 322, in put
+        await self._upload(model, path)
+      File "/Users/dush/Code/cst4150/.fintech/lib/python3.13/site-packages/jupyter_server/services/contents/handlers.py", line 225, in _upload
+        model = await ensure_async(self.contents_manager.new(model, path))
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+      File "/Users/dush/Code/cst4150/.fintech/lib/python3.13/site-packages/jupyter_core/utils/__init__.py", line 214, in ensure_async
+        result = await obj
+                 ^^^^^^^^^
+      File "/Users/dush/Code/cst4150/.fintech/lib/python3.13/site-packages/jupyter_server/services/contents/manager.py", line 1017, in new
+        model = await self.save(model, path)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+      File "/Users/dush/Code/cst4150/.fintech/lib/python3.13/site-packages/jupyter_server/services/contents/largefilemanager.py", line 133, in save
+        return await super().save(model, path)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+      File "/Users/dush/Code/cst4150/.fintech/lib/python3.13/site-packages/jupyter_server/services/contents/filemanager.py", line 980, in save
+        raise web.HTTPError(500, f"Unexpected error while saving file: {path} {e}") from e
+    tornado.web.HTTPError: HTTP 500: Internal Server Error (Unexpected error while saving file: 04-Statistics/notebooks/6. Hypothesis Testing.ipynb [Errno 2] No such file or directory: '/Users/dush/Code/cst4150/04-Statistics/notebooks/6. Hypothesis Testing.ipynb')
+[E 2025-10-20 16:02:50.421 ServerApp] {
+      "Host": "localhost:8888",
+      "Accept": "*/*",
+      "Referer": "http://localhost:8888/lab/tree/04-Statistics/notebooks/6.%20Hypothesis%20Testing.ipynb",
+      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
+    }
+[E 2025-10-20 16:02:50.421 ServerApp] 500 PUT /api/contents/04-Statistics/notebooks/6.%20Hypothesis%20Testing.ipynb?1760968970409 (c0caa8c02f8e4cc0bc6cb4b348316188@::1) 9.61ms referer=http://localhost:8888/lab/tree/04-Statistics/notebooks/6.%20Hypothesis%20Testing.ipynb
+[I 2025-10-20 16:02:58.771 ServerApp] Starting buffering for c600bb50-9268-4e17-867b-fe91862624e2:56968aed-fef8-4111-b3da-736a4aba6598
+[I 2025-10-20 16:02:58.774 ServerApp] Kernel shutdown: c600bb50-9268-4e17-867b-fe91862624e2
+[W 2025-10-20 16:03:58.009 ServerApp] Notebook 04-Statistics/Stats-in-class-notebook.ipynb is not trusted
+[I 2025-10-20 16:03:58.149 ServerApp] Kernel started: e81f16a7-a17d-4713-853f-315e5f9b6eec
+[I 2025-10-20 16:03:58.613 ServerApp] Connecting to kernel e81f16a7-a17d-4713-853f-315e5f9b6eec.
+[I 2025-10-20 16:05:42.609 ServerApp] Starting buffering for e81f16a7-a17d-4713-853f-315e5f9b6eec:a5dc0129-687a-4602-a429-4c026ed2df84
+[I 2025-10-20 16:05:42.611 ServerApp] Kernel shutdown: e81f16a7-a17d-4713-853f-315e5f9b6eec
+[W 2025-10-20 16:05:48.973 ServerApp] delete /04-Statistics/Stats-in-class-notebook.ipynb
+[I 2025-10-20 16:06:02.136 ServerApp] Uploading file to /04-Statistics/Stats - 3 [Effect Size].ipynb
+[W 2025-10-20 16:06:14.781 ServerApp] delete /04-Statistics/2_Bivariate.ipynb
+[W 2025-10-20 16:06:17.378 ServerApp] Notebook 04-Statistics/2_EffectSize.ipynb is not trusted
+[I 2025-10-20 16:06:17.520 ServerApp] Kernel started: c030547a-6bb3-445a-b8c9-a1e3ef240528
+[I 2025-10-20 16:06:17.783 ServerApp] Connecting to kernel c030547a-6bb3-445a-b8c9-a1e3ef240528.
+[I 2025-10-20 16:08:17.425 ServerApp] Saving file at /04-Statistics/2_EffectSize.ipynb
+[W 2025-10-20 16:08:17.426 ServerApp] Notebook 04-Statistics/2_EffectSize.ipynb is not trusted
+[I 2025-10-20 16:10:17.463 ServerApp] Saving file at /04-Statistics/2_EffectSize.ipynb
+[W 2025-10-20 16:10:17.464 ServerApp] Notebook 04-Statistics/2_EffectSize.ipynb is not trusted
+[I 2025-10-20 16:12:17.505 ServerApp] Saving file at /04-Statistics/2_EffectSize.ipynb
+[W 2025-10-20 16:12:17.505 ServerApp] Notebook 04-Statistics/2_EffectSize.ipynb is not trusted
+[I 2025-10-20 16:14:17.541 ServerApp] Saving file at /04-Statistics/2_EffectSize.ipynb
+[W 2025-10-20 16:14:17.542 ServerApp] Notebook 04-Statistics/2_EffectSize.ipynb is not trusted
+[I 2025-10-20 16:16:17.583 ServerApp] Saving file at /04-Statistics/2_EffectSize.ipynb
+[W 2025-10-20 16:16:17.584 ServerApp] Notebook 04-Statistics/2_EffectSize.ipynb is not trusted
+[I 2025-10-20 16:18:17.617 ServerApp] Saving file at /04-Statistics/2_EffectSize.ipynb
+[W 2025-10-20 16:18:17.618 ServerApp] Notebook 04-Statistics/2_EffectSize.ipynb is not trusted
+[I 2025-10-20 16:20:17.652 ServerApp] Saving file at /04-Statistics/2_EffectSize.ipynb
+[W 2025-10-20 16:20:17.652 ServerApp] Notebook 04-Statistics/2_EffectSize.ipynb is not trusted
+[I 2025-10-20 16:22:17.690 ServerApp] Saving file at /04-Statistics/2_EffectSize.ipynb
+[W 2025-10-20 16:22:17.691 ServerApp] Notebook 04-Statistics/2_EffectSize.ipynb is not trusted
+[I 2025-10-20 16:24:17.725 ServerApp] Saving file at /04-Statistics/2_EffectSize.ipynb
+[W 2025-10-20 16:24:17.726 ServerApp] Notebook 04-Statistics/2_EffectSize.ipynb is not trusted
+[I 2025-10-20 16:24:34.604 ServerApp] Kernel restarted: c030547a-6bb3-445a-b8c9-a1e3ef240528
+[I 2025-10-20 16:24:34.607 ServerApp] Starting buffering for c030547a-6bb3-445a-b8c9-a1e3ef240528:cc83c0c5-29d6-4173-b492-70bead0f9ed9
+[I 2025-10-20 16:24:34.610 ServerApp] Connecting to kernel c030547a-6bb3-445a-b8c9-a1e3ef240528.
+[I 2025-10-20 16:24:34.610 ServerApp] Restoring connection for c030547a-6bb3-445a-b8c9-a1e3ef240528:cc83c0c5-29d6-4173-b492-70bead0f9ed9
+[I 2025-10-20 16:25:44.387 ServerApp] Saving file at /04-Statistics/2_EffectSize.ipynb
+[W 2025-10-20 16:25:44.388 ServerApp] Notebook 04-Statistics/2_EffectSize.ipynb is not trusted
+[I 2025-10-20 16:25:44.427 ServerApp] Starting buffering for c030547a-6bb3-445a-b8c9-a1e3ef240528:cc83c0c5-29d6-4173-b492-70bead0f9ed9
+[I 2025-10-20 16:25:44.429 ServerApp] Kernel shutdown: c030547a-6bb3-445a-b8c9-a1e3ef240528
+[W 2025-10-20 16:37:55.557 ServerApp] Notebook 03-Data-Viz/0-data-viz.ipynb is not trusted
+[I 2025-10-20 16:37:55.810 ServerApp] Kernel started: 436562c5-6375-4f7a-9034-8013491ab908
+[I 2025-10-20 16:37:56.560 ServerApp] Connecting to kernel 436562c5-6375-4f7a-9034-8013491ab908.
+[I 2025-10-20 16:39:29.717 ServerApp] Starting buffering for 436562c5-6375-4f7a-9034-8013491ab908:99486e9d-94bb-4be7-a75f-e4c12bfebe22
+[I 2025-10-20 16:39:29.721 ServerApp] Kernel shutdown: 436562c5-6375-4f7a-9034-8013491ab908
+[I 2025-10-20 16:39:36.586 ServerApp] Kernel started: afac420a-137c-4a6b-a66f-2f91fbc508ac
+[I 2025-10-20 16:39:36.939 ServerApp] Connecting to kernel afac420a-137c-4a6b-a66f-2f91fbc508ac.
+[I 2025-10-20 16:41:36.431 ServerApp] Saving file at /03-Data-Viz/1-styling.ipynb
+[I 2025-10-20 16:43:36.473 ServerApp] Saving file at /03-Data-Viz/1-styling.ipynb
+[I 2025-10-20 16:45:36.509 ServerApp] Saving file at /03-Data-Viz/1-styling.ipynb
+[I 2025-10-20 16:46:14.016 ServerApp] Saving file at /03-Data-Viz/1-styling.ipynb
+[I 2025-10-20 16:46:14.060 ServerApp] Starting buffering for afac420a-137c-4a6b-a66f-2f91fbc508ac:9916e6d2-6d8d-427e-b34b-4133981e0fea
+[I 2025-10-20 16:46:14.062 ServerApp] Kernel shutdown: afac420a-137c-4a6b-a66f-2f91fbc508ac
+[I 2025-10-20 16:47:23.127 ServerApp] Kernel started: e989733e-ce49-4d83-aa61-4ab5e6298576
+[I 2025-10-20 16:47:23.670 ServerApp] Connecting to kernel e989733e-ce49-4d83-aa61-4ab5e6298576.
+[I 2025-10-20 16:49:22.804 ServerApp] Saving file at /03-Data-Viz/2-ipywidgets.ipynb
+[I 2025-10-20 16:51:22.844 ServerApp] Saving file at /03-Data-Viz/2-ipywidgets.ipynb
+[I 2025-10-20 16:53:22.883 ServerApp] Saving file at /03-Data-Viz/2-ipywidgets.ipynb
+[I 2025-10-20 16:55:22.918 ServerApp] Saving file at /03-Data-Viz/2-ipywidgets.ipynb
+[I 2025-10-20 16:57:22.967 ServerApp] Saving file at /03-Data-Viz/2-ipywidgets.ipynb
+[I 2025-10-20 16:59:23.010 ServerApp] Saving file at /03-Data-Viz/2-ipywidgets.ipynb
+[I 2025-10-20 17:01:23.047 ServerApp] Saving file at /03-Data-Viz/2-ipywidgets.ipynb
+[I 2025-10-20 17:03:23.089 ServerApp] Saving file at /03-Data-Viz/2-ipywidgets.ipynb
+[I 2025-10-20 17:05:23.124 ServerApp] Saving file at /03-Data-Viz/2-ipywidgets.ipynb
+[I 2025-10-20 17:07:23.161 ServerApp] Saving file at /03-Data-Viz/2-ipywidgets.ipynb
+[I 2025-10-20 17:09:23.201 ServerApp] Saving file at /03-Data-Viz/2-ipywidgets.ipynb
+[I 2025-10-20 17:11:23.239 ServerApp] Saving file at /03-Data-Viz/2-ipywidgets.ipynb
+[I 2025-10-20 17:13:23.276 ServerApp] Saving file at /03-Data-Viz/2-ipywidgets.ipynb
+[I 2025-10-20 17:15:23.314 ServerApp] Saving file at /03-Data-Viz/2-ipywidgets.ipynb
+[I 2025-10-20 17:17:23.393 ServerApp] Saving file at /03-Data-Viz/2-ipywidgets.ipynb
+[I 2025-10-20 17:19:23.438 ServerApp] Saving file at /03-Data-Viz/2-ipywidgets.ipynb
+[I 2025-10-20 17:21:23.482 ServerApp] Saving file at /03-Data-Viz/2-ipywidgets.ipynb
+[I 2025-10-20 17:23:17.645 ServerApp] Saving file at /03-Data-Viz/2-ipywidgets.ipynb
+[I 2025-10-20 17:23:35.056 ServerApp] Starting buffering for e989733e-ce49-4d83-aa61-4ab5e6298576:4e17052c-4fdd-4ef2-b58c-20933ec1c40d
+[I 2025-10-20 17:23:35.059 ServerApp] Kernel shutdown: e989733e-ce49-4d83-aa61-4ab5e6298576
+[I 2025-10-20 17:23:41.064 ServerApp] Kernel started: 3a2627ff-d1e1-47b7-ba5a-c14496596d5a
+[I 2025-10-20 17:23:41.440 ServerApp] Connecting to kernel 3a2627ff-d1e1-47b7-ba5a-c14496596d5a.
+[I 2025-10-20 17:28:07.271 ServerApp] New terminal with automatic name: 1
+[I 2025-10-20 17:31:41.488 ServerApp] Saving file at /03-Data-Viz/3-streamlit.ipynb
+[I 2025-10-20 17:32:48.293 ServerApp] Saving file at /03-Data-Viz/3-streamlit.py
+[I 2025-10-20 17:35:59.689 ServerApp] Saving file at /03-Data-Viz/3-streamlit.py
+[I 2025-10-20 17:36:18.870 ServerApp] Saving file at /03-Data-Viz/3-streamlit.py
+[I 2025-10-20 17:37:56.596 ServerApp] Starting buffering for 3a2627ff-d1e1-47b7-ba5a-c14496596d5a:cd96f0f6-d692-497c-bf0d-ae127e680a4d
+[I 2025-10-20 17:37:56.599 ServerApp] Kernel shutdown: 3a2627ff-d1e1-47b7-ba5a-c14496596d5a
+[I 2025-10-20 17:46:12.044 ServerApp] Kernel started: 91fc9b82-0eee-471b-805e-cc8f33923524
+[I 2025-10-20 17:46:12.400 ServerApp] Connecting to kernel 91fc9b82-0eee-471b-805e-cc8f33923524.
+[I 2025-10-20 18:10:11.957 ServerApp] Saving file at /04-Statistics/1_Univariate.ipynb
+[I 2025-10-20 18:12:12.016 ServerApp] Saving file at /04-Statistics/1_Univariate.ipynb
+[I 2025-10-20 18:24:12.446 ServerApp] Saving file at /04-Statistics/1_Univariate.ipynb
+[I 2025-10-20 18:26:12.509 ServerApp] Saving file at /04-Statistics/1_Univariate.ipynb
+[I 2025-10-20 18:28:12.536 ServerApp] Saving file at /04-Statistics/1_Univariate.ipynb
+[I 2025-10-20 18:30:12.577 ServerApp] Saving file at /04-Statistics/1_Univariate.ipynb
+[I 2025-10-20 18:31:39.508 ServerApp] Saving file at /04-Statistics/1_Univariate.ipynb
+[I 2025-10-20 18:33:39.549 ServerApp] Saving file at /04-Statistics/1_Univariate.ipynb
+[I 2025-10-20 18:39:39.599 ServerApp] Saving file at /04-Statistics/1_Univariate.ipynb
+[I 2025-10-20 18:41:39.635 ServerApp] Saving file at /04-Statistics/1_Univariate.ipynb
+[I 2025-10-20 18:43:39.675 ServerApp] Saving file at /04-Statistics/1_Univariate.ipynb
+[I 2025-10-20 18:45:39.719 ServerApp] Saving file at /04-Statistics/1_Univariate.ipynb
+[I 2025-10-20 18:47:39.766 ServerApp] Saving file at /04-Statistics/1_Univariate.ipynb
+[I 2025-10-20 18:49:39.831 ServerApp] Saving file at /04-Statistics/1_Univariate.ipynb
+[I 2025-10-20 18:51:39.882 ServerApp] Saving file at /04-Statistics/1_Univariate.ipynb
+[I 2025-10-20 18:53:40.438 ServerApp] Saving file at /04-Statistics/1_Univariate.ipynb
+[I 2025-10-20 18:54:36.886 ServerApp] Saving file at /04-Statistics/1_Univariate.ipynb
+[I 2025-10-20 18:57:40.489 ServerApp] Saving file at /04-Statistics/1_Univariate.ipynb
+[I 2025-10-20 18:59:52.250 ServerApp] Saving file at /04-Statistics/1_Univariate.ipynb
+[I 2025-10-20 18:59:53.642 ServerApp] Starting buffering for 91fc9b82-0eee-471b-805e-cc8f33923524:46b530d3-8461-4acb-af96-ca02131dc617
+[I 2025-10-20 18:59:53.645 ServerApp] Kernel shutdown: 91fc9b82-0eee-471b-805e-cc8f33923524
+[W 2025-10-20 19:12:16.855 ServerApp] Notebook 04-Statistics/2_EffectSize.ipynb is not trusted
+[I 2025-10-20 19:12:17.046 ServerApp] Kernel started: b5bead0d-52e9-4ae4-a669-529b128eeffd
+[I 2025-10-20 19:12:17.514 ServerApp] Connecting to kernel b5bead0d-52e9-4ae4-a669-529b128eeffd.
+[I 2025-10-20 19:14:16.927 ServerApp] Saving file at /04-Statistics/2_EffectSize.ipynb
+[W 2025-10-20 19:14:16.928 ServerApp] Notebook 04-Statistics/2_EffectSize.ipynb is not trusted
+[I 2025-10-20 19:18:16.979 ServerApp] Saving file at /04-Statistics/2_EffectSize.ipynb
+[W 2025-10-20 19:18:16.980 ServerApp] Notebook 04-Statistics/2_EffectSize.ipynb is not trusted
+[I 2025-10-20 19:20:17.022 ServerApp] Saving file at /04-Statistics/2_EffectSize.ipynb
+[W 2025-10-20 19:20:17.024 ServerApp] Notebook 04-Statistics/2_EffectSize.ipynb is not trusted
+[I 2025-10-20 19:22:17.059 ServerApp] Saving file at /04-Statistics/2_EffectSize.ipynb
+[W 2025-10-20 19:22:17.060 ServerApp] Notebook 04-Statistics/2_EffectSize.ipynb is not trusted
+[I 2025-10-20 19:24:17.097 ServerApp] Saving file at /04-Statistics/2_EffectSize.ipynb
+[W 2025-10-20 19:24:17.098 ServerApp] Notebook 04-Statistics/2_EffectSize.ipynb is not trusted
+[I 2025-10-20 19:26:17.143 ServerApp] Saving file at /04-Statistics/2_EffectSize.ipynb
+[W 2025-10-20 19:26:17.145 ServerApp] Notebook 04-Statistics/2_EffectSize.ipynb is not trusted
+[I 2025-10-20 19:28:17.183 ServerApp] Saving file at /04-Statistics/2_EffectSize.ipynb
+[W 2025-10-20 19:28:17.184 ServerApp] Notebook 04-Statistics/2_EffectSize.ipynb is not trusted
+[I 2025-10-20 19:30:17.220 ServerApp] Saving file at /04-Statistics/2_EffectSize.ipynb
+[W 2025-10-20 19:30:17.222 ServerApp] Notebook 04-Statistics/2_EffectSize.ipynb is not trusted
+[I 2025-10-20 19:40:17.936 ServerApp] Starting buffering for b5bead0d-52e9-4ae4-a669-529b128eeffd:a415cd64-277a-4ffc-b6c1-5efe34c80340
+[I 2025-10-20 19:40:17.940 ServerApp] Connecting to kernel b5bead0d-52e9-4ae4-a669-529b128eeffd.
+[I 2025-10-20 19:40:17.941 ServerApp] Restoring connection for b5bead0d-52e9-4ae4-a669-529b128eeffd:a415cd64-277a-4ffc-b6c1-5efe34c80340
+[I 2025-10-21 00:25:22.316 ServerApp] Starting buffering for b5bead0d-52e9-4ae4-a669-529b128eeffd:a415cd64-277a-4ffc-b6c1-5efe34c80340
+[I 2025-10-21 00:25:22.337 ServerApp] Connecting to kernel b5bead0d-52e9-4ae4-a669-529b128eeffd.
+[I 2025-10-21 00:25:22.337 ServerApp] Restoring connection for b5bead0d-52e9-4ae4-a669-529b128eeffd:a415cd64-277a-4ffc-b6c1-5efe34c80340
+[I 2025-10-21 09:02:57.866 ServerApp] Saving file at /04-Statistics/2_EffectSize.ipynb
+[W 2025-10-21 09:02:57.868 ServerApp] Notebook 04-Statistics/2_EffectSize.ipynb is not trusted
+[I 2025-10-21 09:02:59.325 ServerApp] Starting buffering for b5bead0d-52e9-4ae4-a669-529b128eeffd:a415cd64-277a-4ffc-b6c1-5efe34c80340
+[I 2025-10-21 09:02:59.327 ServerApp] Kernel shutdown: b5bead0d-52e9-4ae4-a669-529b128eeffd
+[I 2025-10-21 09:03:05.495 ServerApp] EOF on FD 49; stopping reading
+[I 2025-10-21 09:03:05.601 ServerApp] Terminal 1 closed
+[I 2025-10-21 09:03:05.609 ServerApp] Shutting down on /api/shutdown request.
+[I 2025-10-21 09:03:05.612 ServerApp] Shutting down 4 extensions

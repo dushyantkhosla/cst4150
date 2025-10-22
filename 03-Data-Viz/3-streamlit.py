@@ -7,7 +7,7 @@ import seaborn as sns
 st.set_page_config(page_title="Data Explorer Dashboard", layout="wide")
 
 # Header
-st.title("Data Explorer Dashboard")
+st.title("Data Explorer Dashboard :)")
 
 # Sidebar
 st.sidebar.header("Settings")
@@ -75,3 +75,6 @@ plt.xlabel(ax.get_xlabel(), fontsize=12)
 plt.ylabel(ax.get_ylabel(), fontsize=12)
 plt.xticks(rotation=45)
 st.pyplot(fig)
+
+st.subheader("Another Chart can come here")
+st.write("A important insight about my dataset")
