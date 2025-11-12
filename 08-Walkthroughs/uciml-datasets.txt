@@ -1,0 +1,7 @@
+bank_marketing = fetch_ucirepo(id=222) # Classification
+online_retail = fetch_ucirepo(id=352) # Classification, Clustering
+predict_students_dropout_and = fetch_ucirepo(id=697) # Classification
+air_quality = fetch_ucirepo(id=360) # Regression
+credit_approval = fetch_ucirepo(id=27) # Classification
+online_shoppers_purchasing = fetch_ucirepo(id=468) # Classification, Clustering
+taiwanese_bankruptcy_prediction = fetch_ucirepo(id=572) # Classification
