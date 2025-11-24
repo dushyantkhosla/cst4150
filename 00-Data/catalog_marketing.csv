@@ -1,0 +1,1001 @@
+Person,Age,Gender,Own Home,Married,Close,Salary,Children,History,Catalogs,Region,State,City,First Purchase,Amount Spent
+30,Middle Aged,Male,Own Home,Married,0,79000,1,High Spending,18,East,Massachusetts,Boston,41367,2278.836
+52,Middle Aged,Male,Own Home,No,1,56700,2,Low Spending,18,East,Massachusetts,Boston,39831,535.602
+56,Old,Female,Own Home,No,0,22000,0,Medium Spending,12,East,Massachusetts,Boston,40121,736.029
+78,Young,Female,Renting,Married,1,79400,0,NA,6,East,Massachusetts,Boston,42125,1175.433
+142,Old,Male,Renting,No,1,56300,0,Medium Spending,6,East,Massachusetts,Boston,40619,873.139
+159,Middle Aged,Male,Own Home,Married,1,63300,2,NA,6,East,Massachusetts,Boston,42100,632.703
+181,Young,Male,Renting,No,1,25800,0,NA,6,East,Massachusetts,Boston,42117,451.016
+209,Young,Female,Renting,Married,1,61000,1,NA,18,East,Massachusetts,Boston,42050,1611.379
+223,Old,Female,Own Home,Married,0,79300,0,NA,12,East,Massachusetts,Boston,42070,2046.912
+285,Young,Male,Renting,No,0,13900,0,NA,24,East,Massachusetts,Boston,42042,569.671
+287,Old,Female,Renting,Married,0,72200,0,High Spending,24,East,Massachusetts,Boston,41237,3069.182
+317,Old,Male,Renting,No,1,32400,1,Low Spending,12,East,Massachusetts,Boston,40837,515.447
+326,Middle Aged,Male,Renting,No,1,41200,0,Medium Spending,12,East,Massachusetts,Boston,40312,840.946
+338,Middle Aged,Male,Own Home,No,1,55600,0,NA,12,East,Massachusetts,Boston,42076,951.952
+346,Middle Aged,Female,Own Home,Married,1,70900,1,Medium Spending,12,East,Massachusetts,Boston,40993,794.1
+397,Old,Female,Own Home,Married,1,74700,0,High Spending,12,East,Massachusetts,Boston,40794,1698.873
+398,Middle Aged,Female,Own Home,No,1,60200,1,NA,12,East,Massachusetts,Boston,42063,1747.789
+485,Middle Aged,Male,Own Home,Married,0,77800,1,High Spending,18,East,Massachusetts,Boston,39961,1813.064
+509,Middle Aged,Male,Own Home,Married,1,82400,0,High Spending,18,East,Massachusetts,Boston,42226,1779.03
+557,Young,Female,Renting,No,0,21100,1,Low Spending,6,East,Massachusetts,Boston,40127,470.039
+568,Middle Aged,Male,Own Home,Married,1,90300,0,High Spending,24,East,Massachusetts,Boston,41744,1944.145
+617,Middle Aged,Female,Own Home,Married,1,105300,1,NA,24,East,Massachusetts,Boston,42087,3360.441
+625,Middle Aged,Female,Own Home,Married,1,63700,3,Low Spending,12,East,Massachusetts,Boston,39840,363.582
+665,Old,Male,Own Home,Married,0,80700,0,NA,18,East,Massachusetts,Boston,42143,3034.187
+685,Old,Male,Own Home,Married,0,65500,0,High Spending,24,East,Massachusetts,Boston,40146,1931.347
+698,Middle Aged,Male,Renting,No,1,53900,1,Medium Spending,6,East,Massachusetts,Boston,41906,735.068
+705,Old,Male,Renting,Married,1,81800,0,High Spending,6,East,Massachusetts,Boston,41485,918.783
+731,Middle Aged,Male,Renting,No,0,59000,0,High Spending,24,East,Massachusetts,Boston,41123,3043.765
+771,Middle Aged,Male,Own Home,Married,1,88700,1,NA,18,East,Massachusetts,Boston,42091,2448.209
+828,Middle Aged,Female,Renting,Married,1,66500,1,NA,24,East,Massachusetts,Boston,42124,1180.977
+911,Old,Female,Own Home,Married,1,62800,0,High Spending,18,East,Massachusetts,Boston,41640,1403.374
+939,Old,Male,Renting,Married,0,23800,0,NA,12,East,Massachusetts,Boston,42115,428.251
+947,Old,Female,Renting,Married,1,71800,0,High Spending,24,East,Massachusetts,Boston,40785,1946.498
+949,Old,Male,Renting,Married,1,71800,0,High Spending,12,East,Massachusetts,Boston,41105,1388.584
+951,Young,Female,Renting,Married,1,61700,0,NA,12,East,Massachusetts,Boston,42041,1161.052
+956,Old,Male,Own Home,No,1,38700,0,NA,24,East,Massachusetts,Boston,42175,1506.263
+957,Old,Female,Own Home,No,1,11400,0,NA,6,East,Massachusetts,Boston,42178,257.817
+11,Middle Aged,Male,Renting,Married,1,94200,1,High Spending,18,East,New York,Buffalo,40660,1211.05
+14,Middle Aged,Male,Renting,No,0,52600,1,NA,18,East,New York,Buffalo,42102,1773.11
+28,Old,Female,Own Home,Married,1,74400,0,High Spending,18,East,New York,Buffalo,40335,2478.522
+40,Young,Female,Renting,Married,1,36600,0,Medium Spending,6,East,New York,Buffalo,41121,833.354
+72,Middle Aged,Male,Renting,Married,0,72200,3,Medium Spending,18,East,New York,Buffalo,41702,1810.564
+92,Young,Male,Renting,Married,0,20200,1,Low Spending,24,East,New York,Buffalo,41257,499.665
+98,Young,Female,Renting,No,0,14400,1,Low Spending,6,East,New York,Buffalo,40372,389.864
+129,Old,Male,Own Home,Married,1,71200,1,Medium Spending,12,East,New York,Buffalo,40971,637.801
+158,Middle Aged,Male,Renting,No,0,40500,1,NA,18,East,New York,Buffalo,42177,1072.862
+189,Middle Aged,Female,Renting,No,1,36400,2,Low Spending,18,East,New York,Buffalo,41627,506.002
+250,Middle Aged,Male,Own Home,No,1,49200,3,Low Spending,12,East,New York,Buffalo,42214,209.521
+309,Middle Aged,Female,Renting,No,1,43700,0,Medium Spending,12,East,New York,Buffalo,39976,950.103
+310,Old,Female,Renting,Married,1,23600,1,Low Spending,6,East,New York,Buffalo,42144,160.836
+334,Old,Female,Own Home,Married,0,37500,0,Medium Spending,18,East,New York,Buffalo,40134,1577.747
+406,Middle Aged,Male,Own Home,Married,1,64300,2,Medium Spending,6,East,New York,Buffalo,40518,661.119
+430,Young,Female,Renting,No,0,23200,2,NA,24,East,New York,Buffalo,42034,787.617
+432,Middle Aged,Male,Own Home,Married,1,96900,1,High Spending,12,East,New York,Buffalo,41429,1419.508
+444,Middle Aged,Male,Own Home,No,0,49700,0,High Spending,24,East,New York,Buffalo,41105,2844.309
+451,Young,Female,Renting,No,1,12900,1,Low Spending,6,East,New York,Buffalo,41515,106.97
+483,Young,Male,Renting,No,1,14100,0,Low Spending,12,East,New York,Buffalo,41418,328.069
+484,Young,Female,Renting,No,0,17300,1,Low Spending,18,East,New York,Buffalo,40555,380.892
+508,Young,Male,Renting,No,1,21700,1,NA,18,East,New York,Buffalo,42155,773.969
+552,Middle Aged,Male,Renting,Married,1,92900,1,NA,6,East,New York,Buffalo,42013,1704.668
+563,Young,Male,Renting,No,1,19100,0,NA,6,East,New York,Buffalo,42058,175.999
+584,Middle Aged,Male,Own Home,No,0,60200,0,High Spending,12,East,New York,Buffalo,39954,1955.135
+657,Middle Aged,Female,Renting,No,1,53700,2,NA,12,East,New York,Buffalo,42106,1193.799
+669,Middle Aged,Female,Own Home,Married,0,88600,1,High Spending,18,East,New York,Buffalo,42196,2563.027
+736,Middle Aged,Female,Renting,Married,0,45400,3,Medium Spending,24,East,New York,Buffalo,40770,1202.643
+748,Young,Male,Renting,Married,0,51600,0,NA,12,East,New York,Buffalo,42183,1081.867
+755,Middle Aged,Male,Own Home,Married,1,42700,0,Medium Spending,6,East,New York,Buffalo,41280,541.344
+810,Middle Aged,Male,Own Home,Married,1,95100,2,Medium Spending,12,East,New York,Buffalo,42064,808.931
+824,Middle Aged,Female,Renting,Married,0,60100,1,High Spending,18,East,New York,Buffalo,41854,1430.491
+844,Old,Female,Own Home,Married,1,51000,0,Medium Spending,12,East,New York,Buffalo,41636,1025.344
+897,Old,Female,Renting,No,0,13900,0,Low Spending,6,East,New York,Buffalo,41005,191.183
+898,Middle Aged,Male,Renting,No,1,42300,0,Medium Spending,24,East,New York,Buffalo,41888,1050.981
+901,Old,Female,Own Home,No,1,24400,0,Low Spending,6,East,New York,Buffalo,41721,491.187
+922,Middle Aged,Male,Renting,No,1,49100,0,NA,6,East,New York,Buffalo,42185,934.386
+942,Young,Female,Renting,No,1,14200,2,Low Spending,18,East,New York,Buffalo,40941,197.339
+945,Middle Aged,Male,Own Home,Married,1,76100,0,NA,6,East,New York,Buffalo,42034,719.344
+2,Middle Aged,Female,Own Home,Married,0,108100,3,High Spending,18,Midwest,Illinois,Chicago,39958,2632.462
+5,Young,Male,Renting,No,1,11200,0,NA,6,Midwest,Illinois,Chicago,42220,105.624
+9,Middle Aged,Male,Own Home,No,1,60300,0,NA,24,Midwest,Illinois,Chicago,42153,2091.422
+55,Middle Aged,Male,Own Home,Married,0,96800,2,High Spending,18,Midwest,Illinois,Chicago,40186,2299.47
+75,Old,Female,Renting,No,0,15100,0,Low Spending,6,Midwest,Illinois,Chicago,41719,348.456
+91,Young,Female,Own Home,No,1,25900,2,NA,12,Midwest,Illinois,Chicago,42091,449.195
+146,Old,Male,Own Home,Married,1,73300,0,NA,12,Midwest,Illinois,Chicago,42035,1694.467
+149,Young,Female,Renting,No,1,23000,3,Low Spending,6,Midwest,Illinois,Chicago,42024,78.702
+185,Middle Aged,Male,Own Home,Married,1,109900,2,Medium Spending,12,Midwest,Illinois,Chicago,41141,870.195
+196,Old,Female,Own Home,Married,1,43600,0,Medium Spending,12,Midwest,Illinois,Chicago,42168,1046.572
+255,Middle Aged,Male,Own Home,Married,1,111400,0,High Spending,12,Midwest,Illinois,Chicago,39831,2136.348
+272,Middle Aged,Female,Own Home,No,1,27000,2,Low Spending,6,Midwest,Illinois,Chicago,40142,182.634
+275,Old,Female,Renting,No,1,20100,0,Low Spending,24,Midwest,Illinois,Chicago,41059,575.572
+295,Middle Aged,Male,Own Home,No,1,68900,2,NA,18,Midwest,Illinois,Chicago,42206,2783.896
+358,Middle Aged,Female,Own Home,No,0,66800,3,NA,24,Midwest,Illinois,Chicago,42136,2098.029
+376,Young,Female,Renting,No,0,13800,3,Low Spending,6,Midwest,Illinois,Chicago,39987,127.257
+447,Old,Male,Own Home,Married,1,84300,0,High Spending,24,Midwest,Illinois,Chicago,41238,2841.822
+466,Middle Aged,Female,Renting,Married,0,67300,1,High Spending,18,Midwest,Illinois,Chicago,40764,1513.331
+479,Old,Female,Renting,No,1,14900,0,NA,12,Midwest,Illinois,Chicago,42142,274.585
+487,Middle Aged,Male,Own Home,No,1,73200,0,High Spending,24,Midwest,Illinois,Chicago,41503,2176.837
+501,Young,Male,Renting,Married,1,67800,0,High Spending,12,Midwest,Illinois,Chicago,41828,1083.677
+523,Middle Aged,Female,Renting,Married,1,75200,1,NA,24,Midwest,Illinois,Chicago,42069,2702.455
+533,Middle Aged,Female,Own Home,Married,0,44200,0,High Spending,24,Midwest,Illinois,Chicago,40885,2524.488
+541,Middle Aged,Female,Own Home,No,1,52700,2,Low Spending,18,Midwest,Illinois,Chicago,40465,854.901
+560,Middle Aged,Male,Own Home,No,0,61300,2,High Spending,24,Midwest,Illinois,Chicago,41713,1241.394
+564,Young,Female,Renting,Married,1,73600,1,Medium Spending,6,Midwest,Illinois,Chicago,40277,646.813
+585,Middle Aged,Female,Own Home,Married,1,80800,1,NA,18,Midwest,Illinois,Chicago,42112,1598.272
+586,Young,Female,Renting,No,1,21900,1,NA,12,Midwest,Illinois,Chicago,42222,576.066
+623,Middle Aged,Male,Own Home,Married,1,76700,1,Medium Spending,24,Midwest,Illinois,Chicago,40524,1430.668
+677,Young,Female,Renting,No,1,25100,1,NA,6,Midwest,Illinois,Chicago,42009,421.027
+691,Middle Aged,Female,Own Home,No,1,47900,1,Medium Spending,24,Midwest,Illinois,Chicago,40218,661.805
+701,Old,Female,Renting,Married,1,97000,0,NA,24,Midwest,Illinois,Chicago,42245,2599.113
+702,Old,Female,Own Home,Married,1,35000,0,Medium Spending,6,Midwest,Illinois,Chicago,39839,473.176
+714,Middle Aged,Female,Own Home,Married,1,108100,1,High Spending,12,Midwest,Illinois,Chicago,40215,1133.433
+729,Middle Aged,Male,Own Home,No,1,55900,0,Medium Spending,12,Midwest,Illinois,Chicago,40576,963.503
+740,Young,Male,Renting,No,1,14200,0,Low Spending,6,Midwest,Illinois,Chicago,40261,250.249
+765,Middle Aged,Female,Renting,No,1,42200,0,NA,18,Midwest,Illinois,Chicago,42137,1753.394
+768,Middle Aged,Male,Renting,Married,0,72200,3,Medium Spending,18,Midwest,Illinois,Chicago,40284,1041.504
+779,Young,Male,Renting,No,0,19400,0,Low Spending,6,Midwest,Illinois,Chicago,40376,563.433
+787,Middle Aged,Male,Renting,No,1,52100,0,NA,12,Midwest,Illinois,Chicago,42151,1668.443
+815,Young,Female,Renting,No,1,18800,2,Low Spending,18,Midwest,Illinois,Chicago,40210,170.481
+823,Middle Aged,Male,Renting,No,0,65400,0,High Spending,12,Midwest,Illinois,Chicago,40041,2296.453
+854,Young,Female,Renting,No,0,10200,2,Low Spending,18,Midwest,Illinois,Chicago,41349,213.261
+864,Middle Aged,Female,Renting,No,1,32700,2,Low Spending,6,Midwest,Illinois,Chicago,40060,272.804
+877,Young,Female,Own Home,No,1,27100,2,Low Spending,24,Midwest,Illinois,Chicago,40966,437.146
+910,Young,Male,Own Home,Married,1,55100,0,Medium Spending,18,Midwest,Illinois,Chicago,41515,1438.523
+913,Young,Male,Renting,No,1,10200,2,NA,12,Midwest,Illinois,Chicago,42208,333.143
+948,Middle Aged,Male,Own Home,Married,1,117900,0,High Spending,6,Midwest,Illinois,Chicago,41256,1759.509
+969,Young,Male,Renting,No,1,18200,0,Low Spending,12,Midwest,Illinois,Chicago,41617,400.976
+981,Young,Female,Renting,No,1,13300,1,Low Spending,6,Midwest,Illinois,Chicago,41511,184.119
+25,Middle Aged,Male,Renting,No,1,50700,3,Low Spending,6,Midwest,Ohio,Cincinnati,41784,156.772
+37,Young,Male,Renting,Married,1,49800,0,Medium Spending,12,Midwest,Ohio,Cincinnati,41737,827.344
+89,Middle Aged,Female,Renting,Married,1,53300,0,Medium Spending,24,Midwest,Ohio,Cincinnati,42200,1597.841
+105,Young,Male,Renting,Married,0,60300,1,NA,6,Midwest,Ohio,Cincinnati,42196,1252.324
+115,Middle Aged,Female,Own Home,No,0,64100,2,High Spending,24,Midwest,Ohio,Cincinnati,40388,1594.842
+138,Middle Aged,Female,Renting,Married,0,43300,3,Medium Spending,24,Midwest,Ohio,Cincinnati,40245,715.835
+145,Middle Aged,Male,Own Home,No,0,71500,0,NA,6,Midwest,Ohio,Cincinnati,42079,963.64
+166,Young,Male,Renting,No,0,15300,0,Low Spending,24,Midwest,Ohio,Cincinnati,40050,644.758
+174,Middle Aged,Male,Renting,Married,1,106700,2,Medium Spending,6,Midwest,Ohio,Cincinnati,41709,607.174
+187,Middle Aged,Male,Own Home,Married,0,100600,3,High Spending,24,Midwest,Ohio,Cincinnati,41684,2838.182
+236,Old,Male,Own Home,Married,0,52000,0,High Spending,18,Midwest,Ohio,Cincinnati,41391,2544.605
+239,Young,Female,Renting,No,1,14300,1,NA,18,Midwest,Ohio,Cincinnati,42199,458.287
+243,Middle Aged,Male,Own Home,Married,1,85600,0,High Spending,24,Midwest,Ohio,Cincinnati,42121,3380.141
+263,Old,Male,Own Home,No,1,59300,0,Medium Spending,12,Midwest,Ohio,Cincinnati,40466,928.78
+269,Young,Female,Own Home,No,1,33400,1,NA,6,Midwest,Ohio,Cincinnati,42018,617.259
+279,Middle Aged,Female,Renting,No,1,58600,1,Medium Spending,6,Midwest,Ohio,Cincinnati,40928,624.138
+292,Old,Male,Renting,Married,1,60000,0,Medium Spending,6,Midwest,Ohio,Cincinnati,40071,965.649
+305,Middle Aged,Male,Own Home,Married,0,103900,1,High Spending,24,Midwest,Ohio,Cincinnati,40114,2665.848
+390,Young,Female,Renting,No,0,13200,0,NA,18,Midwest,Ohio,Cincinnati,42079,511.761
+408,Middle Aged,Female,Own Home,No,1,45100,1,Medium Spending,12,Midwest,Ohio,Cincinnati,40932,448.394
+490,Old,Female,Own Home,No,0,47500,0,High Spending,6,Midwest,Ohio,Cincinnati,41290,754.84
+595,Middle Aged,Female,Own Home,Married,1,92300,3,Low Spending,18,Midwest,Ohio,Cincinnati,41973,654.576
+621,Middle Aged,Male,Own Home,Married,1,99300,1,High Spending,12,Midwest,Ohio,Cincinnati,41581,1503.809
+642,Middle Aged,Female,Own Home,Married,1,59900,1,NA,6,Midwest,Ohio,Cincinnati,42055,613.463
+645,Middle Aged,Male,Renting,Married,0,63000,0,High Spending,18,Midwest,Ohio,Cincinnati,40390,2106.787
+667,Young,Female,Renting,No,0,27600,1,Medium Spending,24,Midwest,Ohio,Cincinnati,41263,893.374
+694,Old,Female,Own Home,No,1,14600,0,Low Spending,24,Midwest,Ohio,Cincinnati,40491,467.681
+712,Young,Male,Renting,Married,0,43500,1,Medium Spending,12,Midwest,Ohio,Cincinnati,41578,807.707
+721,Young,Female,Own Home,No,0,27900,1,NA,12,Midwest,Ohio,Cincinnati,42225,575.98
+737,Old,Male,Own Home,Married,1,56600,0,NA,24,Midwest,Ohio,Cincinnati,42109,1607.465
+782,Young,Female,Renting,No,1,24000,2,NA,6,Midwest,Ohio,Cincinnati,42044,362.221
+821,Middle Aged,Male,Own Home,Married,1,82100,1,High Spending,18,Midwest,Ohio,Cincinnati,40904,1307.874
+862,Young,Female,Own Home,No,0,16300,0,NA,12,Midwest,Ohio,Cincinnati,42159,359.712
+896,Young,Male,Renting,No,1,19800,2,Low Spending,12,Midwest,Ohio,Cincinnati,41868,209.422
+899,Old,Female,Own Home,Married,1,52200,1,Medium Spending,12,Midwest,Ohio,Cincinnati,40326,668.873
+908,Middle Aged,Male,Own Home,Married,1,97200,0,NA,12,Midwest,Ohio,Cincinnati,42080,1634.374
+989,Young,Male,Own Home,No,1,41400,0,Medium Spending,18,Midwest,Ohio,Cincinnati,41374,642.814
+993,Old,Male,Own Home,Married,0,59700,0,High Spending,18,Midwest,Ohio,Cincinnati,41205,1856.829
+4,Old,Male,Own Home,Married,1,26800,0,Low Spending,12,East,Ohio,Cleveland,41269,434.606
+24,Young,Female,Renting,No,1,15900,0,NA,18,East,Ohio,Cleveland,42168,405.62
+36,Young,Female,Own Home,No,0,29600,3,NA,12,East,Ohio,Cleveland,42154,774.1
+62,Old,Female,Own Home,No,0,24000,1,Low Spending,6,East,Ohio,Cleveland,40098,356.897
+64,Middle Aged,Male,Own Home,Married,1,87000,0,High Spending,24,East,Ohio,Cleveland,41395,1594.459
+66,Young,Female,Renting,Married,0,30100,0,Medium Spending,12,East,Ohio,Cleveland,41194,530.262
+86,Old,Female,Own Home,Married,0,110000,0,High Spending,24,East,Ohio,Cleveland,40452,5564.127
+87,Middle Aged,Male,Renting,No,1,63000,0,High Spending,24,East,Ohio,Cleveland,40901,1909.597
+112,Middle Aged,Male,Own Home,No,1,76800,1,Medium Spending,18,East,Ohio,Cleveland,41565,1060.702
+114,Young,Female,Renting,No,0,16100,0,NA,6,East,Ohio,Cleveland,42092,202.401
+120,Middle Aged,Male,Own Home,Married,1,83600,2,Medium Spending,6,East,Ohio,Cleveland,40889,537.726
+136,Young,Male,Renting,No,1,14200,1,NA,24,East,Ohio,Cleveland,42167,399.824
+153,Young,Male,Renting,No,0,19500,0,NA,24,East,Ohio,Cleveland,42205,571.447
+188,Old,Female,Renting,No,0,11700,0,Low Spending,18,East,Ohio,Cleveland,41720,539.769
+194,Middle Aged,Male,Renting,Married,1,88000,2,Medium Spending,6,East,Ohio,Cleveland,40831,523.804
+207,Middle Aged,Male,Renting,No,0,51900,0,High Spending,18,East,Ohio,Cleveland,40822,1491.568
+266,Middle Aged,Male,Own Home,No,1,62800,3,NA,6,East,Ohio,Cleveland,42174,707.12
+307,Old,Male,Own Home,No,1,44800,0,Medium Spending,24,East,Ohio,Cleveland,39839,1416.675
+311,Young,Male,Renting,No,0,20400,0,Medium Spending,18,East,Ohio,Cleveland,41988,867.242
+378,Young,Male,Own Home,No,1,31500,3,Low Spending,18,East,Ohio,Cleveland,40824,269.304
+383,Middle Aged,Male,Own Home,Married,1,84700,3,NA,24,East,Ohio,Cleveland,42109,2704.53
+384,Young,Male,Renting,Married,0,67300,3,NA,6,East,Ohio,Cleveland,42203,1211.953
+389,Middle Aged,Male,Own Home,Married,0,84300,2,High Spending,18,East,Ohio,Cleveland,40910,1648.437
+410,Young,Male,Own Home,No,1,33400,0,NA,12,East,Ohio,Cleveland,42035,567.134
+418,Old,Female,Own Home,No,0,32700,0,Medium Spending,24,East,Ohio,Cleveland,40866,1251.791
+421,Old,Female,Own Home,Married,0,22800,0,NA,12,East,Ohio,Cleveland,42062,451.779
+423,Middle Aged,Female,Renting,Married,1,97400,3,Low Spending,6,East,Ohio,Cleveland,41565,212.709
+469,Old,Male,Own Home,Married,0,54600,0,High Spending,24,East,Ohio,Cleveland,41212,2163.22
+473,Middle Aged,Female,Renting,Married,1,66900,2,Medium Spending,12,East,Ohio,Cleveland,40716,768.639
+474,Middle Aged,Male,Own Home,Married,1,66500,3,Low Spending,12,East,Ohio,Cleveland,40735,285.562
+503,Old,Female,Own Home,Married,0,91800,0,NA,24,East,Ohio,Cleveland,42211,2451.608
+515,Middle Aged,Male,Own Home,Married,1,77000,0,High Spending,12,East,Ohio,Cleveland,40714,2103.614
+548,Old,Female,Own Home,No,1,43300,0,NA,12,East,Ohio,Cleveland,42245,1584.302
+555,Middle Aged,Male,Own Home,Married,1,72200,0,High Spending,24,East,Ohio,Cleveland,40690,2491.68
+562,Middle Aged,Male,Renting,Married,1,81800,1,High Spending,18,East,Ohio,Cleveland,40002,1837.867
+589,Middle Aged,Male,Own Home,No,1,44600,2,Low Spending,6,East,Ohio,Cleveland,41962,236.309
+597,Middle Aged,Female,Renting,No,1,41400,3,Low Spending,6,East,Ohio,Cleveland,41882,222.835
+608,Middle Aged,Female,Own Home,Married,1,76600,3,NA,24,East,Ohio,Cleveland,42177,2903.766
+610,Young,Male,Renting,Married,1,49300,0,NA,24,East,Ohio,Cleveland,42125,1692.379
+619,Middle Aged,Female,Own Home,Married,1,105500,1,High Spending,6,East,Ohio,Cleveland,40974,1781.326
+662,Middle Aged,Male,Renting,Married,1,62800,3,Low Spending,6,East,Ohio,Cleveland,40709,176.843
+670,Middle Aged,Male,Own Home,Married,0,61400,1,High Spending,24,East,Ohio,Cleveland,40567,1574.514
+696,Young,Male,Own Home,No,1,23200,0,NA,24,East,Ohio,Cleveland,42136,533.785
+730,Young,Male,Renting,Married,1,27400,1,Low Spending,6,East,Ohio,Cleveland,40719,277.854
+759,Young,Female,Own Home,Married,0,55900,1,NA,6,East,Ohio,Cleveland,42182,788.195
+808,Middle Aged,Female,Renting,No,0,49500,2,Medium Spending,12,East,Ohio,Cleveland,40804,1195
+849,Middle Aged,Female,Own Home,No,1,48400,0,Medium Spending,12,East,Ohio,Cleveland,41625,991.905
+860,Young,Male,Renting,Married,1,45800,0,Medium Spending,6,East,Ohio,Cleveland,41197,489.208
+876,Middle Aged,Male,Renting,No,1,63600,0,High Spending,6,East,Ohio,Cleveland,40251,1317.733
+891,Young,Male,Renting,Married,0,53600,3,Medium Spending,24,East,Ohio,Cleveland,40386,1560.11
+900,Young,Female,Own Home,Married,0,70900,0,NA,6,East,Ohio,Cleveland,42238,689.983
+916,Middle Aged,Female,Renting,Married,1,79900,1,Medium Spending,18,East,Ohio,Cleveland,41055,1165.063
+968,Old,Male,Renting,Married,1,34500,0,Medium Spending,12,East,Ohio,Cleveland,42119,801.768
+971,Middle Aged,Female,Own Home,Married,1,110400,3,Low Spending,24,East,Ohio,Cleveland,42060,1093.048
+997,Old,Female,Renting,No,1,21200,0,Low Spending,6,East,Ohio,Cleveland,41954,242.303
+93,Middle Aged,Female,Renting,No,1,46600,0,NA,12,South,Texas,Dallas,42098,546.418
+168,Young,Male,Renting,No,1,15200,0,NA,12,South,Texas,Dallas,42034,323.864
+170,Middle Aged,Female,Own Home,Married,1,84800,1,NA,12,South,Texas,Dallas,42081,1826.338
+177,Middle Aged,Female,Own Home,No,1,49100,2,Low Spending,6,South,Texas,Dallas,40007,474.061
+231,Old,Male,Own Home,Married,1,73100,0,High Spending,6,South,Texas,Dallas,41634,1582.021
+260,Young,Female,Renting,No,0,12900,1,Low Spending,6,South,Texas,Dallas,39855,167.413
+297,Middle Aged,Male,Own Home,Married,1,97400,1,High Spending,6,South,Texas,Dallas,40639,879.789
+377,Middle Aged,Male,Own Home,No,1,60300,0,High Spending,24,South,Texas,Dallas,42194,1263.126
+450,Young,Female,Renting,No,1,15500,1,Low Spending,6,South,Texas,Dallas,41741,209.7
+464,Middle Aged,Female,Renting,No,1,36900,1,Low Spending,6,South,Texas,Dallas,42072,371.293
+502,Young,Male,Renting,Married,1,66700,0,NA,18,South,Texas,Dallas,42193,1310.013
+536,Middle Aged,Male,Renting,Married,1,96400,1,High Spending,24,South,Texas,Dallas,42130,1822.331
+605,Young,Male,Renting,No,1,14600,3,NA,6,South,Texas,Dallas,42118,307.285
+626,Middle Aged,Male,Renting,Married,1,93000,1,High Spending,24,South,Texas,Dallas,42231,2644.047
+632,Old,Female,Own Home,Married,1,70700,0,High Spending,24,South,Texas,Dallas,41689,2149.958
+646,Young,Female,Own Home,No,0,21900,2,Low Spending,24,South,Texas,Dallas,40577,486.495
+649,Middle Aged,Female,Own Home,Married,1,82700,1,High Spending,18,South,Texas,Dallas,41515,1753.181
+666,Old,Male,Renting,No,1,29000,0,Low Spending,6,South,Texas,Dallas,40779,481.5
+703,Young,Male,Own Home,No,0,39600,0,NA,12,South,Texas,Dallas,42242,1085.203
+735,Young,Male,Renting,No,1,15000,3,Low Spending,6,South,Texas,Dallas,41094,37.807
+766,Young,Male,Own Home,No,1,31900,0,Medium Spending,6,South,Texas,Dallas,41923,615.707
+778,Middle Aged,Male,Renting,No,1,34200,1,Low Spending,18,South,Texas,Dallas,40024,522.639
+880,Middle Aged,Male,Own Home,No,0,68700,1,NA,24,South,Texas,Dallas,42244,1699.212
+927,Young,Female,Renting,No,1,23200,3,NA,24,South,Texas,Dallas,42191,769.773
+953,Old,Male,Own Home,Married,1,75500,0,High Spending,6,South,Texas,Dallas,42077,740.916
+964,Middle Aged,Male,Own Home,Married,1,96500,0,High Spending,24,South,Texas,Dallas,40857,3779.932
+65,Middle Aged,Male,Renting,Married,1,117700,1,High Spending,12,West,Colorado,Denver,39957,2103.841
+85,Middle Aged,Female,Own Home,No,1,43900,2,Low Spending,6,West,Colorado,Denver,40647,357.504
+118,Middle Aged,Male,Own Home,Married,0,120000,3,High Spending,18,West,Colorado,Denver,41061,1925.519
+122,Old,Female,Own Home,Married,1,54700,0,Medium Spending,24,West,Colorado,Denver,40015,1403.831
+123,Old,Male,Own Home,Married,0,41300,0,High Spending,24,West,Colorado,Denver,41509,1985.325
+128,Middle Aged,Male,Own Home,No,1,55900,1,NA,24,West,Colorado,Denver,42104,2555.45
+135,Middle Aged,Male,Renting,Married,1,76200,1,NA,24,West,Colorado,Denver,42100,2436.88
+226,Middle Aged,Female,Renting,No,1,42000,3,Low Spending,18,West,Colorado,Denver,41954,232.107
+234,Young,Male,Renting,Married,1,53600,1,Medium Spending,24,West,Colorado,Denver,41854,972.929
+261,Middle Aged,Female,Own Home,Married,1,44100,1,Medium Spending,24,West,Colorado,Denver,40521,703.586
+282,Young,Male,Renting,No,1,25000,0,Low Spending,6,West,Colorado,Denver,41389,263.997
+315,Middle Aged,Female,Own Home,No,0,56200,0,High Spending,18,West,Colorado,Denver,40054,1546.386
+329,Middle Aged,Male,Own Home,Married,1,105300,1,NA,18,West,Colorado,Denver,42049,3504.72
+341,Middle Aged,Female,Own Home,No,1,51900,2,NA,12,West,Colorado,Denver,42168,1161.776
+417,Young,Female,Renting,No,0,20000,3,Low Spending,6,West,Colorado,Denver,40077,182.432
+524,Old,Female,Renting,Married,0,81500,0,High Spending,18,West,Colorado,Denver,41030,3655.4
+561,Old,Female,Own Home,Married,1,110700,0,High Spending,12,West,Colorado,Denver,41621,2457.674
+600,Middle Aged,Female,Renting,No,0,44100,1,Medium Spending,18,West,Colorado,Denver,41617,1659.402
+616,Middle Aged,Male,Own Home,No,1,48800,1,Medium Spending,24,West,Colorado,Denver,42160,1271.044
+629,Middle Aged,Male,Own Home,Married,1,84100,3,NA,6,West,Colorado,Denver,42037,1351.948
+634,Middle Aged,Female,Own Home,Married,1,100800,1,High Spending,24,West,Colorado,Denver,40141,1788.695
+650,Old,Female,Own Home,Married,1,103300,0,High Spending,24,West,Colorado,Denver,40493,3378.482
+651,Middle Aged,Male,Own Home,Married,0,113800,0,NA,12,West,Colorado,Denver,42042,3272.653
+654,Young,Female,Renting,No,1,18900,1,Low Spending,6,West,Colorado,Denver,41593,183.689
+679,Old,Female,Own Home,Married,1,118800,0,High Spending,18,West,Colorado,Denver,42145,2175.969
+695,Middle Aged,Male,Own Home,No,1,62900,0,NA,24,West,Colorado,Denver,42161,2561.114
+708,Young,Female,Renting,No,1,14500,1,Low Spending,6,West,Colorado,Denver,40629,182.628
+846,Middle Aged,Male,Renting,No,0,36700,1,Medium Spending,24,West,Colorado,Denver,41327,1218.01
+855,Middle Aged,Male,Renting,No,0,52200,0,High Spending,24,West,Colorado,Denver,41741,1908.868
+885,Middle Aged,Female,Own Home,Married,1,86900,0,High Spending,18,West,Colorado,Denver,41907,2229.749
+924,Middle Aged,Male,Own Home,Married,1,118600,1,NA,12,West,Colorado,Denver,42042,1553.371
+967,Young,Female,Renting,No,1,21700,2,NA,6,West,Colorado,Denver,42095,386.877
+22,Middle Aged,Male,Own Home,No,0,53900,0,NA,12,South,Texas,Houston,42034,1186.123
+38,Middle Aged,Male,Own Home,No,1,73700,1,Medium Spending,12,South,Texas,Houston,41501,1273.773
+57,Middle Aged,Male,Own Home,No,1,57600,1,NA,6,South,Texas,Houston,42143,1005.577
+59,Middle Aged,Female,Own Home,Married,1,63300,2,Medium Spending,24,South,Texas,Houston,39953,678.889
+83,Middle Aged,Male,Renting,No,0,45100,1,Medium Spending,12,South,Texas,Houston,42093,793.74
+106,Middle Aged,Male,Renting,No,1,43100,1,NA,12,South,Texas,Houston,42089,1224.433
+140,Middle Aged,Male,Renting,No,1,55100,2,NA,6,South,Texas,Houston,42043,825.666
+164,Young,Female,Renting,No,1,26600,2,Low Spending,24,South,Texas,Houston,41138,245.213
+190,Young,Female,Renting,No,1,22200,2,Low Spending,18,South,Texas,Houston,41678,274.804
+193,Old,Male,Own Home,Married,1,95900,0,High Spending,24,South,Texas,Houston,40413,2585.087
+254,Middle Aged,Male,Own Home,Married,0,95800,3,NA,12,South,Texas,Houston,42082,2581.426
+257,Middle Aged,Male,Renting,Married,0,48800,2,NA,12,South,Texas,Houston,42148,1646.889
+267,Old,Female,Renting,No,0,22600,0,NA,12,South,Texas,Houston,42194,864.564
+298,Middle Aged,Female,Renting,Married,0,92400,1,NA,6,South,Texas,Houston,42182,2190.559
+322,Young,Male,Renting,Married,1,34300,3,NA,12,South,Texas,Houston,42244,1296.595
+324,Young,Female,Renting,No,0,11400,3,NA,12,South,Texas,Houston,42027,312.186
+328,Young,Female,Renting,Married,1,60600,3,Low Spending,12,South,Texas,Houston,41544,307.495
+333,Young,Female,Renting,No,1,15900,0,Low Spending,18,South,Texas,Houston,40608,502.72
+335,Middle Aged,Male,Renting,No,0,42500,1,NA,6,South,Texas,Houston,42188,797.922
+373,Middle Aged,Male,Own Home,Married,1,85600,1,High Spending,18,South,Texas,Houston,41328,2435.666
+375,Old,Female,Own Home,Married,1,62600,0,High Spending,6,South,Texas,Houston,42196,565.265
+394,Middle Aged,Female,Own Home,No,1,35200,2,Low Spending,6,South,Texas,Houston,40535,232.882
+402,Middle Aged,Male,Own Home,Married,0,103700,1,High Spending,24,South,Texas,Houston,41926,2338.933
+446,Old,Female,Own Home,No,1,20600,0,Low Spending,6,South,Texas,Houston,41307,201.002
+453,Middle Aged,Male,Own Home,Married,1,97600,2,Medium Spending,12,South,Texas,Houston,41976,1162.044
+477,Middle Aged,Male,Own Home,Married,1,102400,1,High Spending,18,South,Texas,Houston,40777,1237.354
+497,Middle Aged,Male,Own Home,Married,1,76400,2,Medium Spending,18,South,Texas,Houston,39845,880.637
+567,Old,Male,Renting,Married,1,69800,0,High Spending,24,South,Texas,Houston,40849,2763.596
+570,Young,Female,Own Home,No,0,32000,1,NA,24,South,Texas,Houston,42196,1319.7
+572,Young,Female,Own Home,No,1,21600,2,NA,12,South,Texas,Houston,42044,490.974
+573,Middle Aged,Female,Renting,No,0,38200,0,Medium Spending,24,South,Texas,Houston,41754,1475.806
+612,Old,Female,Own Home,Married,1,42800,0,Medium Spending,6,South,Texas,Houston,41489,685.042
+614,Old,Female,Own Home,Married,0,74900,0,NA,12,South,Texas,Houston,42165,1804.404
+647,Middle Aged,Female,Renting,Married,1,114100,1,NA,24,South,Texas,Houston,42044,1975.884
+681,Middle Aged,Male,Own Home,Married,0,88700,2,High Spending,24,South,Texas,Houston,40717,2693.441
+717,Old,Female,Own Home,Married,0,81400,0,High Spending,24,South,Texas,Houston,41153,3000.618
+754,Middle Aged,Female,Renting,No,0,45500,1,NA,18,South,Texas,Houston,42122,1623.712
+767,Middle Aged,Female,Own Home,Married,1,59100,1,NA,6,South,Texas,Houston,42059,1425.781
+806,Middle Aged,Male,Own Home,Married,1,98500,0,High Spending,18,South,Texas,Houston,39843,2033.957
+817,Middle Aged,Male,Own Home,No,1,45800,0,NA,6,South,Texas,Houston,42207,711.908
+863,Young,Female,Renting,Married,0,32700,1,NA,18,South,Texas,Houston,42179,1276.253
+871,Middle Aged,Female,Renting,Married,1,96700,2,Medium Spending,12,South,Texas,Houston,40303,1231.328
+878,Middle Aged,Female,Renting,No,1,27200,3,Low Spending,24,South,Texas,Houston,39899,243.385
+882,Young,Female,Renting,Married,1,47300,0,NA,6,South,Texas,Houston,42165,639.609
+965,Old,Female,Renting,No,1,11000,0,NA,24,South,Texas,Houston,42146,195.231
+980,Young,Female,Renting,No,0,13200,0,NA,24,South,Texas,Houston,42085,357.564
+60,Old,Female,Renting,Married,1,38200,0,Medium Spending,6,Midwest,Indiana,Indianapolis,41638,526.343
+155,Young,Female,Renting,No,1,10200,3,NA,6,Midwest,Indiana,Indianapolis,42100,198.508
+161,Old,Female,Renting,Married,1,84800,0,High Spending,18,Midwest,Indiana,Indianapolis,40263,2623.668
+162,Middle Aged,Female,Own Home,Married,1,62200,3,NA,24,Midwest,Indiana,Indianapolis,40701,2119.13
+198,Old,Male,Own Home,Married,1,23400,0,Low Spending,6,Midwest,Indiana,Indianapolis,40891,347.545
+204,Middle Aged,Female,Renting,No,1,26200,1,Low Spending,12,Midwest,Indiana,Indianapolis,40186,380.968
+222,Young,Male,Renting,Married,1,39700,0,Medium Spending,18,Midwest,Indiana,Indianapolis,41924,1011.061
+233,Middle Aged,Male,Own Home,No,1,52900,1,NA,24,Midwest,Indiana,Indianapolis,42041,2316.442
+244,Middle Aged,Male,Own Home,Married,0,82400,2,High Spending,24,Midwest,Indiana,Indianapolis,41723,2035.493
+246,Middle Aged,Male,Renting,No,1,54700,0,Medium Spending,24,Midwest,Indiana,Indianapolis,40075,1355.395
+262,Middle Aged,Female,Renting,Married,0,72900,0,High Spending,18,Midwest,Indiana,Indianapolis,41083,2074.61
+271,Middle Aged,Male,Renting,Married,1,87400,2,NA,18,Midwest,Indiana,Indianapolis,42137,2728.562
+300,Old,Female,Renting,Married,1,50500,0,Medium Spending,12,Midwest,Indiana,Indianapolis,41576,642.042
+302,Middle Aged,Female,Own Home,Married,0,83100,1,NA,12,Midwest,Indiana,Indianapolis,42240,2765.589
+313,Middle Aged,Female,Renting,No,1,44600,0,Medium Spending,18,Midwest,Indiana,Indianapolis,42171,965.724
+332,Middle Aged,Male,Renting,No,0,56900,0,High Spending,24,Midwest,Indiana,Indianapolis,42213,1856.639
+345,Middle Aged,Female,Own Home,No,0,64400,3,Medium Spending,24,Midwest,Indiana,Indianapolis,40118,1913.32
+368,Middle Aged,Male,Renting,Married,1,63500,2,NA,24,Midwest,Indiana,Indianapolis,42017,2321.244
+382,Old,Male,Own Home,Married,1,84500,0,NA,12,Midwest,Indiana,Indianapolis,42226,1557.025
+413,Middle Aged,Male,Renting,No,1,35100,1,Low Spending,6,Midwest,Indiana,Indianapolis,39949,421.024
+414,Old,Male,Own Home,No,1,53400,1,Medium Spending,12,Midwest,Indiana,Indianapolis,40521,885.897
+415,Middle Aged,Male,Own Home,No,1,61600,0,NA,18,Midwest,Indiana,Indianapolis,42057,1666.471
+425,Middle Aged,Female,Own Home,No,1,49600,1,Medium Spending,12,Midwest,Indiana,Indianapolis,42232,844.452
+435,Old,Female,Own Home,Married,1,114800,0,High Spending,18,Midwest,Indiana,Indianapolis,40789,3596.496
+445,Old,Female,Own Home,No,1,25500,0,Low Spending,18,Midwest,Indiana,Indianapolis,41235,635.813
+489,Middle Aged,Female,Own Home,Married,1,51900,3,Low Spending,6,Midwest,Indiana,Indianapolis,41856,157.531
+512,Middle Aged,Male,Renting,No,1,72000,0,High Spending,12,Midwest,Indiana,Indianapolis,41058,1474.787
+528,Young,Male,Renting,Married,0,25100,0,Medium Spending,12,Midwest,Indiana,Indianapolis,40687,592.072
+537,Young,Female,Renting,No,0,23100,2,Low Spending,12,Midwest,Indiana,Indianapolis,42039,457.006
+547,Young,Male,Renting,Married,1,43700,1,NA,12,Midwest,Indiana,Indianapolis,42235,926.713
+556,Old,Female,Own Home,Married,0,67900,0,High Spending,24,Midwest,Indiana,Indianapolis,39817,2924.53
+569,Middle Aged,Male,Own Home,Married,1,70400,2,NA,12,Midwest,Indiana,Indianapolis,40280,1127.365
+635,Young,Male,Renting,No,0,25700,0,Medium Spending,18,Midwest,Indiana,Indianapolis,41527,906.515
+638,Middle Aged,Female,Renting,No,0,37800,2,NA,12,Midwest,Indiana,Indianapolis,42047,1185.091
+640,Young,Male,Renting,No,0,14800,1,NA,12,Midwest,Indiana,Indianapolis,42234,375.614
+693,Middle Aged,Male,Own Home,Married,0,86100,1,NA,12,Midwest,Indiana,Indianapolis,42144,1255.373
+723,Young,Male,Renting,No,1,21200,0,NA,12,Midwest,Indiana,Indianapolis,42138,416.511
+732,Young,Female,Renting,Married,1,37100,2,Low Spending,24,Midwest,Indiana,Indianapolis,40153,652.575
+741,Middle Aged,Male,Own Home,No,1,61500,2,Medium Spending,24,Midwest,Indiana,Indianapolis,40817,967.805
+760,Middle Aged,Female,Own Home,No,1,47900,0,NA,12,Midwest,Indiana,Indianapolis,42047,1090.085
+789,Middle Aged,Male,Own Home,Married,1,74500,2,Medium Spending,12,Midwest,Indiana,Indianapolis,42070,823.582
+793,Middle Aged,Male,Renting,No,0,53800,0,High Spending,12,Midwest,Indiana,Indianapolis,41392,1803.115
+794,Middle Aged,Male,Own Home,Married,1,98400,0,High Spending,12,Midwest,Indiana,Indianapolis,42000,1413.734
+804,Middle Aged,Female,Renting,Married,1,79900,1,Medium Spending,12,Midwest,Indiana,Indianapolis,40237,1041.409
+829,Young,Female,Renting,No,0,20700,1,Low Spending,12,Midwest,Indiana,Indianapolis,40509,549.537
+835,Young,Male,Renting,No,1,17900,0,NA,18,Midwest,Indiana,Indianapolis,42005,395.157
+850,Middle Aged,Male,Own Home,Married,1,77100,2,Medium Spending,6,Midwest,Indiana,Indianapolis,42172,567.751
+887,Young,Male,Renting,No,1,17600,0,NA,6,Midwest,Indiana,Indianapolis,42158,245.008
+888,Middle Aged,Male,Own Home,No,0,50100,1,High Spending,18,Midwest,Indiana,Indianapolis,40742,1070.54
+889,Middle Aged,Female,Renting,No,1,42700,0,Medium Spending,12,Midwest,Indiana,Indianapolis,40788,826.848
+903,Young,Male,Renting,No,1,10400,0,NA,18,Midwest,Indiana,Indianapolis,42176,188.978
+925,Young,Male,Renting,Married,1,56900,2,Low Spending,12,Midwest,Indiana,Indianapolis,41523,687.094
+935,Young,Male,Renting,No,0,17500,0,Low Spending,18,Midwest,Indiana,Indianapolis,42197,471.785
+973,Middle Aged,Male,Own Home,No,0,72300,0,High Spending,24,Midwest,Indiana,Indianapolis,40960,4181.768
+7,Middle Aged,Female,Renting,No,1,34700,0,NA,18,Midwest,Kansas,Kansas City,42166,1614.512
+41,Old,Male,Own Home,Married,1,51200,0,Medium Spending,12,Midwest,Kansas,Kansas City,40906,1293.43
+47,Young,Female,Renting,Married,1,60100,0,NA,18,Midwest,Kansas,Kansas City,42188,1593.683
+63,Middle Aged,Female,Own Home,No,1,47600,1,Medium Spending,12,Midwest,Kansas,Kansas City,40845,800.605
+110,Young,Male,Renting,No,1,13400,0,Low Spending,18,Midwest,Kansas,Kansas City,41506,424.074
+116,Middle Aged,Female,Renting,Married,1,95900,0,NA,24,Midwest,Kansas,Kansas City,42062,3168.265
+134,Middle Aged,Female,Own Home,No,0,47500,0,High Spending,6,Midwest,Kansas,Kansas City,41993,847.469
+203,Young,Male,Renting,No,1,17000,0,NA,18,Midwest,Kansas,Kansas City,42215,581.224
+225,Middle Aged,Female,Own Home,Married,1,64100,1,Medium Spending,18,Midwest,Kansas,Kansas City,41532,1332.173
+241,Middle Aged,Male,Own Home,No,0,48100,2,Medium Spending,18,Midwest,Kansas,Kansas City,41059,961.005
+251,Young,Female,Renting,No,0,10800,3,Low Spending,6,Midwest,Kansas,Kansas City,40879,123.07
+284,Young,Male,Renting,No,0,21900,2,NA,6,Midwest,Kansas,Kansas City,42092,192.104
+306,Young,Female,Renting,Married,1,41700,1,NA,6,Midwest,Kansas,Kansas City,42220,520.714
+321,Old,Male,Own Home,Married,1,74800,0,High Spending,18,Midwest,Kansas,Kansas City,40172,1967.918
+343,Young,Female,Renting,Married,0,51900,0,NA,6,Midwest,Kansas,Kansas City,42190,779.517
+353,Middle Aged,Male,Own Home,Married,1,122700,1,NA,18,Midwest,Kansas,Kansas City,42031,4983.776
+388,Middle Aged,Male,Own Home,Married,1,90100,0,High Spending,18,Midwest,Kansas,Kansas City,41687,1956.281
+431,Middle Aged,Male,Renting,Married,1,88500,2,Medium Spending,24,Midwest,Kansas,Kansas City,41806,1103.825
+462,Old,Female,Renting,Married,0,60200,0,High Spending,18,Midwest,Kansas,Kansas City,41347,2328.439
+467,Young,Male,Renting,No,1,15400,0,Low Spending,6,Midwest,Kansas,Kansas City,40227,171.607
+475,Young,Female,Renting,No,1,13600,1,Low Spending,6,Midwest,Kansas,Kansas City,41734,183.437
+480,Middle Aged,Male,Own Home,Married,1,123800,2,NA,18,Midwest,Kansas,Kansas City,42111,3536.912
+499,Middle Aged,Male,Own Home,Married,1,119800,2,Medium Spending,24,Midwest,Kansas,Kansas City,41476,2089.617
+504,Young,Male,Renting,No,1,17700,1,Low Spending,12,Midwest,Kansas,Kansas City,41990,268.208
+527,Middle Aged,Female,Own Home,Married,1,75600,0,NA,12,Midwest,Kansas,Kansas City,42170,1540.892
+546,Young,Female,Own Home,No,1,15100,0,Low Spending,6,Midwest,Kansas,Kansas City,42159,273.835
+574,Middle Aged,Female,Renting,Married,1,91000,2,Medium Spending,6,Midwest,Kansas,Kansas City,40658,708.247
+575,Young,Female,Renting,No,0,12000,0,Low Spending,6,Midwest,Kansas,Kansas City,42092,263.664
+577,Middle Aged,Female,Renting,Married,1,72100,0,High Spending,24,Midwest,Kansas,Kansas City,41929,3052.432
+604,Old,Female,Renting,No,0,17900,0,Low Spending,6,Midwest,Kansas,Kansas City,40230,445.989
+606,Middle Aged,Female,Own Home,No,1,46300,3,NA,6,Midwest,Kansas,Kansas City,42236,1138.485
+630,Middle Aged,Female,Own Home,No,1,48700,2,Low Spending,12,Midwest,Kansas,Kansas City,41442,527.531
+644,Middle Aged,Female,Renting,Married,1,135700,1,High Spending,24,Midwest,Kansas,Kansas City,41173,2745.755
+728,Young,Male,Renting,No,1,26100,1,NA,6,Midwest,Kansas,Kansas City,42068,494.385
+743,Middle Aged,Male,Own Home,No,0,70200,0,High Spending,12,Midwest,Kansas,Kansas City,40226,1702.438
+781,Young,Female,Renting,No,1,11500,3,NA,6,Midwest,Kansas,Kansas City,42050,156.567
+790,Young,Male,Renting,Married,0,55000,0,NA,12,Midwest,Kansas,Kansas City,42222,1161.869
+816,Middle Aged,Male,Renting,No,1,53900,0,Medium Spending,12,Midwest,Kansas,Kansas City,41540,1060.307
+827,Young,Female,Renting,No,0,17300,0,Low Spending,6,Midwest,Kansas,Kansas City,40997,410.645
+842,Middle Aged,Female,Own Home,Married,1,131500,3,NA,6,Midwest,Kansas,Kansas City,42171,2840.218
+856,Middle Aged,Male,Own Home,Married,0,108000,3,High Spending,24,Midwest,Kansas,Kansas City,40991,1849.49
+872,Young,Female,Renting,No,1,16900,1,Low Spending,6,Midwest,Kansas,Kansas City,40743,247.334
+972,Middle Aged,Male,Own Home,Married,1,92300,1,NA,24,Midwest,Kansas,Kansas City,42118,2140.549
+983,Young,Female,Own Home,No,0,41000,1,Medium Spending,12,Midwest,Kansas,Kansas City,41377,767.721
+988,Middle Aged,Male,Own Home,Married,0,81200,0,High Spending,12,Midwest,Kansas,Kansas City,40512,2692.543
+992,Middle Aged,Male,Own Home,Married,1,65900,1,Medium Spending,12,Midwest,Kansas,Kansas City,40903,1081.05
+15,Middle Aged,Female,Own Home,Married,1,82200,1,NA,12,West,California,Los Angeles,42109,1517.407
+27,Middle Aged,Female,Own Home,No,1,51300,0,Medium Spending,24,West,California,Los Angeles,41999,1423.589
+58,Old,Male,Own Home,No,1,65300,0,High Spending,18,West,California,Los Angeles,40948,1443.44
+70,Middle Aged,Male,Own Home,Married,0,75500,0,NA,18,West,California,Los Angeles,42187,2449.658
+79,Middle Aged,Female,Own Home,Married,1,82000,0,High Spending,18,West,California,Los Angeles,41449,1799.763
+80,Middle Aged,Female,Renting,Married,1,63500,1,Medium Spending,18,West,California,Los Angeles,40772,1023.379
+125,Old,Female,Renting,Married,1,39500,0,Medium Spending,12,West,California,Los Angeles,42075,1006.258
+130,Middle Aged,Male,Renting,No,1,57800,0,Medium Spending,24,West,California,Los Angeles,41111,1148.61
+173,Middle Aged,Male,Own Home,Married,1,87200,0,High Spending,18,West,California,Los Angeles,41092,1273.757
+178,Middle Aged,Female,Own Home,No,1,35200,0,Medium Spending,12,West,California,Los Angeles,41095,606.507
+205,Old,Male,Own Home,Married,1,108900,0,High Spending,12,West,California,Los Angeles,41941,1841.405
+228,Old,Female,Renting,Married,1,68600,0,High Spending,18,West,California,Los Angeles,41945,1341.869
+289,Young,Female,Own Home,No,1,20300,1,Low Spending,12,West,California,Los Angeles,40430,304.464
+364,Old,Male,Own Home,Married,0,33000,0,Medium Spending,12,West,California,Los Angeles,41332,978.798
+386,Young,Male,Renting,No,1,23500,0,Low Spending,12,West,California,Los Angeles,41323,371.305
+392,Middle Aged,Male,Own Home,Married,1,53700,1,NA,12,West,California,Los Angeles,42077,1080.982
+393,Middle Aged,Male,Renting,No,0,38700,1,Medium Spending,18,West,California,Los Angeles,40332,1009.45
+400,Young,Female,Renting,No,1,16700,2,Low Spending,12,West,California,Los Angeles,40009,108.051
+416,Young,Female,Own Home,No,0,21400,3,NA,6,West,California,Los Angeles,42102,326.3
+433,Young,Female,Renting,No,1,22000,1,Low Spending,12,West,California,Los Angeles,40979,471.725
+460,Young,Female,Renting,No,1,15600,0,NA,12,West,California,Los Angeles,42057,468.329
+510,Middle Aged,Female,Renting,No,0,35600,3,Low Spending,18,West,California,Los Angeles,41929,865.085
+615,Young,Female,Renting,No,1,19100,1,Low Spending,18,West,California,Los Angeles,40228,403.474
+620,Young,Female,Renting,No,1,17900,3,Low Spending,6,West,California,Los Angeles,40727,62.119
+672,Young,Female,Renting,Married,1,69700,2,Medium Spending,6,West,California,Los Angeles,40367,584.119
+680,Young,Male,Renting,No,1,17600,0,NA,6,West,California,Los Angeles,42134,273.072
+738,Old,Female,Own Home,No,0,16300,0,Low Spending,6,West,California,Los Angeles,40805,316.86
+739,Middle Aged,Female,Renting,No,0,45600,0,High Spending,12,West,California,Los Angeles,41175,1321.529
+745,Middle Aged,Male,Renting,Married,1,118800,0,High Spending,12,West,California,Los Angeles,42125,2630.937
+799,Middle Aged,Male,Own Home,Married,0,111800,3,High Spending,18,West,California,Los Angeles,41247,2065.465
+818,Young,Male,Renting,No,0,19000,0,NA,12,West,California,Los Angeles,42126,427.683
+848,Old,Female,Own Home,Married,0,78900,0,High Spending,18,West,California,Los Angeles,40790,2233.077
+858,Old,Male,Own Home,No,1,69100,0,High Spending,12,West,California,Los Angeles,41848,1477.141
+875,Old,Female,Own Home,Married,1,26700,0,Low Spending,24,West,California,Los Angeles,40005,1119.802
+893,Young,Male,Renting,No,1,10200,0,NA,24,West,California,Los Angeles,42098,361.789
+894,Middle Aged,Male,Renting,No,0,49000,0,High Spending,18,West,California,Los Angeles,40704,1523.379
+919,Old,Female,Renting,No,1,14600,1,Low Spending,24,West,California,Los Angeles,42190,384.946
+977,Young,Male,Own Home,Married,1,73000,0,NA,6,West,California,Los Angeles,42096,1534.398
+53,Young,Female,Renting,No,0,12600,0,Low Spending,6,Midwest,Kentucky,Louisville,40830,241.113
+104,Young,Female,Renting,No,1,13700,1,NA,6,Midwest,Kentucky,Louisville,42143,162.971
+107,Old,Female,Own Home,Married,0,128700,0,High Spending,24,Midwest,Kentucky,Louisville,41678,3995.012
+154,Middle Aged,Female,Own Home,Married,0,96800,3,NA,24,Midwest,Kentucky,Louisville,42122,3081.563
+182,Middle Aged,Female,Own Home,Married,1,49700,2,Low Spending,18,Midwest,Kentucky,Louisville,41596,613.097
+202,Old,Female,Own Home,Married,0,70400,0,High Spending,18,Midwest,Kentucky,Louisville,40644,2609.792
+224,Middle Aged,Female,Renting,Married,1,40500,2,Low Spending,18,Midwest,Kentucky,Louisville,40817,622.018
+229,Middle Aged,Male,Renting,No,1,60400,1,Medium Spending,6,Midwest,Kentucky,Louisville,41377,791.236
+230,Middle Aged,Male,Own Home,Married,0,130600,0,High Spending,18,Midwest,Kentucky,Louisville,41928,3441.549
+232,Old,Female,Own Home,No,1,23800,0,Low Spending,6,Midwest,Kentucky,Louisville,40223,438.496
+245,Middle Aged,Male,Own Home,No,0,55600,0,High Spending,18,Midwest,Kentucky,Louisville,40103,1786.497
+256,Old,Female,Own Home,Married,1,49200,0,Medium Spending,12,Midwest,Kentucky,Louisville,41896,1077.723
+258,Young,Female,Renting,No,1,14000,0,Low Spending,12,Midwest,Kentucky,Louisville,40526,229.201
+270,Young,Male,Renting,Married,0,63300,3,NA,6,Midwest,Kentucky,Louisville,42241,1408.105
+283,Middle Aged,Female,Own Home,No,1,46600,3,Low Spending,6,Midwest,Kentucky,Louisville,40614,157.917
+299,Middle Aged,Female,Renting,No,0,44800,1,Medium Spending,6,Midwest,Kentucky,Louisville,41150,666.464
+369,Middle Aged,Male,Own Home,Married,0,113400,3,High Spending,18,Midwest,Kentucky,Louisville,41968,1790.401
+372,Middle Aged,Male,Own Home,Married,1,82500,0,High Spending,6,Midwest,Kentucky,Louisville,42172,859.426
+399,Young,Female,Renting,No,1,12000,0,Low Spending,24,Midwest,Kentucky,Louisville,41135,343.804
+429,Middle Aged,Male,Own Home,Married,1,113000,2,Medium Spending,18,Midwest,Kentucky,Louisville,41805,1554.121
+463,Young,Female,Renting,No,1,17300,0,Low Spending,12,Midwest,Kentucky,Louisville,41357,345.348
+517,Old,Female,Own Home,Married,1,61000,0,NA,18,Midwest,Kentucky,Louisville,42010,1849.538
+540,Young,Female,Own Home,Married,1,42400,1,NA,18,Midwest,Kentucky,Louisville,42243,1165.609
+553,Old,Female,Own Home,Married,0,40100,0,Medium Spending,12,Midwest,Kentucky,Louisville,40697,1383.879
+583,Middle Aged,Female,Own Home,Married,0,52300,1,High Spending,18,Midwest,Kentucky,Louisville,40336,2034.464
+596,Middle Aged,Male,Own Home,Married,1,102300,0,High Spending,24,Midwest,Kentucky,Louisville,40764,2437.808
+613,Old,Male,Own Home,Married,1,106600,0,High Spending,12,Midwest,Kentucky,Louisville,41416,1876.757
+624,Old,Female,Own Home,Married,1,65900,0,High Spending,24,Midwest,Kentucky,Louisville,41151,1436.43
+627,Old,Female,Own Home,Married,0,33600,2,Medium Spending,12,Midwest,Kentucky,Louisville,40383,805.24
+636,Young,Female,Renting,No,1,27000,1,NA,24,Midwest,Kentucky,Louisville,42212,1011.587
+671,Middle Aged,Female,Renting,No,1,40200,1,NA,12,Midwest,Kentucky,Louisville,42208,880.595
+690,Young,Female,Own Home,No,1,44700,1,Medium Spending,6,Midwest,Kentucky,Louisville,41669,501.66
+763,Middle Aged,Female,Own Home,Married,1,85500,2,Medium Spending,18,Midwest,Kentucky,Louisville,41823,894.668
+792,Middle Aged,Male,Own Home,Married,1,102400,1,NA,12,Midwest,Kentucky,Louisville,42198,2465.753
+801,Middle Aged,Male,Own Home,No,1,64200,0,High Spending,18,Midwest,Kentucky,Louisville,41796,1641.859
+803,Middle Aged,Female,Own Home,Married,1,72200,2,Medium Spending,18,Midwest,Kentucky,Louisville,41788,714.555
+837,Middle Aged,Male,Own Home,No,1,62700,2,Medium Spending,12,Midwest,Kentucky,Louisville,42066,703.955
+839,Young,Female,Renting,No,0,13600,1,NA,18,Midwest,Kentucky,Louisville,42165,349.137
+921,Middle Aged,Male,Renting,Married,0,72200,1,High Spending,12,Midwest,Kentucky,Louisville,41925,2081.794
+928,Middle Aged,Female,Renting,Married,0,61500,3,Medium Spending,24,Midwest,Kentucky,Louisville,41560,1161.732
+936,Old,Female,Own Home,No,1,64600,0,NA,6,Midwest,Kentucky,Louisville,42143,1297.774
+941,Middle Aged,Female,Own Home,Married,1,96500,1,High Spending,18,Midwest,Kentucky,Louisville,41523,1364.072
+994,Young,Male,Renting,No,1,17800,0,Low Spending,18,Midwest,Kentucky,Louisville,40939,292.197
+17,Middle Aged,Female,Own Home,Married,1,79400,3,Low Spending,6,South,Tennessee,Memphis,42064,199.647
+23,Old,Female,Renting,No,1,28900,0,Low Spending,12,South,Tennessee,Memphis,40552,830.233
+46,Old,Male,Own Home,Married,0,15400,0,Low Spending,6,South,Tennessee,Memphis,40111,297.297
+84,Old,Male,Own Home,Married,1,45900,0,Medium Spending,24,South,Tennessee,Memphis,40569,1645.453
+88,Middle Aged,Male,Renting,No,1,61800,0,High Spending,24,South,Tennessee,Memphis,41990,1155.684
+102,Old,Female,Own Home,No,1,30300,0,Low Spending,18,South,Tennessee,Memphis,41231,1061.9
+141,Young,Female,Renting,No,1,10600,2,Low Spending,12,South,Tennessee,Memphis,41505,114.028
+150,Middle Aged,Male,Renting,No,1,39500,1,NA,6,South,Tennessee,Memphis,42132,411.964
+157,Middle Aged,Female,Own Home,Married,1,72600,1,NA,18,South,Tennessee,Memphis,42241,1999.115
+212,Old,Male,Renting,Married,0,66200,0,High Spending,24,South,Tennessee,Memphis,40978,2057.18
+221,Middle Aged,Male,Renting,Married,1,65800,2,Medium Spending,18,South,Tennessee,Memphis,41556,577.536
+238,Middle Aged,Male,Renting,Married,0,64600,2,NA,24,South,Tennessee,Memphis,42235,2934.876
+268,Middle Aged,Female,Own Home,No,1,54400,3,Low Spending,18,South,Tennessee,Memphis,41632,342.452
+274,Middle Aged,Female,Renting,Married,1,104900,3,Low Spending,6,South,Tennessee,Memphis,41193,449.588
+291,Young,Female,Renting,No,1,17000,0,Low Spending,18,South,Tennessee,Memphis,40554,658.837
+312,Old,Male,Own Home,Married,1,123000,0,High Spending,24,South,Tennessee,Memphis,40344,3670.869
+360,Middle Aged,Male,Own Home,No,0,80800,2,High Spending,18,South,Tennessee,Memphis,41018,2444.449
+365,Old,Male,Renting,Married,0,66300,0,NA,18,South,Tennessee,Memphis,42045,2243.048
+367,Middle Aged,Male,Renting,No,0,55800,1,NA,6,South,Tennessee,Memphis,42243,820.972
+380,Middle Aged,Male,Own Home,No,1,67900,0,High Spending,18,South,Tennessee,Memphis,42179,1418.346
+511,Old,Male,Renting,No,1,42800,0,Medium Spending,12,South,Tennessee,Memphis,41994,922.047
+545,Old,Female,Own Home,Married,1,96200,0,High Spending,12,South,Tennessee,Memphis,39909,1457.033
+565,Middle Aged,Female,Own Home,No,0,62500,3,NA,6,South,Tennessee,Memphis,42175,921.458
+576,Young,Female,Renting,No,0,18200,2,Low Spending,12,South,Tennessee,Memphis,41012,322.469
+579,Middle Aged,Male,Own Home,Married,0,79700,1,High Spending,24,South,Tennessee,Memphis,40519,3383.646
+580,Young,Male,Renting,No,0,17700,0,Low Spending,18,South,Tennessee,Memphis,40497,741.598
+590,Old,Male,Own Home,Married,1,85300,0,NA,12,South,Tennessee,Memphis,42182,2522.953
+601,Young,Female,Own Home,Married,0,33700,0,NA,6,South,Tennessee,Memphis,42060,613.992
+659,Young,Female,Renting,No,1,12500,3,NA,12,South,Tennessee,Memphis,42208,206.366
+673,Middle Aged,Male,Renting,No,1,53300,0,Medium Spending,18,South,Tennessee,Memphis,40406,1720.018
+686,Young,Female,Renting,No,1,17600,2,Low Spending,18,South,Tennessee,Memphis,41693,163.084
+692,Young,Female,Renting,Married,1,63200,0,High Spending,24,South,Tennessee,Memphis,41869,1511.777
+747,Middle Aged,Male,Own Home,Married,1,140700,3,Medium Spending,12,South,Tennessee,Memphis,41815,1001.207
+762,Middle Aged,Female,Own Home,Married,0,118300,1,High Spending,12,South,Tennessee,Memphis,40308,2502.349
+780,Middle Aged,Female,Own Home,Married,1,86400,1,High Spending,12,South,Tennessee,Memphis,41422,1713.073
+800,Old,Female,Own Home,No,1,39600,0,Medium Spending,12,South,Tennessee,Memphis,41674,609.624
+830,Young,Female,Renting,No,1,13100,0,NA,18,South,Tennessee,Memphis,42122,314.028
+834,Old,Female,Renting,No,0,19700,0,Low Spending,6,South,Tennessee,Memphis,41927,535.463
+840,Middle Aged,Female,Own Home,Married,1,97500,1,High Spending,12,South,Tennessee,Memphis,41579,1279.949
+853,Young,Female,Renting,No,0,18400,1,Low Spending,6,South,Tennessee,Memphis,40181,303.454
+873,Middle Aged,Male,Renting,Married,0,52800,2,Medium Spending,12,South,Tennessee,Memphis,41905,926.479
+978,Middle Aged,Female,Own Home,No,1,36900,2,Low Spending,24,South,Tennessee,Memphis,41428,513.908
+991,Young,Female,Renting,No,1,14100,3,NA,6,South,Tennessee,Memphis,42224,153.378
+19,Young,Female,Renting,No,1,12400,1,NA,12,South,Florida,Miami,42117,228.996
+26,Young,Male,Renting,No,0,17800,1,NA,18,South,Florida,Miami,42143,588.625
+29,Middle Aged,Female,Own Home,Married,1,88200,0,NA,24,South,Florida,Miami,42073,2748.811
+44,Middle Aged,Male,Own Home,Married,0,90700,3,High Spending,24,South,Florida,Miami,40675,2265.298
+49,Old,Female,Own Home,No,1,36100,0,Medium Spending,12,South,Florida,Miami,40200,437.774
+68,Middle Aged,Male,Own Home,No,1,63200,0,High Spending,24,South,Florida,Miami,39832,1932.447
+74,Middle Aged,Female,Renting,Married,1,73000,1,Medium Spending,6,South,Florida,Miami,40256,489.929
+97,Middle Aged,Male,Own Home,Married,1,96100,0,High Spending,6,South,Florida,Miami,41791,1588.377
+99,Middle Aged,Male,Renting,No,1,54200,0,NA,18,South,Florida,Miami,42086,1405.189
+124,Middle Aged,Female,Own Home,Married,1,130700,3,NA,6,South,Florida,Miami,42241,2070.257
+151,Old,Male,Own Home,Married,1,55500,0,Medium Spending,18,South,Florida,Miami,39945,857.976
+163,Middle Aged,Male,Renting,Married,0,84100,1,High Spending,24,South,Florida,Miami,41561,2362.03
+171,Young,Female,Renting,No,1,10600,2,NA,24,South,Florida,Miami,42112,516.687
+192,Old,Female,Own Home,Married,1,112800,0,High Spending,12,South,Florida,Miami,40265,1861.434
+197,Young,Male,Renting,No,0,20800,0,NA,6,South,Florida,Miami,42221,259.818
+218,Young,Male,Renting,No,1,31600,1,NA,12,South,Florida,Miami,42199,475.605
+227,Old,Female,Own Home,No,1,32500,0,Medium Spending,24,South,Florida,Miami,40851,882.862
+280,Young,Male,Renting,Married,1,80700,3,Low Spending,6,South,Florida,Miami,41226,202.181
+288,Young,Female,Renting,Married,1,76400,0,NA,12,South,Florida,Miami,42061,2216.475
+301,Middle Aged,Male,Own Home,Married,0,65400,3,NA,6,South,Florida,Miami,42068,835.853
+320,Young,Female,Renting,No,1,19300,1,Low Spending,24,South,Florida,Miami,41361,308.417
+330,Middle Aged,Male,Own Home,No,1,63700,0,NA,6,South,Florida,Miami,42242,1350.649
+339,Middle Aged,Male,Renting,Married,1,74600,2,Medium Spending,18,South,Florida,Miami,41694,705.044
+438,Old,Female,Own Home,Married,0,78800,0,High Spending,18,South,Florida,Miami,41665,3397.792
+439,Middle Aged,Male,Renting,Married,0,124800,3,High Spending,18,South,Florida,Miami,40286,2536.685
+443,Young,Male,Own Home,No,1,20900,0,Low Spending,24,South,Florida,Miami,40923,550.073
+452,Middle Aged,Male,Renting,No,1,52400,0,NA,18,South,Florida,Miami,42205,856.726
+470,Young,Male,Own Home,Married,1,62200,0,High Spending,24,South,Florida,Miami,40225,1347.527
+472,Young,Male,Renting,No,1,21000,0,Low Spending,24,South,Florida,Miami,40209,645.873
+549,Middle Aged,Female,Own Home,No,1,36700,1,NA,6,South,Florida,Miami,42237,529.347
+587,Middle Aged,Male,Own Home,Married,0,102700,1,High Spending,18,South,Florida,Miami,40276,3785.425
+588,Middle Aged,Female,Own Home,Married,1,90500,1,High Spending,6,South,Florida,Miami,41688,1116.002
+593,Young,Male,Renting,Married,0,46300,1,Medium Spending,18,South,Florida,Miami,40383,1357.421
+609,Middle Aged,Male,Own Home,Married,0,100100,1,High Spending,24,South,Florida,Miami,41218,3490.994
+618,Old,Male,Own Home,Married,1,90600,0,High Spending,24,South,Florida,Miami,41211,3167.171
+678,Young,Female,Renting,No,1,20300,2,Low Spending,12,South,Florida,Miami,41282,180.472
+683,Middle Aged,Male,Own Home,Married,0,89500,0,High Spending,24,South,Florida,Miami,42174,5208.718
+709,Young,Female,Renting,No,0,19700,2,Low Spending,6,South,Florida,Miami,40402,330.218
+719,Young,Female,Renting,No,1,12000,0,Low Spending,6,South,Florida,Miami,41035,140.299
+720,Middle Aged,Male,Renting,Married,1,79500,0,High Spending,18,South,Florida,Miami,41539,1763.296
+758,Middle Aged,Female,Own Home,No,0,25300,1,NA,6,South,Florida,Miami,42108,450.915
+811,Young,Female,Renting,No,0,18400,1,Low Spending,12,South,Florida,Miami,42096,662.415
+838,Young,Male,Renting,No,0,25300,0,Medium Spending,12,South,Florida,Miami,40119,590.981
+917,Young,Female,Renting,No,1,12500,1,Low Spending,6,South,Florida,Miami,40636,201.829
+926,Middle Aged,Male,Own Home,Married,1,109200,3,Low Spending,24,South,Florida,Miami,42140,1102.084
+960,Young,Female,Renting,No,0,14500,1,Low Spending,6,South,Florida,Miami,41684,221.87
+962,Old,Female,Own Home,No,1,12700,2,Low Spending,6,South,Florida,Miami,40812,64.839
+995,Old,Male,Own Home,No,1,41900,0,Medium Spending,6,South,Florida,Miami,41462,653.924
+13,Middle Aged,Male,Own Home,No,1,45900,2,Low Spending,12,South,Louisiana,New Orleans,40696,416.15
+20,Young,Male,Renting,Married,1,52600,1,Medium Spending,12,South,Louisiana,New Orleans,40691,1052.263
+67,Old,Female,Own Home,No,1,12800,0,NA,12,South,Louisiana,New Orleans,42058,230.249
+81,Old,Female,Own Home,Married,1,118000,3,Low Spending,12,South,Louisiana,New Orleans,42012,581.205
+94,Young,Male,Renting,No,1,18700,0,Low Spending,12,South,Louisiana,New Orleans,41024,288.887
+96,Young,Female,Own Home,No,1,32600,3,Low Spending,12,South,Louisiana,New Orleans,40993,172.315
+132,Young,Female,Renting,No,0,23100,2,Low Spending,6,South,Louisiana,New Orleans,41068,465.554
+133,Young,Male,Renting,No,0,10900,0,Low Spending,24,South,Louisiana,New Orleans,41649,407.302
+147,Middle Aged,Male,Own Home,Married,1,69900,1,NA,18,South,Louisiana,New Orleans,42078,2100.891
+165,Old,Female,Renting,No,1,42500,0,Medium Spending,24,South,Louisiana,New Orleans,41057,918.166
+169,Middle Aged,Female,Own Home,No,0,56000,3,Medium Spending,6,South,Louisiana,New Orleans,41973,530.267
+184,Young,Female,Renting,No,1,14600,3,Low Spending,6,South,Louisiana,New Orleans,40418,46.55
+186,Middle Aged,Female,Own Home,Married,1,126300,1,High Spending,6,South,Louisiana,New Orleans,40023,1888.376
+195,Middle Aged,Male,Renting,No,1,44500,0,Medium Spending,24,South,Louisiana,New Orleans,41118,1174.783
+211,Young,Female,Renting,Married,1,54200,1,Medium Spending,6,South,Louisiana,New Orleans,41251,486.077
+314,Young,Male,Renting,Married,1,55500,3,Low Spending,12,South,Louisiana,New Orleans,39928,216.107
+323,Middle Aged,Male,Own Home,No,0,75400,0,High Spending,24,South,Louisiana,New Orleans,39820,2723.299
+354,Young,Male,Renting,No,1,23200,1,Low Spending,24,South,Louisiana,New Orleans,41365,504.002
+379,Old,Female,Own Home,Married,1,111500,0,High Spending,18,South,Louisiana,New Orleans,40617,2510.02
+391,Young,Female,Renting,No,1,22100,2,Low Spending,18,South,Louisiana,New Orleans,40507,280.381
+436,Middle Aged,Female,Own Home,Married,1,79900,3,Low Spending,12,South,Louisiana,New Orleans,41443,294.761
+440,Young,Female,Renting,Married,1,36900,1,NA,18,South,Louisiana,New Orleans,42191,1480.283
+442,Middle Aged,Female,Own Home,No,1,65800,1,Medium Spending,12,South,Louisiana,New Orleans,40405,868.524
+449,Middle Aged,Female,Renting,No,1,50500,1,Medium Spending,12,South,Louisiana,New Orleans,40570,940.152
+476,Middle Aged,Male,Own Home,Married,1,54200,1,Medium Spending,6,South,Louisiana,New Orleans,42238,756.958
+532,Old,Male,Renting,No,1,44400,0,Medium Spending,18,South,Louisiana,New Orleans,40876,886.314
+558,Middle Aged,Male,Own Home,Married,0,93000,3,High Spending,6,South,Louisiana,New Orleans,42052,1045.96
+598,Old,Female,Own Home,Married,1,22400,0,NA,24,South,Louisiana,New Orleans,42113,947.303
+639,Middle Aged,Female,Own Home,Married,1,74700,1,Medium Spending,6,South,Louisiana,New Orleans,41432,703.879
+660,Middle Aged,Male,Own Home,No,1,50600,3,NA,6,South,Louisiana,New Orleans,42194,713.017
+751,Old,Male,Renting,Married,1,90200,0,High Spending,18,South,Louisiana,New Orleans,39817,2183.422
+756,Middle Aged,Female,Renting,Married,1,82300,2,Medium Spending,12,South,Louisiana,New Orleans,40454,580.43
+786,Young,Male,Renting,No,0,20300,2,Low Spending,24,South,Louisiana,New Orleans,40869,450.078
+795,Middle Aged,Female,Renting,No,1,40700,3,Low Spending,18,South,Louisiana,New Orleans,41861,231.594
+847,Middle Aged,Male,Own Home,Married,1,83900,0,High Spending,24,South,Louisiana,New Orleans,42008,1721.248
+857,Middle Aged,Female,Own Home,Married,0,102800,2,High Spending,18,South,Louisiana,New Orleans,42084,2238.228
+866,Young,Female,Renting,No,1,26700,1,NA,12,South,Louisiana,New Orleans,42157,458.626
+884,Middle Aged,Male,Own Home,Married,1,84200,0,High Spending,24,South,Louisiana,New Orleans,39928,1654.133
+892,Middle Aged,Male,Own Home,Married,1,96900,0,High Spending,6,South,Louisiana,New Orleans,40068,1159.217
+933,Old,Female,Own Home,No,0,40600,2,Medium Spending,6,South,Louisiana,New Orleans,41710,690.248
+946,Middle Aged,Female,Renting,No,1,43000,3,Low Spending,24,South,Louisiana,New Orleans,40172,225.089
+982,Middle Aged,Male,Own Home,No,1,64300,0,NA,6,South,Louisiana,New Orleans,42031,1324.757
+984,Old,Male,Own Home,Married,0,86500,0,High Spending,24,South,Louisiana,New Orleans,40468,2690.051
+986,Middle Aged,Female,Own Home,Married,1,123600,1,NA,12,South,Louisiana,New Orleans,42092,1891.782
+990,Young,Female,Renting,No,0,12400,3,Low Spending,18,South,Louisiana,New Orleans,41369,204.91
+31,Middle Aged,Female,Own Home,No,0,55200,0,High Spending,18,East,New York,New York,40422,1713.624
+34,Middle Aged,Female,Own Home,No,1,41300,1,NA,18,East,New York,New York,42175,932.214
+39,Old,Female,Own Home,No,1,39900,0,NA,6,East,New York,New York,42034,619.438
+54,Old,Female,Own Home,Married,1,21500,0,Low Spending,18,East,New York,New York,40868,444.987
+143,Young,Male,Own Home,Married,1,58900,0,NA,18,East,New York,New York,42101,1214.607
+160,Young,Male,Renting,No,1,14800,3,NA,12,East,New York,New York,42065,435.747
+206,Old,Female,Own Home,No,1,17300,0,Low Spending,6,East,New York,New York,41397,165.935
+237,Middle Aged,Female,Renting,Married,1,79500,0,High Spending,12,East,New York,New York,41997,1650.913
+259,Middle Aged,Male,Own Home,No,1,82800,0,NA,6,East,New York,New York,42151,1543.563
+286,Middle Aged,Female,Renting,No,1,25700,2,Low Spending,6,East,New York,New York,41824,172.838
+303,Middle Aged,Male,Own Home,Married,1,117500,2,Medium Spending,12,East,New York,New York,40279,926.873
+308,Middle Aged,Male,Own Home,No,0,45000,1,NA,18,East,New York,New York,42204,901.551
+319,Old,Female,Own Home,Married,1,72900,0,High Spending,6,East,New York,New York,41161,752.516
+336,Middle Aged,Male,Own Home,Married,1,97500,0,High Spending,18,East,New York,New York,39939,2836.752
+352,Young,Female,Renting,No,0,12500,1,NA,12,East,New York,New York,42102,421.969
+401,Middle Aged,Female,Own Home,No,1,46100,2,Low Spending,12,East,New York,New York,41420,418.435
+434,Middle Aged,Female,Renting,Married,1,81400,2,NA,6,East,New York,New York,42088,1014.335
+465,Middle Aged,Male,Own Home,Married,1,64800,2,Medium Spending,12,East,New York,New York,40193,574.103
+493,Old,Male,Own Home,Married,1,58300,0,Medium Spending,24,East,New York,New York,41863,1472.263
+513,Middle Aged,Female,Own Home,Married,0,90400,1,High Spending,18,East,New York,New York,40880,2924.424
+543,Young,Female,Renting,No,1,14800,1,Low Spending,6,East,New York,New York,39989,208.505
+571,Middle Aged,Female,Own Home,Married,1,68200,1,NA,6,East,New York,New York,42210,817.748
+631,Middle Aged,Male,Renting,No,1,45900,0,Medium Spending,12,East,New York,New York,40568,716.314
+637,Old,Female,Own Home,No,1,51900,0,Medium Spending,12,East,New York,New York,41690,1147.64
+661,Middle Aged,Female,Own Home,Married,1,67900,3,Low Spending,12,East,New York,New York,41874,355.95
+697,Middle Aged,Female,Own Home,No,0,52600,2,Medium Spending,12,East,New York,New York,40665,1307.004
+744,Young,Female,Renting,No,1,13500,0,Low Spending,18,East,New York,New York,42208,295.708
+746,Middle Aged,Female,Renting,No,0,39000,3,Low Spending,6,East,New York,New York,41201,291.739
+807,Middle Aged,Female,Renting,Married,1,93500,1,High Spending,18,East,New York,New York,39944,1425.969
+813,Middle Aged,Male,Renting,No,1,43800,0,Medium Spending,12,East,New York,New York,40889,605.541
+814,Old,Male,Own Home,Married,1,66300,0,High Spending,12,East,New York,New York,40229,1087.79
+819,Young,Female,Renting,Married,1,25500,2,Low Spending,6,East,New York,New York,42228,138.626
+831,Middle Aged,Male,Own Home,Married,1,77700,0,NA,6,East,New York,New York,42079,983.21
+851,Old,Female,Renting,No,1,37000,1,NA,6,East,New York,New York,42230,632.356
+874,Middle Aged,Male,Own Home,Married,1,60500,3,Low Spending,12,East,New York,New York,41759,339.639
+930,Old,Female,Renting,No,0,15000,0,Low Spending,12,East,New York,New York,41162,377.952
+938,Old,Female,Own Home,No,1,22800,0,Low Spending,6,East,New York,New York,41933,257.67
+952,Middle Aged,Male,Own Home,Married,1,108200,3,Low Spending,12,East,New York,New York,40742,635.307
+958,Middle Aged,Female,Own Home,Married,0,109800,0,High Spending,18,East,New York,New York,41215,4279.258
+1,Young,Female,Renting,No,1,16400,1,Low Spending,12,South,Florida,Orlando,40839,217.691
+3,Middle Aged,Male,Own Home,Married,1,97300,1,NA,12,South,Florida,Orlando,42234,3047.563
+10,Old,Male,Own Home,Married,0,62300,0,High Spending,24,South,Florida,Orlando,40703,2644.418
+35,Middle Aged,Male,Own Home,No,0,65400,1,High Spending,12,South,Florida,Orlando,40659,2289.968
+109,Young,Male,Renting,Married,1,36500,0,Medium Spending,24,South,Florida,Orlando,41477,1140.258
+119,Middle Aged,Male,Own Home,No,1,68400,0,High Spending,18,South,Florida,Orlando,41279,1154.914
+210,Old,Female,Own Home,Married,1,41600,0,NA,18,South,Florida,Orlando,42187,982.041
+215,Young,Male,Renting,Married,1,36900,0,Medium Spending,18,South,Florida,Orlando,40574,721.335
+220,Young,Female,Renting,Married,1,40900,1,Medium Spending,18,South,Florida,Orlando,40777,961.609
+248,Old,Female,Own Home,No,1,35900,0,NA,12,South,Florida,Orlando,42172,962.012
+253,Old,Female,Renting,No,0,20400,0,NA,24,South,Florida,Orlando,42084,513.076
+296,Middle Aged,Male,Own Home,Married,1,83000,2,Medium Spending,6,South,Florida,Orlando,41857,725.79
+316,Middle Aged,Male,Own Home,Married,1,96300,2,NA,18,South,Florida,Orlando,42049,3915.86
+318,Middle Aged,Male,Own Home,No,1,60200,0,Medium Spending,12,South,Florida,Orlando,41473,1365.332
+337,Young,Male,Own Home,No,1,29600,3,NA,12,South,Florida,Orlando,42085,583.081
+342,Young,Female,Renting,No,1,17200,1,NA,12,South,Florida,Orlando,42220,329.397
+347,Middle Aged,Male,Own Home,Married,0,72500,0,NA,24,South,Florida,Orlando,42020,2594.924
+355,Young,Male,Renting,Married,1,41600,3,NA,24,South,Florida,Orlando,42037,1633.555
+363,Middle Aged,Female,Own Home,No,1,43300,1,NA,18,South,Florida,Orlando,42092,1020.542
+396,Middle Aged,Male,Renting,Married,1,105600,3,Low Spending,6,South,Florida,Orlando,42044,304.201
+420,Middle Aged,Male,Own Home,Married,1,109600,1,High Spending,12,South,Florida,Orlando,42052,2317.554
+482,Young,Female,Renting,No,1,15000,2,NA,12,South,Florida,Orlando,42158,340.809
+492,Young,Female,Own Home,No,0,27900,0,Medium Spending,18,South,Florida,Orlando,40935,1184.054
+518,Old,Male,Own Home,Married,0,37000,0,Medium Spending,12,South,Florida,Orlando,40315,849.672
+544,Young,Female,Renting,No,1,12700,3,Low Spending,12,South,Florida,Orlando,40044,87.449
+581,Old,Male,Own Home,Married,0,112900,0,High Spending,24,South,Florida,Orlando,39849,6217.343
+592,Young,Female,Renting,No,0,32400,1,Medium Spending,24,South,Florida,Orlando,40748,919.965
+594,Middle Aged,Female,Renting,Married,0,120800,1,High Spending,24,South,Florida,Orlando,41869,5829.655
+602,Middle Aged,Male,Own Home,No,0,39100,1,Medium Spending,12,South,Florida,Orlando,41299,1001.371
+734,Young,Female,Own Home,Married,0,68000,0,High Spending,24,South,Florida,Orlando,40361,3688.445
+764,Young,Male,Renting,No,1,28400,3,Low Spending,18,South,Florida,Orlando,40481,181.753
+776,Middle Aged,Male,Own Home,Married,1,79000,2,Medium Spending,18,South,Florida,Orlando,41836,670.508
+797,Old,Male,Own Home,Married,1,134500,0,High Spending,24,South,Florida,Orlando,40467,4557.754
+802,Young,Female,Renting,Married,1,40000,0,NA,6,South,Florida,Orlando,42183,613.326
+809,Middle Aged,Male,Own Home,Married,1,127000,0,NA,12,South,Florida,Orlando,42005,1821.011
+843,Young,Male,Renting,No,1,19600,0,Low Spending,12,South,Florida,Orlando,40025,395.319
+895,Old,Male,Own Home,Married,0,74500,0,NA,18,South,Florida,Orlando,42010,1413.224
+902,Middle Aged,Female,Renting,Married,1,68800,0,NA,6,South,Florida,Orlando,42195,1658.269
+905,Young,Male,Renting,No,1,18000,0,Low Spending,12,South,Florida,Orlando,41899,303.065
+912,Young,Female,Renting,No,1,29200,3,NA,6,South,Florida,Orlando,42102,636.284
+920,Young,Female,Renting,Married,1,13800,0,Low Spending,18,South,Florida,Orlando,41640,363.468
+932,Old,Male,Renting,Married,1,49600,0,Medium Spending,6,South,Florida,Orlando,41589,770.114
+934,Middle Aged,Female,Own Home,Married,1,111900,1,NA,12,South,Florida,Orlando,42111,2340.2
+950,Middle Aged,Male,Own Home,Married,0,118400,2,NA,12,South,Florida,Orlando,42237,3940.897
+976,Young,Male,Renting,No,0,14900,1,NA,12,South,Florida,Orlando,42101,421.865
+16,Middle Aged,Female,Own Home,Married,1,76700,2,Medium Spending,6,East,Pennsylvania,Philadelphia,41118,533.868
+48,Middle Aged,Female,Own Home,Married,1,81700,3,Low Spending,24,East,Pennsylvania,Philadelphia,41021,879.439
+50,Middle Aged,Female,Renting,No,1,47000,0,NA,6,East,Pennsylvania,Philadelphia,42208,962.841
+51,Middle Aged,Female,Renting,No,1,28200,1,Low Spending,6,East,Pennsylvania,Philadelphia,41567,223.565
+61,Young,Female,Renting,No,1,11000,2,NA,18,East,Pennsylvania,Philadelphia,42135,393.488
+77,Middle Aged,Male,Own Home,No,1,64000,3,Low Spending,12,East,Pennsylvania,Philadelphia,40446,410.023
+101,Middle Aged,Female,Own Home,Married,1,48900,3,NA,18,East,Pennsylvania,Philadelphia,42183,914.946
+113,Young,Male,Renting,No,1,21900,0,Low Spending,12,East,Pennsylvania,Philadelphia,40392,275.644
+180,Old,Female,Own Home,Married,0,84100,0,High Spending,18,East,Pennsylvania,Philadelphia,40329,2710.041
+199,Middle Aged,Female,Renting,No,1,46600,0,Medium Spending,24,East,Pennsylvania,Philadelphia,42014,905.808
+213,Middle Aged,Female,Own Home,No,1,72200,0,NA,18,East,Pennsylvania,Philadelphia,42041,3278.083
+242,Middle Aged,Male,Own Home,Married,1,107300,2,Medium Spending,24,East,Pennsylvania,Philadelphia,41093,1194.239
+277,Middle Aged,Male,Own Home,No,1,48100,0,Medium Spending,18,East,Pennsylvania,Philadelphia,39999,1639.592
+331,Young,Male,Renting,No,1,15800,2,Low Spending,12,East,Pennsylvania,Philadelphia,41563,147.253
+350,Middle Aged,Male,Own Home,Married,1,54700,0,Medium Spending,18,East,Pennsylvania,Philadelphia,40076,848.279
+366,Middle Aged,Male,Own Home,Married,1,96300,1,High Spending,24,East,Pennsylvania,Philadelphia,40883,1909.168
+405,Middle Aged,Male,Own Home,No,1,49900,1,NA,24,East,Pennsylvania,Philadelphia,42199,1630.84
+437,Middle Aged,Male,Own Home,Married,1,107400,1,High Spending,24,East,Pennsylvania,Philadelphia,41117,1821.345
+468,Young,Female,Renting,No,1,22600,3,NA,6,East,Pennsylvania,Philadelphia,42068,521.046
+491,Middle Aged,Male,Own Home,Married,1,74500,0,High Spending,6,East,Pennsylvania,Philadelphia,40731,1481
+496,Middle Aged,Female,Own Home,Married,0,87200,0,High Spending,18,East,Pennsylvania,Philadelphia,40768,3603.919
+500,Middle Aged,Male,Own Home,No,1,56300,3,Low Spending,6,East,Pennsylvania,Philadelphia,40697,320.758
+516,Young,Female,Renting,Married,1,71200,3,Low Spending,12,East,Pennsylvania,Philadelphia,39955,392.379
+578,Middle Aged,Male,Renting,Married,1,38400,2,Low Spending,6,East,Pennsylvania,Philadelphia,41944,188.132
+628,Young,Female,Own Home,No,1,27500,3,NA,12,East,Pennsylvania,Philadelphia,42020,571.208
+688,Middle Aged,Female,Renting,No,1,40400,1,Low Spending,24,East,Pennsylvania,Philadelphia,40035,630.091
+704,Old,Female,Renting,Married,1,46900,0,Medium Spending,6,East,Pennsylvania,Philadelphia,41251,702.632
+716,Middle Aged,Male,Own Home,Married,0,98900,0,NA,18,East,Pennsylvania,Philadelphia,42074,3126.18
+722,Middle Aged,Male,Renting,Married,0,70500,1,NA,24,East,Pennsylvania,Philadelphia,42071,2145.096
+820,Old,Female,Renting,Married,0,64600,0,High Spending,18,East,Pennsylvania,Philadelphia,41262,2205.806
+826,Young,Male,Renting,Married,1,69700,1,Medium Spending,12,East,Pennsylvania,Philadelphia,40474,1432.328
+861,Old,Female,Own Home,Married,0,100100,0,High Spending,12,East,Pennsylvania,Philadelphia,40165,3103.702
+906,Middle Aged,Female,Own Home,No,1,43100,0,NA,24,East,Pennsylvania,Philadelphia,42055,1443.609
+923,Middle Aged,Female,Own Home,No,1,53300,3,NA,6,East,Pennsylvania,Philadelphia,42187,507.69
+931,Old,Male,Own Home,Married,1,168800,0,High Spending,6,East,Pennsylvania,Philadelphia,40831,1511.751
+959,Young,Female,Renting,No,1,14400,1,Low Spending,18,East,Pennsylvania,Philadelphia,41784,222.744
+975,Middle Aged,Female,Renting,Married,1,88600,3,Low Spending,6,East,Pennsylvania,Philadelphia,41575,211.525
+979,Old,Male,Own Home,No,1,62200,0,NA,12,East,Pennsylvania,Philadelphia,42041,1582.612
+998,Middle Aged,Male,Own Home,Married,1,102600,0,High Spending,18,East,Pennsylvania,Philadelphia,41495,2545.732
+6,Middle Aged,Female,Renting,No,1,42800,0,Medium Spending,12,West,Arizona,Phoenix,41337,758.649
+33,Young,Female,Renting,No,0,13700,2,NA,24,West,Arizona,Phoenix,42210,414.052
+45,Middle Aged,Male,Own Home,Married,0,74400,0,High Spending,6,West,Arizona,Phoenix,39852,1892.695
+71,Old,Female,Own Home,Married,1,74900,0,High Spending,12,West,Arizona,Phoenix,41651,1473.961
+117,Old,Female,Own Home,No,1,58200,0,Medium Spending,18,West,Arizona,Phoenix,41165,981.355
+137,Old,Female,Renting,Married,0,52500,0,High Spending,24,West,Arizona,Phoenix,40901,2037.516
+148,Young,Female,Renting,No,1,12100,1,Low Spending,6,West,Arizona,Phoenix,41529,89.703
+265,Old,Male,Own Home,No,1,40200,2,NA,18,West,Arizona,Phoenix,42084,1196.764
+395,Middle Aged,Male,Own Home,Married,0,113300,1,High Spending,18,West,Arizona,Phoenix,41290,5151.431
+424,Middle Aged,Male,Renting,No,1,43700,0,NA,18,West,Arizona,Phoenix,42101,1343.647
+426,Old,Male,Own Home,No,1,71300,0,High Spending,18,West,Arizona,Phoenix,41067,1542.565
+456,Young,Female,Renting,No,0,28900,0,Medium Spending,24,West,Arizona,Phoenix,39903,905.137
+461,Middle Aged,Male,Renting,No,1,39000,0,NA,6,West,Arizona,Phoenix,42240,643.295
+481,Old,Male,Own Home,No,1,58700,0,NA,24,West,Arizona,Phoenix,42237,1479.484
+495,Middle Aged,Male,Own Home,Married,1,104100,0,High Spending,24,West,Arizona,Phoenix,41013,2636.239
+498,Young,Male,Renting,Married,1,64300,3,Low Spending,6,West,Arizona,Phoenix,41159,239.194
+519,Young,Female,Renting,No,1,25300,3,NA,6,West,Arizona,Phoenix,42088,510.148
+520,Young,Female,Renting,Married,0,53700,0,High Spending,24,West,Arizona,Phoenix,42044,2490.974
+530,Middle Aged,Female,Own Home,Married,1,35300,0,Medium Spending,24,West,Arizona,Phoenix,41847,1092.528
+535,Middle Aged,Male,Own Home,Married,1,97100,0,NA,12,West,Arizona,Phoenix,42014,1473.127
+538,Middle Aged,Male,Renting,No,0,67700,0,High Spending,12,West,Arizona,Phoenix,41914,2226.351
+559,Young,Female,Renting,Married,1,40900,2,Low Spending,18,West,Arizona,Phoenix,40995,575.602
+622,Old,Female,Own Home,No,1,17600,0,Low Spending,6,West,Arizona,Phoenix,40097,224.368
+633,Young,Male,Renting,No,0,13800,1,Low Spending,12,West,Arizona,Phoenix,40100,367.824
+648,Young,Male,Renting,No,0,22900,1,NA,12,West,Arizona,Phoenix,42067,814.045
+653,Old,Male,Own Home,Married,1,54600,0,Medium Spending,24,West,Arizona,Phoenix,40849,1245.733
+658,Old,Female,Own Home,Married,1,89000,0,High Spending,12,West,Arizona,Phoenix,41281,1486.535
+663,Middle Aged,Female,Own Home,No,0,34600,2,Medium Spending,18,West,Arizona,Phoenix,42010,748.254
+664,Middle Aged,Female,Own Home,No,1,43500,1,Medium Spending,12,West,Arizona,Phoenix,40599,500.448
+687,Middle Aged,Female,Own Home,Married,1,82400,2,Medium Spending,18,West,Arizona,Phoenix,41069,657.46
+733,Old,Male,Own Home,No,0,62000,0,High Spending,24,West,Arizona,Phoenix,40586,3293.157
+752,Middle Aged,Female,Own Home,Married,0,101700,1,NA,24,West,Arizona,Phoenix,42185,2551.12
+757,Young,Female,Own Home,No,0,31900,0,NA,12,West,Arizona,Phoenix,42045,859.605
+769,Middle Aged,Female,Renting,Married,1,60500,2,Low Spending,6,West,Arizona,Phoenix,41923,408.638
+772,Middle Aged,Female,Own Home,No,1,51200,0,Medium Spending,18,West,Arizona,Phoenix,40994,1257.383
+774,Old,Female,Renting,No,1,29200,0,Low Spending,12,West,Arizona,Phoenix,41938,556.24
+777,Young,Male,Renting,Married,1,36600,0,NA,6,West,Arizona,Phoenix,42023,586.627
+833,Young,Male,Renting,No,1,21300,0,Low Spending,24,West,Arizona,Phoenix,41287,676.765
+845,Young,Female,Renting,Married,0,47200,1,Medium Spending,12,West,Arizona,Phoenix,39902,1271.71
+870,Middle Aged,Female,Renting,Married,1,72900,3,Low Spending,6,West,Arizona,Phoenix,41342,252.164
+883,Old,Male,Own Home,No,0,61000,0,High Spending,6,West,Arizona,Phoenix,41330,974.512
+907,Young,Female,Own Home,No,1,27800,3,NA,12,West,Arizona,Phoenix,42226,407.584
+909,Middle Aged,Male,Renting,No,1,38600,1,Low Spending,18,West,Arizona,Phoenix,41961,542.1
+937,Old,Female,Own Home,No,1,33000,3,NA,6,West,Arizona,Phoenix,42025,700.351
+955,Middle Aged,Male,Own Home,Married,1,96600,0,NA,12,West,Arizona,Phoenix,42128,1436.806
+961,Middle Aged,Female,Own Home,No,1,48700,1,NA,12,West,Arizona,Phoenix,42165,1456.942
+69,Young,Male,Renting,Married,0,41600,0,High Spending,24,East,Pennsylvania,Pittsburgh,41031,1690.318
+82,Young,Female,Renting,No,1,13300,1,NA,6,East,Pennsylvania,Pittsburgh,42144,235.808
+100,Middle Aged,Female,Own Home,Married,0,80600,0,High Spending,24,East,Pennsylvania,Pittsburgh,40931,2839.63
+108,Middle Aged,Female,Renting,Married,1,118300,1,NA,18,East,Pennsylvania,Pittsburgh,42155,2680.51
+144,Middle Aged,Female,Own Home,Married,1,102500,3,Low Spending,12,East,Pennsylvania,Pittsburgh,39956,548.212
+156,Middle Aged,Male,Own Home,Married,1,83700,0,High Spending,24,East,Pennsylvania,Pittsburgh,40395,3343.979
+167,Middle Aged,Male,Own Home,Married,1,67600,1,Medium Spending,18,East,Pennsylvania,Pittsburgh,40932,1172.373
+172,Old,Female,Renting,Married,0,88400,0,High Spending,18,East,Pennsylvania,Pittsburgh,41388,3631.872
+183,Young,Female,Renting,No,1,13200,1,Low Spending,12,East,Pennsylvania,Pittsburgh,40929,226.845
+247,Middle Aged,Female,Renting,No,1,46500,1,Medium Spending,24,East,Pennsylvania,Pittsburgh,42241,829.237
+290,Young,Female,Renting,No,1,11400,2,NA,6,East,Pennsylvania,Pittsburgh,42066,186.006
+293,Old,Male,Own Home,Married,1,107400,0,High Spending,12,East,Pennsylvania,Pittsburgh,41988,1484.823
+294,Old,Female,Own Home,No,1,37300,0,Medium Spending,6,East,Pennsylvania,Pittsburgh,40825,673.284
+304,Middle Aged,Female,Renting,No,1,43300,3,Low Spending,24,East,Pennsylvania,Pittsburgh,40951,325.739
+351,Middle Aged,Male,Renting,Married,0,64000,1,NA,6,East,Pennsylvania,Pittsburgh,42020,1552.162
+422,Old,Male,Own Home,Married,0,76900,2,High Spending,24,East,Pennsylvania,Pittsburgh,41103,3229.501
+459,Old,Male,Own Home,Married,1,102700,0,NA,18,East,Pennsylvania,Pittsburgh,42220,2381.206
+478,Young,Female,Renting,Married,1,42300,0,NA,6,East,Pennsylvania,Pittsburgh,42173,855.64
+507,Middle Aged,Male,Renting,No,1,47200,0,Medium Spending,18,East,Pennsylvania,Pittsburgh,41418,1587.371
+526,Old,Female,Own Home,No,1,30900,0,Medium Spending,18,East,Pennsylvania,Pittsburgh,40985,861.919
+539,Middle Aged,Female,Renting,Married,0,53900,1,High Spending,18,East,Pennsylvania,Pittsburgh,41172,2177.34
+582,Young,Female,Renting,No,1,17800,1,Low Spending,6,East,Pennsylvania,Pittsburgh,41129,216.069
+611,Old,Male,Own Home,No,1,63200,0,High Spending,24,East,Pennsylvania,Pittsburgh,41992,1506.571
+641,Young,Male,Renting,No,1,17400,0,NA,12,East,Pennsylvania,Pittsburgh,42140,332.097
+655,Middle Aged,Female,Own Home,Married,1,83300,1,High Spending,24,East,Pennsylvania,Pittsburgh,40532,2573.799
+674,Old,Male,Renting,Married,0,66200,0,NA,6,East,Pennsylvania,Pittsburgh,42043,1024.305
+675,Middle Aged,Male,Renting,No,1,54400,0,Medium Spending,6,East,Pennsylvania,Pittsburgh,42016,1150.405
+689,Middle Aged,Male,Own Home,Married,1,70000,0,High Spending,24,East,Pennsylvania,Pittsburgh,41736,1974.242
+700,Middle Aged,Male,Renting,No,0,50000,1,NA,6,East,Pennsylvania,Pittsburgh,42188,1079.497
+707,Middle Aged,Female,Renting,Married,0,75800,1,High Spending,12,East,Pennsylvania,Pittsburgh,41173,1829.99
+727,Young,Female,Own Home,No,1,27200,2,Low Spending,18,East,Pennsylvania,Pittsburgh,40549,445.74
+753,Young,Female,Own Home,No,1,24400,1,Low Spending,6,East,Pennsylvania,Pittsburgh,41121,219.808
+785,Old,Female,Renting,Married,1,70900,0,High Spending,24,East,Pennsylvania,Pittsburgh,41646,1684.72
+788,Young,Female,Renting,No,1,16900,2,NA,6,East,Pennsylvania,Pittsburgh,42224,281.314
+796,Old,Female,Own Home,Married,1,83700,0,High Spending,18,East,Pennsylvania,Pittsburgh,41453,1581.61
+805,Old,Male,Own Home,Married,1,77300,0,High Spending,18,East,Pennsylvania,Pittsburgh,41267,1853.281
+852,Middle Aged,Female,Own Home,Married,0,77600,3,Medium Spending,12,East,Pennsylvania,Pittsburgh,42120,857.575
+879,Middle Aged,Female,Renting,Married,1,87700,3,NA,24,East,Pennsylvania,Pittsburgh,42057,2445.67
+881,Middle Aged,Male,Own Home,No,1,60200,3,NA,12,East,Pennsylvania,Pittsburgh,42102,1363.591
+890,Middle Aged,Male,Renting,No,1,41800,3,Low Spending,24,East,Pennsylvania,Pittsburgh,41331,300.736
+918,Middle Aged,Female,Renting,Married,1,84200,2,Medium Spending,24,East,Pennsylvania,Pittsburgh,41796,953.853
+944,Middle Aged,Male,Own Home,Married,1,82400,3,NA,18,East,Pennsylvania,Pittsburgh,42013,2122.438
+999,Middle Aged,Female,Renting,Married,1,93700,1,High Spending,24,East,Pennsylvania,Pittsburgh,42109,1521.083
+12,Middle Aged,Male,Own Home,Married,0,73800,0,High Spending,24,West,Utah,Salt Lake City,40768,3119.614
+,Middle Aged,Male,Own Home,No,1,59400,0,Medium Spending,18,West,Utah,Salt Lake City,41990,1699.22
+76,Young,Female,Renting,No,0,19800,1,Low Spending,24,West,Utah,Salt Lake City,41658,990.525
+103,Old,Male,Own Home,Married,1,124900,0,High Spending,18,West,Utah,Salt Lake City,42148,4108.968
+127,Middle Aged,Male,Own Home,Married,1,83100,2,Medium Spending,6,West,Utah,Salt Lake City,41079,586.341
+152,Middle Aged,Male,Renting,No,1,45600,0,Medium Spending,18,West,Utah,Salt Lake City,41915,1387.969
+179,Old,Female,Own Home,No,1,35200,0,NA,12,West,Utah,Salt Lake City,42191,827.172
+201,Young,Female,Renting,Married,0,33200,1,NA,24,West,Utah,Salt Lake City,42080,1639.026
+235,Middle Aged,Male,Renting,No,1,55600,0,Medium Spending,6,West,Utah,Salt Lake City,41546,984.412
+281,Middle Aged,Male,Renting,No,0,40200,0,High Spending,18,West,Utah,Salt Lake City,41368,1634.024
+325,Young,Male,Own Home,Married,1,30400,0,Low Spending,6,West,Utah,Salt Lake City,40687,494.735
+327,Young,Male,Renting,No,1,21400,0,NA,12,West,Utah,Salt Lake City,42232,413.902
+348,Old,Female,Own Home,No,1,33200,0,Medium Spending,24,West,Utah,Salt Lake City,40813,1036.66
+381,Young,Male,Renting,No,1,29200,0,Low Spending,18,West,Utah,Salt Lake City,41261,737.4
+411,Middle Aged,Male,Own Home,Married,1,99600,1,High Spending,6,West,Utah,Salt Lake City,40057,871.491
+427,Old,Female,Own Home,Married,1,10100,1,Low Spending,6,West,Utah,Salt Lake City,40305,93.448
+448,Middle Aged,Female,Renting,No,0,31200,3,NA,24,West,Utah,Salt Lake City,42243,1087.02
+457,Middle Aged,Male,Renting,Married,1,108300,2,NA,12,West,Utah,Salt Lake City,42198,2223.642
+531,Middle Aged,Female,Renting,No,1,35300,0,NA,18,West,Utah,Salt Lake City,42052,1368.739
+542,Middle Aged,Male,Renting,No,1,47000,1,Medium Spending,12,West,Utah,Salt Lake City,41804,584.097
+550,Old,Female,Own Home,No,1,28500,0,Low Spending,24,West,Utah,Salt Lake City,39911,621.165
+599,Middle Aged,Male,Own Home,Married,1,102700,3,NA,12,West,Utah,Salt Lake City,42172,1472.782
+607,Old,Male,Renting,No,1,34500,0,Medium Spending,24,West,Utah,Salt Lake City,40870,639.461
+668,Old,Female,Own Home,Married,0,12600,2,Low Spending,12,West,Utah,Salt Lake City,39942,164.49
+684,Young,Female,Renting,No,1,11900,1,Low Spending,6,West,Utah,Salt Lake City,41103,143.467
+706,Middle Aged,Male,Own Home,Married,1,99200,3,NA,12,West,Utah,Salt Lake City,42206,2796.33
+718,Young,Female,Renting,No,1,20100,1,Low Spending,12,West,Utah,Salt Lake City,40136,270.506
+724,Old,Female,Own Home,No,0,42600,0,High Spending,24,West,Utah,Salt Lake City,41212,1789.884
+725,Middle Aged,Male,Own Home,Married,1,118500,1,High Spending,24,West,Utah,Salt Lake City,40596,3063.491
+726,Young,Female,Own Home,No,1,15600,1,Low Spending,6,West,Utah,Salt Lake City,41977,136.348
+773,Middle Aged,Male,Renting,No,1,60300,0,High Spending,6,West,Utah,Salt Lake City,39973,700.502
+775,Middle Aged,Male,Own Home,Married,1,79600,2,NA,6,West,Utah,Salt Lake City,42119,1575.424
+836,Old,Male,Own Home,Married,1,116100,1,High Spending,24,West,Utah,Salt Lake City,41617,2975.17
+886,Young,Female,Renting,No,0,21700,3,NA,24,West,Utah,Salt Lake City,42222,707.7
+904,Middle Aged,Male,Own Home,Married,0,79200,1,High Spending,6,West,Utah,Salt Lake City,39915,1904.52
+914,Young,Female,Renting,No,0,14300,2,Low Spending,6,West,Utah,Salt Lake City,41331,193.826
+943,Middle Aged,Male,Own Home,Married,1,98400,0,High Spending,18,West,Utah,Salt Lake City,41008,3304.603
+963,Middle Aged,Male,Renting,Married,0,97600,1,NA,12,West,Utah,Salt Lake City,42072,2902.197
+970,Middle Aged,Female,Own Home,No,0,55600,1,High Spending,18,West,Utah,Salt Lake City,39929,1553.464
+987,Old,Female,Own Home,Married,1,25900,0,Low Spending,18,West,Utah,Salt Lake City,41398,582.38
+1000,Middle Aged,Male,Own Home,Married,1,102500,1,High Spending,24,West,Utah,Salt Lake City,40977,2464.339
+8,Old,Female,Own Home,Married,0,80000,0,High Spending,6,West,California,San Francisco,40042,1984.66
+73,Young,Female,Renting,Married,1,36500,1,NA,18,West,California,San Francisco,42141,747.435
+111,Middle Aged,Male,Own Home,Married,1,101700,1,NA,6,West,California,San Francisco,42213,940.644
+131,Middle Aged,Male,Renting,No,1,59100,2,Low Spending,18,West,California,San Francisco,41361,579.541
+219,Old,Female,Own Home,Married,1,82800,0,High Spending,24,West,California,San Francisco,41704,3009.979
+278,Middle Aged,Female,Own Home,Married,1,107600,2,Medium Spending,12,West,California,San Francisco,42192,1512.011
+344,Middle Aged,Male,Own Home,Married,1,70200,0,NA,6,West,California,San Francisco,42042,1582.604
+356,Old,Female,Own Home,Married,1,69400,0,High Spending,18,West,California,San Francisco,40559,2418.602
+359,Middle Aged,Male,Renting,Married,0,87100,2,High Spending,18,West,California,San Francisco,41919,1687.807
+370,Young,Female,Renting,No,1,14200,0,NA,6,West,California,San Francisco,42101,191.609
+371,Young,Male,Renting,Married,1,41500,0,NA,24,West,California,San Francisco,42192,1212.594
+374,Young,Female,Renting,No,0,18400,1,Low Spending,6,West,California,San Francisco,41664,319.187
+385,Middle Aged,Male,Renting,No,0,51100,0,High Spending,24,West,California,San Francisco,41202,1983.561
+404,Middle Aged,Female,Own Home,Married,1,65400,2,Medium Spending,24,West,California,San Francisco,41656,937.762
+409,Middle Aged,Female,Renting,No,1,39900,1,Low Spending,12,West,California,San Francisco,40980,586.31
+412,Middle Aged,Male,Own Home,No,1,58400,0,Medium Spending,12,West,California,San Francisco,41189,829.333
+455,Middle Aged,Male,Renting,No,1,55900,1,Medium Spending,12,West,California,San Francisco,41447,908.863
+458,Middle Aged,Female,Renting,Married,1,46700,0,Medium Spending,24,West,California,San Francisco,41173,982.556
+494,Middle Aged,Male,Own Home,Married,1,81200,0,High Spending,24,West,California,San Francisco,40910,1855.633
+505,Middle Aged,Female,Own Home,Married,1,97900,0,High Spending,24,West,California,San Francisco,41370,2149.223
+506,Young,Female,Own Home,Married,1,76200,0,High Spending,12,West,California,San Francisco,40846,979.218
+534,Old,Female,Own Home,Married,0,57900,0,High Spending,12,West,California,San Francisco,41438,1692.94
+566,Middle Aged,Female,Renting,Married,1,48600,0,Medium Spending,24,West,California,San Francisco,41111,1583.064
+591,Young,Male,Renting,No,1,13000,3,Low Spending,6,West,California,San Francisco,41846,43.185
+643,Middle Aged,Female,Own Home,No,1,67800,1,Medium Spending,6,West,California,San Francisco,40920,680.028
+652,Young,Male,Renting,Married,1,54500,1,Medium Spending,18,West,California,San Francisco,41567,1001.101
+676,Middle Aged,Male,Renting,Married,1,68700,0,High Spending,24,West,California,San Francisco,41682,2763.464
+682,Middle Aged,Female,Own Home,Married,0,84900,1,High Spending,24,West,California,San Francisco,41511,3072.076
+699,Middle Aged,Male,Own Home,Married,1,100100,2,NA,6,West,California,San Francisco,42206,1596.909
+742,Middle Aged,Male,Own Home,Married,1,126500,2,High Spending,18,West,California,San Francisco,41059,1999.546
+750,Old,Female,Own Home,Married,1,90500,0,High Spending,6,West,California,San Francisco,40833,862.883
+761,Middle Aged,Female,Renting,Married,1,66300,2,Medium Spending,12,West,California,San Francisco,40563,544.16
+770,Young,Male,Renting,Married,1,36700,0,Medium Spending,12,West,California,San Francisco,42225,730.67
+822,Old,Male,Own Home,No,1,51400,0,NA,6,West,California,San Francisco,42050,694.455
+825,Old,Female,Own Home,Married,1,77600,0,High Spending,18,West,California,San Francisco,41753,2004.491
+841,Middle Aged,Female,Own Home,No,1,68400,0,High Spending,12,West,California,San Francisco,40349,1304.252
+974,Middle Aged,Male,Own Home,Married,0,113600,2,High Spending,18,West,California,San Francisco,41179,3236.509
+18,Middle Aged,Male,Own Home,Married,1,66900,0,High Spending,12,West,Washington,Seattle,39945,1220.234
+43,Middle Aged,Male,Own Home,Married,1,107300,2,Medium Spending,18,West,Washington,Seattle,40117,1566.222
+90,Young,Female,Renting,Married,1,42000,3,Low Spending,6,West,Washington,Seattle,41043,105.176
+126,Middle Aged,Female,Own Home,Married,1,93400,2,NA,24,West,Washington,Seattle,42029,3079.074
+139,Middle Aged,Male,Own Home,No,1,66600,0,High Spending,18,West,Washington,Seattle,41943,1177.31
+200,Young,Female,Renting,No,1,31300,1,Low Spending,6,West,Washington,Seattle,40321,357.044
+208,Old,Female,Renting,No,1,33600,0,Medium Spending,12,West,Washington,Seattle,40250,573.202
+214,Middle Aged,Female,Renting,No,1,39700,3,Low Spending,12,West,Washington,Seattle,40167,238.067
+216,Middle Aged,Male,Own Home,Married,1,96100,3,Low Spending,12,West,Washington,Seattle,40950,316.151
+240,Middle Aged,Male,Own Home,Married,1,100000,1,High Spending,24,West,Washington,Seattle,41351,2247.366
+249,Middle Aged,Male,Renting,Married,1,106100,3,Low Spending,12,West,Washington,Seattle,40870,472.047
+252,Middle Aged,Male,Renting,No,1,45200,1,Medium Spending,18,West,Washington,Seattle,42080,698.614
+264,Middle Aged,Male,Own Home,No,1,59700,1,NA,18,West,Washington,Seattle,42111,1422.173
+273,Middle Aged,Male,Own Home,No,1,65300,3,Low Spending,6,West,Washington,Seattle,41036,192.569
+357,Middle Aged,Female,Own Home,Married,1,109800,1,High Spending,24,West,Washington,Seattle,40125,2258.049
+362,Young,Female,Renting,No,1,19400,1,NA,18,West,Washington,Seattle,42192,384.248
+387,Young,Male,Renting,No,1,21300,1,NA,12,West,Washington,Seattle,42102,329.134
+403,Middle Aged,Male,Renting,No,1,63800,1,Medium Spending,24,West,Washington,Seattle,41066,1621.632
+454,Middle Aged,Male,Renting,No,1,50500,0,Medium Spending,12,West,Washington,Seattle,40633,1028.879
+486,Old,Female,Renting,Married,1,65900,0,High Spending,12,West,Washington,Seattle,42090,777.328
+514,Young,Male,Renting,Married,1,37200,1,Low Spending,6,West,Washington,Seattle,40786,247.007
+521,Middle Aged,Female,Renting,No,1,48100,0,Medium Spending,12,West,Washington,Seattle,42010,781.619
+522,Middle Aged,Male,Own Home,Married,1,96300,1,High Spending,12,West,Washington,Seattle,39992,1081.269
+525,Middle Aged,Male,Renting,Married,0,83500,2,High Spending,24,West,Washington,Seattle,40937,2098.225
+529,Old,Female,Renting,Married,1,41700,0,Medium Spending,18,West,Washington,Seattle,41891,1397.716
+551,Middle Aged,Female,Renting,No,1,32100,2,Low Spending,24,West,Washington,Seattle,41507,404.823
+603,Young,Male,Renting,Married,0,41500,3,NA,24,West,Washington,Seattle,42103,1314.456
+656,Middle Aged,Male,Renting,No,0,60200,0,High Spending,24,West,Washington,Seattle,40415,2304.079
+715,Middle Aged,Female,Renting,No,1,33200,1,NA,6,West,Washington,Seattle,42204,320.344
+783,Middle Aged,Male,Own Home,Married,0,123000,1,High Spending,24,West,Washington,Seattle,41706,5877.734
+798,Middle Aged,Male,Own Home,No,1,74400,0,High Spending,12,West,Washington,Seattle,42174,1152.103
+859,Young,Female,Renting,Married,1,25900,1,Low Spending,6,West,Washington,Seattle,41662,242.129
+865,Middle Aged,Male,Own Home,Married,1,71600,1,NA,12,West,Washington,Seattle,42146,1197.909
+867,Young,Female,Renting,No,1,16300,1,NA,12,West,Washington,Seattle,42062,470.382
+868,Young,Male,Renting,Married,1,45500,0,Medium Spending,6,West,Washington,Seattle,40289,754.241
+940,Middle Aged,Male,Own Home,Married,0,140000,0,High Spending,12,West,Washington,Seattle,39870,4894.284
+954,Middle Aged,Female,Own Home,No,1,53700,3,Low Spending,12,West,Washington,Seattle,40532,235.452
+966,Old,Female,Renting,No,0,14000,0,Low Spending,12,West,Washington,Seattle,42126,409.896
+985,Middle Aged,Male,Own Home,Married,0,70000,1,NA,6,West,Washington,Seattle,42156,1227.235
+996,Middle Aged,Female,Own Home,No,1,53800,0,Medium Spending,12,West,Washington,Seattle,42230,842.72
+21,Old,Female,Own Home,No,0,28300,0,Medium Spending,24,Midwest,Missouri,St. Louis,40112,932.843
+32,Middle Aged,Male,Own Home,Married,1,95800,3,Low Spending,12,Midwest,Missouri,St. Louis,41306,678.378
+95,Old,Male,Own Home,No,1,45700,0,Medium Spending,18,Midwest,Missouri,St. Louis,40912,724.172
+121,Young,Female,Renting,No,1,13400,1,Low Spending,12,Midwest,Missouri,St. Louis,41434,142.547
+175,Young,Male,Renting,No,1,27100,1,Low Spending,12,Midwest,Missouri,St. Louis,41514,268.311
+176,Middle Aged,Female,Own Home,No,1,46600,2,NA,18,Midwest,Missouri,St. Louis,42172,1152.772
+191,Middle Aged,Male,Own Home,Married,1,106400,0,NA,12,Midwest,Missouri,St. Louis,42241,1757.404
+217,Young,Female,Renting,No,1,11700,0,Low Spending,12,Midwest,Missouri,St. Louis,41449,192.577
+276,Young,Female,Renting,No,1,14600,1,Low Spending,6,Midwest,Missouri,St. Louis,41159,142.819
+340,Middle Aged,Female,Own Home,Married,1,68500,2,NA,12,Midwest,Missouri,St. Louis,42096,1499.842
+349,Middle Aged,Male,Renting,No,0,58600,2,NA,6,Midwest,Missouri,St. Louis,42021,988.759
+361,Middle Aged,Male,Own Home,Married,0,122100,0,High Spending,12,Midwest,Missouri,St. Louis,41130,2408.482
+407,Middle Aged,Male,Own Home,No,0,59600,2,Medium Spending,18,Midwest,Missouri,St. Louis,42169,1216.682
+419,Middle Aged,Female,Own Home,Married,0,99200,0,High Spending,24,Midwest,Missouri,St. Louis,41269,5503.395
+428,Middle Aged,Female,Own Home,No,1,35800,1,NA,24,Midwest,Missouri,St. Louis,42185,1355.154
+441,Young,Female,Renting,No,0,12800,1,NA,24,Midwest,Missouri,St. Louis,42239,365.486
+471,Young,Male,Renting,Married,1,56300,0,NA,24,Midwest,Missouri,St. Louis,42223,1607.599
+488,Middle Aged,Male,Own Home,Married,1,88100,2,Medium Spending,24,Midwest,Missouri,St. Louis,40551,1078.499
+554,Old,Female,Renting,No,1,21400,0,Low Spending,18,Midwest,Missouri,St. Louis,41561,497.736
+710,Middle Aged,Male,Renting,No,1,43200,0,NA,24,Midwest,Missouri,St. Louis,42054,916.712
+711,Young,Male,Renting,No,1,14400,0,NA,24,Midwest,Missouri,St. Louis,42096,615.161
+713,Middle Aged,Male,Own Home,No,1,55500,3,Low Spending,18,Midwest,Missouri,St. Louis,42204,427.176
+749,Old,Female,Renting,Married,1,39700,0,Medium Spending,12,Midwest,Missouri,St. Louis,41584,572.765
+784,Middle Aged,Female,Own Home,Married,1,71900,0,High Spending,18,Midwest,Missouri,St. Louis,42015,1845.775
+791,Young,Male,Renting,No,1,20900,0,NA,6,Midwest,Missouri,St. Louis,42181,295.749
+812,Young,Female,Renting,No,0,13500,2,Low Spending,12,Midwest,Missouri,St. Louis,40300,159.604
+832,Middle Aged,Male,Own Home,Married,1,65800,1,NA,12,Midwest,Missouri,St. Louis,42019,1016.741
+869,Young,Female,Own Home,No,0,33200,2,Medium Spending,12,Midwest,Missouri,St. Louis,39927,606.672
+915,Middle Aged,Male,Renting,No,1,70000,0,High Spending,6,Midwest,Missouri,St. Louis,40340,784.701
+929,Young,Female,Renting,No,0,25600,2,NA,18,Midwest,Missouri,St. Louis,42022,425.718
